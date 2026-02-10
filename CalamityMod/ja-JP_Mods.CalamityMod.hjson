@@ -25337,7 +25337,7 @@ Items: {
 		}
 
 		NightmareFuel: {
-			Tooltip: 「狂いそうだ....」
+			Tooltip: 「正気を失ってしまいそうだ」
 			DisplayName: 悪夢の燃料
 		}
 
