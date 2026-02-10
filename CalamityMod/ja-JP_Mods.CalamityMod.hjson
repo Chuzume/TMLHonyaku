@@ -19146,7 +19146,7 @@ Items: {
 
 		BrimstoneSlabWall: {
 			Tooltip: ""
-			DisplayName: 煉獄の石板の壁
+			DisplayName: 煉獄の平石の壁
 		}
 
 		AstralStoneWall: {
@@ -22275,7 +22275,7 @@ Items: {
 
 		BrimstoneSlab: {
 			Tooltip: ""
-			DisplayName: 煉獄の石板
+			DisplayName: 煉獄の平石
 		}
 
 		AstralStone: {
