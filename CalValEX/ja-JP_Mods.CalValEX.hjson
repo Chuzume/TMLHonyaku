@@ -2929,7 +2929,7 @@ NPCs: {
 	}
 
 	Violemur: {
-		DisplayName: ヴィオレムール
+		DisplayName: ヴィオレマー
 	}
 
 	Vaporofly: {
@@ -2977,7 +2977,7 @@ NPCs: {
 	}
 
 	GoldViolemur: {
-		DisplayName: 金色のヴィオレムール
+		DisplayName: 金色のヴィオレマー
 	}
 
 	GoldEyedol: {
@@ -3849,7 +3849,7 @@ Items: {
 
 	ViolemurStatue: {
 		Tooltip: ""
-		DisplayName: ヴィオレムールの石像
+		DisplayName: ヴィオレマーの石像
 	}
 
 	ShrineoftheTides: {
@@ -4957,7 +4957,7 @@ Items: {
 
 	ViolemurMonolith: {
 		Tooltip: ""
-		DisplayName: ヴィオレムールの止まり木
+		DisplayName: ヴィオレマーの止まり木
 	}
 
 	SwearshroomCage: {
@@ -5002,7 +5002,7 @@ Items: {
 
 	GoldViolemurMonolith: {
 		Tooltip: ""
-		DisplayName: テラリウム（金色のヴィオレムール）
+		DisplayName: テラリウム（金色のヴィオレマー）
 	}
 
 	GoldEyedolTerrarium: {
@@ -5271,7 +5271,7 @@ Items: {
 
 	ViolemurBanner: {
 		Tooltip: ""
-		DisplayName: ヴィオレムールのバナー
+		DisplayName: ヴィオレマーのバナー
 	}
 
 	VeilBanner: {
@@ -6645,7 +6645,7 @@ Items: {
 		Tooltip:
 			'''
 			あたりを照らす小さな採掘機を召喚する
-			注意: リペアユニットとペアリングすると過充電を起こします！
+			注意: リペアユニットとのペアリングで過充電を起こします！
 			'''
 		DisplayName: 建設リモコン
 	}
@@ -6721,18 +6721,18 @@ Items: {
 	}
 
 	ProfanedHook: {
-		DisplayName: 冒涜されたフック
+		DisplayName: 冒涜されしフック
 	}
 
 	ProfanedEnergyHook: {
 		Tooltip:
 			'''
-			「聖なる鎖なんてクソくらえだ」
+			「聖なる鎖をジャラジャラさせる」
 			リーチ: 37
 			発射速度: 16
 			引っ張り速度: 30 
 			'''
-		DisplayName: 冒涜されたフック
+		DisplayName: 冒涜されしフック
 	}
 
 	PhantomHook: {
@@ -6742,7 +6742,7 @@ Items: {
 	PolterHook: {
 		Tooltip:
 			'''
-			「永遠に苦しむ魂たちにお前を引きずらせてやるぜ！」
+			「亡霊たちが君を引っ張ってくれる」
 			リーチ: 46
 			発射速度: 16
 			引っ張り速度: 20 
@@ -6757,7 +6757,7 @@ Items: {
 	MawHook: {
 		Tooltip:
 			'''
-			「先史時代のひっぱり！」
+			「先史時代の牽引力！」
 			リーチ: 31
 			発射速度: 18
 			引っ張り速度: 17 
@@ -6824,7 +6824,7 @@ Items: {
 	PlaguePack: {
 		Tooltip:
 			'''
-			「そして彼らはなぜハチが飛び立てるのかを疑問に思った」
+			「ミツバチがなぜ飛び立てるかを、彼らは不思議に思った」
 			水平速度 7.8
 			加速倍率: 1.9
 			飛行可能時間: 170 
@@ -6835,7 +6835,7 @@ Items: {
 	OldWings: {
 		Tooltip:
 			'''
-			「毒々しい推進力！」
+			「毒々しい上昇力！」
 			水平速度 9.5
 			加速倍率: 2.7
 			飛行可能時間: 190 
@@ -6846,7 +6846,7 @@ Items: {
 	OldVoidWings: {
 		Tooltip:
 			'''
-			「文字通り闇から得たもの」
+			「文字通り、闇から取り出したもの」
 			水平速度 9
 			加速倍率: 2.5
 			飛行可能時間: 250 
@@ -6879,7 +6879,7 @@ Items: {
 	GodspeedBoosters: {
 		Tooltip:
 			'''
-			「信心深い推進力！」
+			「信心深い上昇力！」
 			水平速度 9
 			加速倍率: 2.7
 			飛行可能時間: 200 
@@ -6920,7 +6920,7 @@ Items: {
 
 	SandyBangles: {
 		Tooltip: 装備者を砂で包む
-		DisplayName: サンドバングル
+		DisplayName: 砂の腕輪
 	}
 
 	ProtoRing: {
@@ -6939,13 +6939,13 @@ Items: {
 	}
 
 	ReaperSharkArms: {
-		Tooltip: ジム通いがこんなに簡単だったとはな！
+		Tooltip: ジム通いがこんなに簡単になったなんて！
 		DisplayName: リーパーシャークの腕
 	}
 
 	ProfanedCultistRobes: {
 		Tooltip: ""
-		DisplayName: 冒涜された信者のローブ
+		DisplayName: 冒涜されし信者のローブ
 	}
 
 	Polterskirt: {
@@ -7027,12 +7027,12 @@ Items: {
 	}
 
 	TrilobiteShield: {
-		Tooltip: 「古すぎて役に立たない古代の盾」
-		DisplayName: トリロバックラー
+		Tooltip: 「古すぎて攻撃が防げない、古代の盾」
+		DisplayName: 三葉虫の小盾
 	}
 
 	EarthShield: {
-		Tooltip: 「頑丈そうに見えるが、実は柔らかい石で出来ているぞ！」
+		Tooltip: 「一見頑丈そうだが、実は柔らかい石で出来ている！」
 		DisplayName: アースエレメンタルの大盾
 	}
 
@@ -7042,12 +7042,12 @@ Items: {
 	}
 
 	YharonShackle: {
-		Tooltip: ギリギリ入るな…
+		Tooltip: かろうじてサイズが合っている…
 		DisplayName: ヤーロンの足枷
 	}
 
 	UniversalWormScarf: {
-		Tooltip: 「現実を捻じ曲げなくたって万物は喰らえる」
+		Tooltip: 「万物を喰らえ、世界の理を捻じ曲げずに」
 		DisplayName: ユニバーサルワームスカーフ
 	}
 
@@ -7062,12 +7062,12 @@ Items: {
 	}
 
 	RapturedWormScarf: {
-		Tooltip: 現実を捻じ曲げるほどにスタイリッシュ！
+		Tooltip: 世界の理が捻じ曲がるほどにスタイリッシュ！
 		DisplayName: ラプチャードワームスカーフ
 	}
 
 	ProviCrystal: {
-		Tooltip: 冒涜された女神から贈られた希少な宝物
+		Tooltip: 冒涜されし女神から贈られた希少な宝物
 		DisplayName: アンホーリーチャーム
 	}
 
@@ -7078,7 +7078,7 @@ Items: {
 
 	DesertMedallion: {
 		Tooltip: もう一個の方は呪われてて装備できないので
-		DisplayName: お手頃価格のデザートメダリオン
+		DisplayName: お手頃価格の砂漠のメダリオン
 	}
 
 	CosmicWormScarf: {
@@ -7087,7 +7087,7 @@ Items: {
 	}
 
 	BloodwormScarf: {
-		Tooltip: 血みどろな生物が君の首に穴を空けようとしているぞ！
+		Tooltip: 血まみれの生物が君の首に穴を空けようとしている！
 		DisplayName: ブラッドワームのスカーフ
 	}
 
@@ -7102,8 +7102,8 @@ Items: {
 	}
 
 	SignusNether: {
-		Tooltip: ダークな下半身
-		DisplayName: 冥界の精神
+		Tooltip: ダーク下半身
+		DisplayName: 冥界の意志
 	}
 
 	PolterStockings: {
@@ -7157,26 +7157,26 @@ Items: {
 	}
 
 	UnloadedHelm: {
-		Tooltip: まだ臭い
+		Tooltip: まだ臭う
 		DisplayName: アンロードヘルム
 	}
 
 	TrueCosmicCone: {
-		Tooltip: "「次元すら突き抜けられるほどに尖った宇宙的にデカい帽子」 "
+		Tooltip: "「次元を貫くほどに尖った、宇宙的にデカい帽子」 "
 		DisplayName: 真・コズミックコーン
 	}
 
 	TerminalMask: {
 		Tooltip:
 			'''
-			この忘却されし神の目を通して、
-			流血と混乱の中、あなたは新たな視点を得た
+			この忘却されし神の目を通して物を見ろ
+			流血と混乱の中、あなたは新たな視点を得るだろう
 			'''
 		DisplayName: 終着点の仮面
 	}
 
 	StonePile: {
-		Tooltip: 「頭が強くないと被れない」
+		Tooltip: 「頭が良くないと被れない」
 		DisplayName: 石柱
 	}
 
@@ -7212,7 +7212,7 @@ Items: {
 
 	ProfanedCultistMask: {
 		Tooltip: ""
-		DisplayName: 冒涜された信者のマスク
+		DisplayName: 冒涜されし信者のマスク
 	}
 
 	PolterMask: {
@@ -7231,7 +7231,7 @@ Items: {
 	}
 
 	OmegaBlue: {
-		Tooltip: お前みたいなワームなんて眼中にないぜ！
+		Tooltip: 竜よ、お前は我が眼中に置くに足りぬ！
 		DisplayName: 古代のオメガブルーの兜
 	}
 
@@ -7291,12 +7291,12 @@ Items: {
 	}
 
 	DevilfishMask2: {
-		Tooltip: すごくエッジが効いている
+		Tooltip: すげーイカしている
 		DisplayName: とがったデビルフィッシュのマスク
 	}
 
 	DevilfishMask1: {
-		Tooltip: エッジが効いている
+		Tooltip: イカしている
 		DisplayName: ねじれたデビルフィッシュのマスク
 	}
 
@@ -7316,17 +7316,17 @@ Items: {
 	}
 
 	CosmicCone: {
-		Tooltip: 天を突き抜けるほどに尖った帽子
+		Tooltip: 天を貫くほどに尖った帽子
 		DisplayName: コズミックコーン
 	}
 
 	CoralMask: {
-		Tooltip: 塩漬け脳みそフル回転
+		Tooltip: しょっぱい発想
 		DisplayName: げっぷサンゴのマスク
 	}
 
 	ClamMask: {
-		Tooltip: タイプミスだよな？
+		Tooltip: タイプミス？
 		DisplayName: クラミタスの帽子
 	}
 
@@ -7387,7 +7387,7 @@ Items: {
 
 	Aestheticrown: {
 		Tooltip: ビテキちゃん
-		DisplayName: エステクレスト
+		DisplayName: エステティトサカ
 	}
 
 	DraedonHelmet: {
@@ -7400,7 +7400,7 @@ Items: {
 	}
 
 	YharimCapeBaby: {
-		Tooltip: 「全然本物じゃない。子どものオモチャみたい」
+		Tooltip: 「こんなの本物じゃない。子どものオモチャみたい」
 		DisplayName: オーリックマント
 	}
 
@@ -7500,7 +7500,7 @@ Items: {
 	}
 
 	AuricBalloon: {
-		Tooltip: 「これのために他の風船を入手しなかった君はラッキーだ。」
+		Tooltip: 「もう他の風船を手に入れなくて良くなったんだから、ラッキーだよ」
 		DisplayName: オーリック風船
 	}
 
@@ -7560,7 +7560,7 @@ Items: {
 
 	ViolemurItem: {
 		Tooltip: ""
-		DisplayName: ヴィオレムール
+		DisplayName: ヴィオレマー
 	}
 
 	SwearshroomItem: {
@@ -7610,7 +7610,7 @@ Items: {
 
 	GoldViolemurItem: {
 		Tooltip: ""
-		DisplayName: 金色のヴィオレムール
+		DisplayName: 金色のヴィオレマー
 	}
 
 	GoldEyedolItem: {
@@ -7800,9 +7800,9 @@ Bestiary: {
 	Xerocodile: ブラッドムーンの間にのみ現れる古代の爬虫類。それ以外の間に地上に出てくるにはあまりにも弱く、日光に晒されるのすら危険。
 	SandTurtle: 放射性の水によって活性化された恐ろしい生き物。
 	Swearshroom: 大きなカニの胞子は、宿主を倒されたことをよく思っていない。この邪悪なキノコは精神病的な傾向にあるが、完全に無害。
-	Violemur: 異星のウイルスの影響を受けた、好奇心旺盛な小さな哺乳類。ヴィオレムールは他の感染した他の生命体とは違い、ある程度の自我を保ち続けている。
+	Violemur: 異星のウイルスの影響を受けた、好奇心旺盛な小さな哺乳類。ヴィオレマーは他の感染した他の生命体とは違い、ある程度の自我を保ち続けている。
 	PlagueFrog: 科学者によって解き放たれた疫病によって、不運にも敵意を持つ生き物だけでなく、カエルのような穏やかな生き物もその影響を受けた。
-	Blightolemur: ヴィオレムールとはまた違った光スペクトルを持つ生き物。ブレアムールはその尻尾の模様を使って獲物を引き寄せながら、アストラルブライトの中で穏やかに遊ぶ。
+	Blightolemur: ヴィオレマーとはまた違った光スペクトルを持つ生き物。ブレアムールはその尻尾の模様を使って獲物を引き寄せながら、アストラルブライトの中で穏やかに遊ぶ。
 	GAstJR: 異星からやってきた知覚力を持つスライム。他のスライムと違って攻撃能力を持たない。
 	AstJR: 異星からやってきた知覚力を持つスライム。他のスライムと違って攻撃能力を持たない。
 	OrthoceraApparition: いつか訪れる黙示録の前触れ。その警告を軽視してはいけない。
@@ -7810,7 +7810,7 @@ Bestiary: {
 	PerfoGrub: 小さなイモムシのような寄生虫で、高い防御力を持つパーフォレーターの悪しき子孫。コイツらを生かしておくのは危険だ！
 	ProvFly: 燃え盛る女神の力の半分を持つ蝶。
 	Orthobab: 殻に覆われし者の新たな子孫。見かけは不格好だが、こういった生き物がいつか恐ろしいものに成長するのかもしれない。
-	GoldViolemur: 珍しい小動物の一種。金色のヴィオレムールは、他のヴィオレムールのリーダーだと言われている。
+	GoldViolemur: 珍しい小動物の一種。金色のヴィオレマーは、他のヴィオレマーのリーダーだと言われている。
 	GoldEyedol: 特別に作られた偶像で、霊に取り憑かれている。この構造物はかつて首都の支配者が使用していた。
 	GoldenIsopod: 金色のオオグソクムシのようなきらめく生き物は、真っ暗な場所でも見つかるものだ。
 }
