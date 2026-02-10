@@ -19371,12 +19371,12 @@ Items: {
 
 		AerialiteOreDisenchanted: {
 			Tooltip: ""
-			DisplayName: 失活したエリアライト鉱石
+			DisplayName: 失活したエアリアライト鉱石
 		}
 
 		AerialiteOre: {
 			Tooltip: ""
-			DisplayName: エリアライト鉱石
+			DisplayName: エアリアライト鉱石
 		}
 
 		NovaeSlag: {
@@ -22330,7 +22330,7 @@ Items: {
 
 		AerialiteBrick: {
 			Tooltip: ""
-			DisplayName: エリアライトレンガ
+			DisplayName: エアリアライトレンガ
 		}
 
 		Acidwood: {
