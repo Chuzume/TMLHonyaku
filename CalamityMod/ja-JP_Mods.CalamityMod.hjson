@@ -25307,7 +25307,7 @@ Items: {
 		}
 
 		ReaperTooth: {
-			Tooltip: 「ダイヤモンドを加工するのに十分な鋭さだ」
+			Tooltip: 「ダイヤモンドを加工できるくらい鋭い」
 			DisplayName: リーパーの歯
 		}
 
