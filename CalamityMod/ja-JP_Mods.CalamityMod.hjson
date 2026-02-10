@@ -19201,7 +19201,7 @@ Items: {
 
 		AcidwoodWallItem: {
 			Tooltip: ""
-			DisplayName: 酸の木の壁
+			DisplayName: アシッドウッドの壁
 		}
 
 		AbyssGravelWallItem: {
@@ -21174,97 +21174,97 @@ Items: {
 
 		AcidwoodWorkBench: {
 			Tooltip: ""
-			DisplayName: 酸の木の作業台
+			DisplayName: アシッドウッドの作業台
 		}
 
 		AcidwoodTable: {
 			Tooltip: ""
-			DisplayName: 酸の木のテーブル
+			DisplayName: アシッドウッドのテーブル
 		}
 
 		AcidwoodSink: {
 			Tooltip: 水源としてカウントされる
-			DisplayName: 酸の木のシンク
+			DisplayName: アシッドウッドのシンク
 		}
 
 		AcidwoodPlatform: {
 			Tooltip: ""
-			DisplayName: 酸の木の足場
+			DisplayName: アシッドウッドの足場
 		}
 
 		AcidwoodPiano: {
 			Tooltip: ""
-			DisplayName: 酸の木のピアノ
+			DisplayName: アシッドウッドのピアノ
 		}
 
 		AcidwoodLantern: {
 			Tooltip: ""
-			DisplayName: 酸の木のランタン
+			DisplayName: アシッドウッドのランタン
 		}
 
 		AcidwoodLamp: {
 			Tooltip: ""
-			DisplayName: 酸の木のランプ
+			DisplayName: アシッドウッドのランプ
 		}
 
 		AcidwoodDresser: {
 			Tooltip: ""
-			DisplayName: 酸の木のドレッサー
+			DisplayName: アシッドウッドのドレッサー
 		}
 
 		AcidwoodDoor: {
 			Tooltip: ""
-			DisplayName: 酸の木のドア
+			DisplayName: アシッドウッドのドア
 		}
 
 		AcidwoodClock: {
 			Tooltip: ""
-			DisplayName: 酸の木の時計
+			DisplayName: アシッドウッドの時計
 		}
 
 		AcidwoodChest: {
 			Tooltip: ""
-			DisplayName: 酸の木の宝箱
+			DisplayName: アシッドウッドの宝箱
 		}
 
 		AcidwoodChandelier: {
 			Tooltip: ""
-			DisplayName: 酸の木のシャンデリア
+			DisplayName: アシッドウッドのシャンデリア
 		}
 
 		AcidwoodChair: {
 			Tooltip: ""
-			DisplayName: 酸の木のイス
+			DisplayName: アシッドウッドのイス
 		}
 
 		AcidwoodCandle: {
 			Tooltip: ""
-			DisplayName: 酸の木の蝋燭
+			DisplayName: アシッドウッドの蝋燭
 		}
 
 		AcidwoodCandelabra: {
 			Tooltip: ""
-			DisplayName: 酸の木の燭台
+			DisplayName: アシッドウッドの燭台
 		}
 
 		AcidwoodBookcase: {
 			Tooltip: ""
-			DisplayName: 酸の木の本棚
+			DisplayName: アシッドウッドの本棚
 		}
 
 		AcidwoodBench: {
 			Tooltip: ""
-			DisplayName: 酸の木の台
+			DisplayName: アシッドウッドの台
 		}
 
 		AcidwoodBed: {
 			Tooltip: ""
-			DisplayName: 酸の木のベッド
+			DisplayName: アシッドウッドのベッド
 		}
 
 		AcidwoodBathtub: {
 			Tooltip: ""
-			DisplayName: 酸の木の浴槽
+			DisplayName: アシッドウッドの浴槽
 		}
 
 		SmoothAbyssGravelPlatform: {
@@ -22335,7 +22335,7 @@ Items: {
 
 		Acidwood: {
 			Tooltip: ""
-			DisplayName: 酸の木
+			DisplayName: アシッドウッド
 		}
 
 		AbyssGravel: {
