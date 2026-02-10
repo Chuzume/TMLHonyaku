@@ -18976,7 +18976,7 @@ Items: {
 
 		ProfanedSlabWall: {
 			Tooltip: ""
-			DisplayName: 冒涜されたスラブの壁
+			DisplayName: 冒涜された平石の壁
 		}
 
 		ProfanedRockWall: {
@@ -19191,7 +19191,7 @@ Items: {
 
 		AshenSlabWall: {
 			Tooltip: ""
-			DisplayName: 灰スラブの壁
+			DisplayName: 灰の平石の壁
 		}
 
 		AerialiteBrickWall: {
@@ -19526,7 +19526,7 @@ Items: {
 
 		VoidstoneSlab: {
 			Tooltip: ""
-			DisplayName: ボイドストーンのスラブ
+			DisplayName: ボイドストーンの平石
 		}
 
 		VoidSofa: {
@@ -20070,7 +20070,7 @@ Items: {
 
 		ProfanedSlab: {
 			Tooltip: ""
-			DisplayName: 穢れたスラブ
+			DisplayName: 穢れた平石
 		}
 
 		ProfanedSink: {
@@ -20995,7 +20995,7 @@ Items: {
 
 		AshenSlab: {
 			Tooltip: ""
-			DisplayName: 灰のスラブ
+			DisplayName: 灰の平石
 		}
 
 		AshenSink: {
@@ -21086,10 +21086,10 @@ Items: {
 		AshenAccentSlab: {
 			Tooltip:
 				'''
-				灰スラブの変種は、近くのブロックと異なる形で融合する
+				灰の平石の変種は、近くのブロックと異なる形で融合する
 				先進的な建設業者に好まれる
 				'''
-			DisplayName: 灰のアクセントスラブ
+			DisplayName: アクセント用の灰の平石
 		}
 
 		AncientWorkBench: {
