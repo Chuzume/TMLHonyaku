@@ -285,7 +285,7 @@ Items: {
 	}
 
 	DivineShield: {
-		DisplayName: 神聖の盾
+		DisplayName: 神聖な盾
 		Tooltip:
 			'''
 			被弾後の無敵時間を延長する
