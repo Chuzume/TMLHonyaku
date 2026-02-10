@@ -1064,7 +1064,7 @@ Tiles: {
 	}
 
 	AerialiteOreDisenchanted: {
-		MapEntry: 無力化されたエアリアライト鉱石
+		MapEntry: 失活したエアリアライト鉱石
 	}
 
 	AerialiteOre: {
@@ -19371,7 +19371,7 @@ Items: {
 
 		AerialiteOreDisenchanted: {
 			Tooltip: ""
-			DisplayName: 幻滅したエリアライト鉱石
+			DisplayName: 失活したエリアライト鉱石
 		}
 
 		AerialiteOre: {
