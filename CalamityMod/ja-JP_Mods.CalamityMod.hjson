@@ -18966,7 +18966,7 @@ Items: {
 
 		ScorchedBoneWall: {
 			Tooltip: ""
-			DisplayName: 焦げた骨の壁
+			DisplayName: 焼け焦げた骨の壁
 		}
 
 		RunicProfanedBrickWall: {
@@ -19261,12 +19261,12 @@ Items: {
 
 		ScorchedRemains: {
 			Tooltip: ""
-			DisplayName: 焦げた亡骸
+			DisplayName: 焼け焦げた亡骸
 		}
 
 		ScorchedBone: {
 			Tooltip: ""
-			DisplayName: 焦げた骨
+			DisplayName: 焼け焦げた骨
 		}
 
 		PyreMantleMolten: {
