@@ -19136,7 +19136,7 @@ Items: {
 
 		CelestialRemainsWall: {
 			Tooltip: ""
-			DisplayName: 天の亡骸の壁
+			DisplayName: 天の残骸の壁
 		}
 
 		BrimstoneSlagWall: {
@@ -19261,7 +19261,7 @@ Items: {
 
 		ScorchedRemains: {
 			Tooltip: ""
-			DisplayName: 焼け焦げた亡骸
+			DisplayName: 焼け焦げた残骸
 		}
 
 		ScorchedBone: {
