@@ -11782,7 +11782,7 @@ Items: {
 
 			CelestialClaymore: {
 				Tooltip: 大爆発を起こす宇宙の炎をプレーヤーの近くに生み出す
-				DisplayName: セレスティアルクレイモア
+				DisplayName: 天上の大剣
 			}
 
 			CatastropheClaymore: {
@@ -19136,7 +19136,7 @@ Items: {
 
 		CelestialRemainsWall: {
 			Tooltip: ""
-			DisplayName: 天の残骸の壁
+			DisplayName: 天上の残骸の壁
 		}
 
 		BrimstoneSlagWall: {
