@@ -2945,7 +2945,7 @@ NPCs: {
 	}
 
 	ProvFly: {
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 	}
 
 	PlagueFrog: {
@@ -3001,7 +3001,7 @@ NPCs: {
 	}
 
 	CrystalFly: {
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 	}
 
 	Blinker: {
@@ -3610,8 +3610,8 @@ Items: {
 	}
 
 	ProvidenceAltar: {
-		Tooltip: 冒涜された女神のコアを保持している
-		DisplayName: 冒涜された女神のコアホルダー
+		Tooltip: 冒涜されし女神のコアを保持している
+		DisplayName: 冒涜されし女神のコアホルダー
 	}
 
 	AeroplateWall: {
@@ -3859,7 +3859,7 @@ Items: {
 
 	Provibust: {
 		Tooltip: 「あなたのためなら死ねます、主よ」
-		DisplayName: 冒涜された偶像
+		DisplayName: 冒涜されし偶像
 	}
 
 	PlagueFrogStatue: {
@@ -4443,7 +4443,7 @@ Items: {
 
 	UnholyMonolith: {
 		Tooltip: 「いや、水の色は変わらないよ」
-		DisplayName: 冒涜された噴水
+		DisplayName: 冒涜されし噴水
 	}
 
 	PlagueMonolith: {
@@ -5671,7 +5671,7 @@ Items: {
 			邪悪な革新的野郎を召喚する
 			「ほこりっぽい」
 			'''
-		DisplayName: 冒涜された玩具
+		DisplayName: 冒涜されし玩具
 	}
 
 	PristineExcalibur: {
@@ -5804,7 +5804,7 @@ Items: {
 	FlareRune: {
 		Tooltip:
 			'''
-			冒涜的な宇宙のエネルギーを注がれ、次元的上昇を果たした冒涜された守護者、アヴァロンを召喚する
+			冒涜的な宇宙のエネルギーを注がれ、次元的上昇を果たした冒涜されし守護者、アヴァロンを召喚する
 			「ウォウ」
 			'''
 		DisplayName: フレアルーン
@@ -6419,21 +6419,21 @@ Items: {
 
 	ProfanedFrame: {
 		Tooltip: 何かしらの古代のパーツ
-		DisplayName: 冒涜されたフレーム
+		DisplayName: 冒涜されしフレーム
 	}
 
 	ProfanedCycleItem: {
 		Tooltip:
 			'''
-			乗ることができる冒涜されたバイクを召喚する
+			乗ることができる冒涜されしバイクを召喚する
 			ボスが近くにいるとヘルスとダメージが劇的に減少する 
 			「スタイリッシュに移動したいときに」
 			'''
-		DisplayName: 冒涜されたバイク
+		DisplayName: 冒涜されしバイク
 	}
 
 	ProfanedBattery: {
-		Tooltip: 冒涜された守護者のエネルギーが込められたコア
+		Tooltip: 冒涜されし守護者のエネルギーが込められたコア
 		DisplayName: 聖なるクリスタルコア
 	}
 
@@ -7577,7 +7577,7 @@ Items: {
 
 	ProvFlyItem: {
 		Tooltip: ""
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 	}
 
 	PlagueFrogItem: {
@@ -7642,7 +7642,7 @@ Items: {
 
 	CrystalFlyItem: {
 		Tooltip: ""
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 	}
 
 	BlinkerItem: {
