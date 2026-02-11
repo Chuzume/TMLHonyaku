@@ -2913,11 +2913,11 @@ NPCs: {
 		NPCName3: ネットリア
 		NPCName2: フェフェリ
 		NPCName1: エイカ
-		DisplayName: クラゲの女司祭
+		DisplayName: クラゲの巫女
 	}
 
 	JellyPriestBound: {
-		DisplayName: 縛られたクラゲの女司祭
+		DisplayName: 縛られたクラゲの巫女
 	}
 
 	XerocodileSwim: {
@@ -7876,7 +7876,7 @@ Configs: {
 		}
 
 		TownNPC: {
-			Tooltip: オラクルとクラゲの女司祭がスポーンしなくなる
+			Tooltip: オラクルとクラゲの巫女がスポーンしなくなる
 			Label: タウンNPCを無効化
 		}
 
