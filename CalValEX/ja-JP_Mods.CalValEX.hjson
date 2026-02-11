@@ -2899,20 +2899,20 @@ NPCs: {
 			Content: ここ祠を作るには良い場所ですね。
 		}
 
-		NPCName14: Ooma
-		NPCName13: Kuti
-		NPCName12: Crasqua
-		NPCName11: Nidaria
-		NPCName10: Cuboza
-		NPCName9: Mariacala
-		NPCName8: Kanji
-		NPCName7: Signathia
-		NPCName6: Manawa
-		NPCName5: Melodi
-		NPCName4: Atollia
-		NPCName3: Netlia
-		NPCName2: Feferi
-		NPCName1: Eika
+		NPCName14: ウームー
+		NPCName13: クティ
+		NPCName12: クラスクア
+		NPCName11: ニダリア
+		NPCName10: ハコクラ
+		NPCName9: マリアカラ
+		NPCName8: カンジ
+		NPCName7: ヨウジウ
+		NPCName6: マナワ
+		NPCName5: メロディ
+		NPCName4: アトリア
+		NPCName3: ネットリア
+		NPCName2: フェフェリ
+		NPCName1: エイカ
 		DisplayName: クラゲの女司祭
 	}
 
