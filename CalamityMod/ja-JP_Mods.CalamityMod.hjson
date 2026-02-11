@@ -1290,37 +1290,37 @@ Status: {
 		PermafrostBH2Text: 戦いで疲れてきたか、冒険者よ？腹も減っていよう。おいしい肉でもどうだ？
 		PermafrostBirbSwarmText: あの弾幕は...少しやりすぎたな。代わりに、鳥たちはどうだ？
 		PermafrostSummonText: 果てなき苦行に挑む覚悟はあるか？
-		SCalDesparationText4Rematch: お前の未来がどうなるか、私には想像もできない。
-		SCalDesparationText3Rematch: お前が彼と同じ過ちを犯さないことを願っている。
-		SCalDesparationText2Rematch: これから先、間違いなく私より強い敵と戦うことになるだろう。
-		SCalDesparationText1Rematch: 見事な戦いだった...この勝負はお前の勝ちだ。
-		SCalSepulcher2TextRematch: 這い寄る墓が再び姿を現す、これが最後だ。
-		SCalBH5TextRematch: ワクワクしてこないか？
-		SCalSeekerRingTextRematch: お前の技は少しも鈍っていない。
-		SCalBH4TextRematch: 初めて戦ってから、私を悪夢で見たことはあるか？
-		SCalPhase2TextRematch: もう一度だ。
-		SCalBrothersTextRematch: 彼らはかつての姿を保ってはいるが、もはやただの残骸だ。魂の欠片すら残っているかどうか疑わしい。
-		SCalBH3TextRematch: こんなに面白い獲物に魔法を試すのは久しぶりだな...
-		SCalBH2TextRematch: 勝つためには、まだ努力が必要だな。
-		SCalStartTextRematch: 時が来たら、私の創造に加わりたいか？
-		SCalSummonTextRematch: そんなに大火傷を負いたいのか？相手をしてやろう...
-		SCalAcceptanceText3: これからはすべてお前の手に委ねられる...
-		SCalAcceptanceText2: 私はもう彼を、そしてお前を恨む力すら残っていない...
-		SCalAcceptanceText1: 彼がすべてを捨てたとしても、その力だけは残る。
-		SCalDesparationText4: そして...その道にも未来はないのだ。
-		SCalDesparationText3: お前が私を倒せば、お前には一つの道しか残らない。
-		SCalDesparationText2: ここで負けたら、私には未来がない。
+		SCalDesparationText4Rematch: これからお前がどんな未来を歩むのか、想像もつかないな。
+		SCalDesparationText3Rematch: お前はあの男と同じ過ちを犯さないと信じている。
+		SCalDesparationText2Rematch: これから先、私より強い敵と戦うことになるだろう。
+		SCalDesparationText1Rematch: 見事な戦いだった…この勝負、お前の勝ちだ。
+		SCalSepulcher2TextRematch: 這い寄る墓よ、姿を現せ。これが最後だ。
+		SCalBH5TextRematch: 楽しくなってきたな。
+		SCalSeekerRingTextRematch: 腕は少しも鈍ってないようだな。
+		SCalBH4TextRematch: 初めて戦ってから、悪夢に私が出たりしてないか？
+		SCalPhase2TextRematch: さぁ、もう一度だ。
+		SCalBrothersTextRematch: かつての面影を残してはいるが、もはや抜け殻だ。魂の欠片すら残っていないだろうな。
+		SCalBH3TextRematch: こんなに面白いターゲットダミーは久しぶりだぞ。
+		SCalBH2TextRematch: 簡単に勝てると思うなよ。本気で来い。
+		SCalStartTextRematch: 時が来たら、私の創造物に加わらないか？
+		SCalSummonTextRematch: そんなに大火傷を負いたいのか？いいだろう、相手になってやる。
+		SCalAcceptanceText3: あとは、すべてお前に託そう。
+		SCalAcceptanceText2: 私には、あの男を、そしてお前を恨む力すら残っていない…
+		SCalAcceptanceText1: あの男がすべてを捨てたとしても、力だけは残るだろう。
+		SCalDesparationText4: そして、その道にも…未来はない。
+		SCalDesparationText3: 私を倒せば、お前に残された道はただ一つとなる。
+		SCalDesparationText2: ここで敗れれば、私に未来はない。
 		SCalDesparationText1: もうやめろ！
-		SCalSepulcher2Text: すべてが終わり、最後に残る者がただ一人だとして、それがお前なら、それになんの価値があるんだ？
-		SCalBH5Text: 本来、お前には関係のないことだったはずだ。口出しするんじゃない！
-		SCalSeekerRingText: 無謀にも盗み、殺し、力を得た愚か者。誰のことだろうな...
-		SCalBH4Text: 逃げようなどと考えるのは馬鹿げている。お前は生きている限り、苦しむことになるんだ。
-		SCalPhase2Text: お前は大いに苦しむことになる。
-		SCalBrothersText: 私の家族に会わせてやろう...
-		SCalBH3Text: お前は強大な力を手に入れたが、それを振るうのは自分のためだけだ。
-		SCalBH2Text: 少し前に辛うじて私のコピー...贋作を倒したばかりだろう。あんなもの、失敗作と言ってもいいんじゃないか？
-		SCalStartText: お前は生きていてはいけない存在だ...
-		SCalSummonText: 地獄を楽しんでいるか？
+		SCalSepulcher2Text: すべてが終わり、最後にただ一人…お前が残ったとしたら、この戦いに何の価値があるというんだ？
+		SCalBH5Text: 元々お前には関係のないことだろう。口出しするんじゃない！
+		SCalSeekerRingText: 無謀にも奪い、殺し、力を得た成り上がり…誰かを思い出すな？
+		SCalBH4Text: 逃げようとなどと考えるなよ。お前はその命が続く限り、苦しむことになるのだからな。
+		SCalPhase2Text: これから、存分に苦しむことになるぞ。
+		SCalBrothersText: 私の家族に会わせてやろうじゃないか。醜いものだろう？
+		SCalBH3Text: 大した力を手に入れたようだが、それを振るうのは己のためだけか。
+		SCalBH2Text: ついこのこの前、私の分身をかろうじて倒したばかりだったか。ずいぶんと無様だったな？
+		SCalStartText: あの時、死んでおけばよかったものを…
+		SCalSummonText: 地獄を見るのが好きなようだな？
 		DraedonMechdusaEndText2: いや....
 		DraedonMechdusaEndText1: 待て、何？どうやって...
 		DraedonMechdusaBeginText: ...死ね。
