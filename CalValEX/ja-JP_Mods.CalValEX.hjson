@@ -2814,20 +2814,20 @@ NPCs: {
 			Content: 結構くつろげてるよ。
 		}
 
-		NPCName14: Mabel
-		NPCName13: Alex
-		NPCName12: Rebecca
-		NPCName11: Leah
-		NPCName10: Rachel
-		NPCName9: Lilith
-		NPCName8: Emily
-		NPCName7: Eve
-		NPCName6: Sammy
-		NPCName5: Gwyn
-		NPCName4: Lex
-		NPCName3: Gabriel
-		NPCName2: Tiggy
-		NPCName1: Maddi
+		NPCName14: メイベル
+		NPCName13: アレックス
+		NPCName12: レベッカ
+		NPCName11: リア
+		NPCName10: レイチェル
+		NPCName9: リリス
+		NPCName8: エミリー
+		NPCName7: イヴ
+		NPCName6: サミー
+		NPCName5: グウィン
+		NPCName4: レックス
+		NPCName3: ガブリエル
+		NPCName2: ティギー
+		NPCName1: マディ
 		DisplayName: 予言者
 	}
 
