@@ -19582,17 +19582,17 @@ Items: {
 		}
 
 		EutrophicGlass: {
-			DisplayName: ユートロフィックのガラス
+			DisplayName: 富養のガラス
 			Tooltip: ""
 		}
 
 		EutrophicSand: {
-			DisplayName: ユートロフィックの砂
+			DisplayName: 富養の砂
 			Tooltip: ""
 		}
 
 		HardenedEutrophicSand: {
-			DisplayName: 硬化したユートロフィックの砂
+			DisplayName: 硬化した富養の砂
 			Tooltip: ""
 		}
 
@@ -23795,12 +23795,12 @@ Items: {
 		}
 
 		EutrophicSandWall: {
-			DisplayName: 危険なユートロフィックの砂の壁
+			DisplayName: 危険な富養の砂の壁
 			Tooltip: ""
 		}
 
 		EutrophicSandWallSafe: {
-			DisplayName: ユートロフィックの砂の壁
+			DisplayName: 富養の砂の壁
 			Tooltip: ""
 		}
 	}
