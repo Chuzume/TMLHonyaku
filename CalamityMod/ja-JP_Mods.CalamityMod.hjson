@@ -19538,8 +19538,8 @@ Items: {
 			DisplayName: パワーセル製造機
 			Tooltip:
 				'''
-				パワーセルを製造する
-				15秒に1個のセルが作られる
+				[i:CalamityMod/DraedonPowerCell]ドレイドンのパワーセルを製造する
+				{0}秒に1個のセルが作られる
 				'''
 		}
 
