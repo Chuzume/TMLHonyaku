@@ -22569,12 +22569,12 @@ Items: {
 		}
 
 		ChargedWulfrumEnergyBarrier: {
-			DisplayName: Charged Wulfrum Energy Barrier
+			DisplayName: 充電済みのウルフラムバリア
 			Tooltip: ""
 		}
 
 		ChargedWulfrumWallMountedBulb: {
-			DisplayName: Charged Wulfrum Wall Mounted Bulb
+			DisplayName: 充電済みのウルフラムの壁掛け電球
 			Tooltip: ""
 		}
 
@@ -22624,7 +22624,7 @@ Items: {
 		}
 
 		WulfrumEnergyBarrier: {
-			DisplayName: Wulfrum Energy Barrier
+			DisplayName: ウルフラムバリア
 			Tooltip: ""
 		}
 
@@ -22644,7 +22644,7 @@ Items: {
 		}
 
 		WulfrumPanels: {
-			DisplayName: Wulfrum Panels
+			DisplayName: ウルフラムパネル
 			Tooltip: ""
 		}
 
@@ -22654,7 +22654,7 @@ Items: {
 		}
 
 		WulfrumPlatform: {
-			DisplayName: Wulfrumの足場
+			DisplayName: ウルフラムの足場
 			Tooltip: ""
 		}
 
@@ -22669,7 +22669,7 @@ Items: {
 		}
 
 		WulfrumSiding: {
-			DisplayName: Wulfrum Siding
+			DisplayName: ウルフラムの外装板
 			Tooltip: ""
 		}
 
@@ -22759,7 +22759,7 @@ Items: {
 		}
 
 		AnodizedWulfrumPanels: {
-			DisplayName: アルマイトウルフラムのパネル
+			DisplayName: アルマイトウルフラムパネル
 			Tooltip: ""
 		}
 
@@ -22804,7 +22804,7 @@ Items: {
 		}
 
 		RoundedAnodizedWulfrumPanels: {
-			DisplayName: 丸みを帯びたアルマイトウルフラムのパネル
+			DisplayName: 丸みを帯びたアルマイトウルフラムパネル
 			Tooltip: ""
 		}
 
@@ -23274,7 +23274,7 @@ Items: {
 		}
 
 		ChargedWulfrumEnergyBarrierWall: {
-			DisplayName: Charged Wulfrum Energy Barrier Wall
+			DisplayName: 充電済みウルフラムバリアの壁
 			Tooltip: ""
 		}
 
@@ -23489,22 +23489,22 @@ Items: {
 		}
 
 		WulfrumComplexPanelWall: {
-			DisplayName: Wulfrum Complex Panel Wall
+			DisplayName: 複雑なウルフラムパネルの壁
 			Tooltip: ""
 		}
 
 		WulfrumEnergyBarrierWall: {
-			DisplayName: Wulfrum Energy Barrier Wall
+			DisplayName: ウルフラムバリアの壁
 			Tooltip: ""
 		}
 
 		WulfrumPanelWall: {
-			DisplayName: Wulfrum Panel Wall
+			DisplayName: ウルフラムパネルの壁
 			Tooltip: ""
 		}
 
 		WulfrumPillar: {
-			DisplayName: Wulfrum Pillar
+			DisplayName: ウルフラムの柱
 			Tooltip: ""
 		}
 
@@ -23519,7 +23519,7 @@ Items: {
 		}
 
 		WulfrumSidingWall: {
-			DisplayName: Wulfrum Siding Wall
+			DisplayName: ウルフラムの外装板の壁
 			Tooltip: ""
 		}
 
