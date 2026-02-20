@@ -19921,7 +19921,7 @@ Items: {
 		}
 
 		BrimstoneLavaFountainItem: {
-			DisplayName: 硫黄の火山口
+			DisplayName: 煉獄の溶岩噴水
 			Tooltip: ""
 		}
 
