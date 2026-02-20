@@ -19465,7 +19465,7 @@ Items: {
 		}
 
 		HazardChevronPanels: {
-			DisplayName: ハザードシェブロンパネル
+			DisplayName: 危険表示パネル
 			Tooltip: ""
 		}
 
@@ -23227,7 +23227,7 @@ Items: {
 		}
 
 		HazardChevronWall: {
-			DisplayName: ハザードシェブロンの壁
+			DisplayName: 危険表示パネルの壁
 			Tooltip: ""
 		}
 
