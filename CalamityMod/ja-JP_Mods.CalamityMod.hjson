@@ -18791,3061 +18791,1056 @@ Items: {
 	}
 
 	Placeables: {
-		WaterTurret: {
+		FormattedBannerName: "{0}のバナー"
+		FormattedBannerTooltip: 以下のモンスターに対してボーナスを得る：{0}
+
+		AcidEelBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AeroSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AmberCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AmethystCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AndroombaBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AnthozoanCrabBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AquaticUrchinBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AriesBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BurrowerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AstraglomerateBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AstralachneaBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AstralProbeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AstralSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AtlasBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AuroraSpiritBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BabyCannonballJellyfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BabyFlakCrabBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BabyGhostBellBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BelchingCoralBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BlindedAnglerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BloatfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BloomSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BobbitWormBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BohldohrBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		BoxJellyfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CalamityEyeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CannonballJellyfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ChaoticPufferBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CladCrabBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ClamBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CloudElementalBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CnidrionBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ColossalSquidBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CrimulanBlightSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CryonBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CryoSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CrystalCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		CuttlefishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		DespairStoneBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		DevilFishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		DiamondCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		DraconicSwarmerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		EarthElementalBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		EbonianBlightSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		EidolistBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		EidolonWyrmJuvenileBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		EmeraldCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		EutrophicRayBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		FearlessGoldfishWarriorBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		FlakCrabBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		FrogfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		FusionFeederBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		GammaSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		GhostBellBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		GiantSquidBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		GnasherBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		GulperEelBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		HadarianBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		HeatSpiritBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		IceClasperBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ImpiousImmolatorBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		InfernalCongealmentBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		IrradiatedSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		LaserfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		LuminousCorvinaBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		MantisBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		MantisShrimpBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		MelterBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		MirageJellyBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		MorayEelBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		NovaBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		NuclearToadBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		OarfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		OrthoceraBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		OverloadedSoldierBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PerennialSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PestilentSlimeBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PhantomSpiritBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PiggyBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PlaguebringerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PlagueChargerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PlagueshellBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		PrismBackBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ProfanedEnergyBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		RadiatorBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ReaperSharkBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		RenegadeWarlockBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		RepairUnitBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		RimehoundBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		RotdogBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		RubyCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SeaSerpentBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SapphireCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ScornEaterBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ScryllarBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SeaFloatyBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SeaMinnowBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ShockstormShuttleBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ShroombleBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SightseerColliderBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SightseerSpitterBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SkyfinBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SlabCrabBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SoulSlurperBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		StellarCulexBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		StormlionBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SulflounderBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SulphurousSkaterBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		SunskaterBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		TopazCrawlerBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ToxicatfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ToxicMinnowBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		TrasherBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		TrilobiteBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		ViperfishBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		VirulingBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		WulfrumAmplifierBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		WulfrumDroneBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		WulfrumGyratorBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		WulfrumHovercraftBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		WulfrumRoverBanner: {
+			DisplayName: "{0}のバナー"
+		}
+
+		AstralPylon: {
+			DisplayName: アストラルのパイロン
 			Tooltip:
 				'''
-				近くの敵に高速の水爆弾を放つ
-				ボスが生きている間は動作を停止する
+				２人以上の住民が近くにいる別のパイロンへテレポート
+				１種につき１つだけ、適したバイオームに設置することができる
 				'''
-			DisplayName: 水タレット
 		}
 
-		PlagueTurret: {
+		CragsPylon: {
+			DisplayName: 煉獄の岩山のパイロン
 			Tooltip:
 				'''
-				近くの敵に向かって追尾ミサイルを発射する
-				ボスが生きている間は動作を停止する
+				別のパイロンにテレポートする
+				バイオームの性質上、近くに村人がいなくてもこのパイロンにテレポートすることができる
+				1種類につき1つだけ、同じバイオームに置くことができる
 				'''
-			DisplayName: 疫病タレット
 		}
 
-		OnyxTurret: {
+		SulphurPylon: {
+			DisplayName: 硫黄のパイロン
 			Tooltip:
 				'''
-				散弾の弾丸を近くの敵に撃ち込む
-				ボスが生きている間は動作を停止する
+				２人以上の住民が近くにいる別のパイロンへテレポート
+				１種につき１つだけ、適したバイオームに設置することができる
 				'''
-			DisplayName: オニキスタレット
 		}
 
-		LaserTurret: {
+		SunkenPylon: {
+			DisplayName: 沈没海のパイロン
 			Tooltip:
 				'''
-				光速のレーザービームで近くの敵を吹き飛ばす
-				ボスが生きている間は動作を停止する
+				２人以上の住民が近くにいる別のパイロンへテレポート
+				１種につき１つだけ、適したバイオームに設置することができる
 				'''
-			DisplayName: レーザータレット
 		}
 
-		LabTurret: {
+		AbyssGravel: {
+			DisplayName: 深淵の砂利
+			Tooltip: ""
+		}
+
+		Acidwood: {
+			DisplayName: アシッドウッド
+			Tooltip: ""
+		}
+
+		AerialiteBrick: {
+			DisplayName: エアリアライトレンガ
+			Tooltip: ""
+		}
+
+		AstralBrick: {
+			DisplayName: アストラルレンガ
+			Tooltip: ""
+		}
+
+		AstralClay: {
+			DisplayName: アストラルの粘土
+			Tooltip: ""
+		}
+
+		AstralDirt: {
+			DisplayName: アストラルの土
+			Tooltip: ""
+		}
+
+		AstralGrassSeeds: {
+			DisplayName: アストラルの草の種
+			Tooltip: アストラルの土の上に草を生やす
+		}
+
+		AstralIce: {
+			DisplayName: アストラルの氷
+			Tooltip: ""
+		}
+
+		AstralMonolith: {
+			DisplayName: アストラルの一枚岩
+			Tooltip: ""
+		}
+
+		AstralSand: {
+			DisplayName: アストラルの砂
+			Tooltip: ""
+		}
+
+		AstralSandstone: {
+			DisplayName: アストラルの砂岩
+			Tooltip: ""
+		}
+
+		AstralSnow: {
+			DisplayName: アストラルの雪
+			Tooltip: ""
+		}
+
+		AstralStone: {
+			DisplayName: アストラルの石
+			Tooltip: ""
+		}
+
+		BrimstoneSlab: {
+			DisplayName: 煉獄の平石
+			Tooltip: ""
+		}
+
+		BrimstoneSlag: {
+			DisplayName: 煉獄の鉱滓
+			Tooltip: ""
+		}
+
+		CelestialRemains: {
+			DisplayName: 天上の残骸
+			Tooltip: ""
+		}
+
+		CinderBlossomSeeds: {
+			DisplayName: シンダーブロッサムの種
+			Tooltip: 焼け跡にシンダーブロッサムの草を生やす
+		}
+
+		CryonicBrick: {
+			DisplayName: クライオニックレンガ
+			Tooltip: ""
+		}
+
+		AgedLaboratoryConsoleItem: {
+			DisplayName: 老朽化した研究所のコンソール
+			Tooltip: ""
+		}
+
+		AgedLaboratoryContainmentBoxItem: {
+			DisplayName: 老朽化した研究所の収納箱
+			Tooltip: ""
+		}
+
+		AgedLaboratoryDisplayItem: {
+			DisplayName: 老朽化した研究所のディスプレイ
+			Tooltip: ""
+		}
+
+		AgedLaboratoryDoorItem: {
+			DisplayName: 老朽化した研究所のドア
+			Tooltip: ""
+		}
+
+		AgedLaboratoryElectricPanelItem: {
+			DisplayName: 老朽化した研究所の電気パネル
+			Tooltip: ""
+		}
+
+		AgedLaboratoryScreenItem: {
+			DisplayName: 老朽化した研究所のスクリーン
+			Tooltip: ""
+		}
+
+		AgedLaboratoryServerItem: {
+			DisplayName: 老朽化した研究所のサーバー
+			Tooltip: ""
+		}
+
+		AgedLaboratoryTerminalItem: {
+			DisplayName: 老朽化した研究所の端末
+			Tooltip: ""
+		}
+
+		AgedReinforcedCrateItem: {
+			DisplayName: 老朽化した補強された箱
+			Tooltip: ""
+		}
+
+		AgedSecurityChest: {
+			DisplayName: 老朽化したセキュリティチェスト
+			Tooltip: ""
+		}
+
+		ChargingStationItem: {
+			DisplayName: 充電ステーション
 			Tooltip:
 				'''
-				散弾銃の弾丸を近くの選手に向けて放つ
-				ボスが生きている間は動作を停止する
+				パワーセルを使ってドレイドンの武器を充電できる
+				アイテムとパワーセルの両方を充電ステーションにセットすると、充電することができる
 				'''
-			DisplayName: 研究所タレット
 		}
 
-		IceTurret: {
+		HazardChevronPanels: {
+			DisplayName: ハザードシェブロンパネル
+			Tooltip: ""
+		}
+
+		LabHologramProjectorItem: {
+			DisplayName: 研究所のホログラムプロジェクター
+			Tooltip: ""
+		}
+
+		LaboratoryConsoleItem: {
+			DisplayName: 研究所のコンソール
+			Tooltip: ""
+		}
+
+		LaboratoryContainmentBoxItem: {
+			DisplayName: 研究所の収納箱
+			Tooltip: ""
+		}
+
+		LaboratoryDisplayItem: {
+			DisplayName: 研究所のディスプレイ
+			Tooltip: ""
+		}
+
+		LaboratoryDoorItem: {
+			DisplayName: 研究所のドア
+			Tooltip: ""
+		}
+
+		LaboratoryElectricPanelItem: {
+			DisplayName: 研究所の電気パネル
+			Tooltip: ""
+		}
+
+		LaboratoryPanels: {
+			DisplayName: 研究所のパネル
+			Tooltip: ""
+		}
+
+		LaboratoryPipePlating: {
+			DisplayName: 研究所のパイプ板
+			Tooltip: ""
+		}
+
+		LaboratoryPlating: {
+			DisplayName: 研究所の板
+			Tooltip: ""
+		}
+
+		LaboratoryScreenItem: {
+			DisplayName: 研究所のスクリーン
+			Tooltip: ""
+		}
+
+		LaboratoryServerItem: {
+			DisplayName: 研究所のサーバー
+			Tooltip: ""
+		}
+
+		LaboratoryShelf: {
+			DisplayName: 研究所の棚
+			Tooltip: ""
+		}
+
+		LaboratoryTerminalItem: {
+			DisplayName: 研究所の端末
+			Tooltip: ""
+		}
+
+		PowerCellFactoryItem: {
+			DisplayName: パワーセル製造機
 			Tooltip:
 				'''
-				近くの敵に壊れやすい氷の霧の爆弾を発射する
-				ボスが生きている間は動作を停止する
+				パワーセルを製造する
+				15秒に1個のセルが作られる
 				'''
-			DisplayName: 氷タレット
 		}
 
-		HostileWaterTurret: {
-			Tooltip: 近くにいるプレイヤーに向かって高速で水を噴射する
-			DisplayName: 敵性水タレット
+		ReinforcedCrateItem: {
+			DisplayName: 補強された箱
+			Tooltip: ""
 		}
 
-		HostilePlagueTurret: {
-			Tooltip: 近くのプレイヤーに向かって追尾ミサイルを発射する
-			DisplayName: 敵性疫病タレット
-		}
-
-		HostileOnyxTurret: {
-			Tooltip: 散弾の弾丸を近くのプレイヤーに向けて放つ
-			DisplayName: 敵性オニキスタレット
-		}
-
-		HostileLaserTurret: {
-			Tooltip: 稲妻のような速さのレーザービームで近くのプレーヤーを吹き飛ばす
-			DisplayName: 敵性レーザータレット
-		}
-
-		HostileLabTurret: {
-			Tooltip: 近くのプレイヤーにレーザー光線を照射する
-			DisplayName: 敵性研究所タレット
-		}
-
-		HostileIceTurret: {
-			Tooltip: 近くのプレイヤーに壊れやすい氷のミスト弾を発射する
-			DisplayName: 敵性氷タレット
-		}
-
-		HostileFireTurret: {
-			Tooltip: 近くのプレーヤーを火炎放射器で攻撃する
-			DisplayName: 敵性タレット
-		}
-
-		FireTurret: {
+		Rock: {
+			DisplayName: 岩
 			Tooltip:
 				'''
-				近くの敵を火炎放射器で攻撃する
-				ボスが生きている間は攻撃できない
+				戦いが終わり、舞い上がった塵がようやく静まりはじめたとき、
+				時の流れを拒んだその岩の上に、一人の僧が座していた。  
+				彼は運命を見つめ、歴史に問いを投げかけた。  
+
+				「過去が永遠であることの、真の代償とは何か？
+				　なぜ未来は、永遠に我らを苦しめ続けるのか？」
 				'''
-			DisplayName: 火炎タレット
 		}
 
-		WulfrumPlatingWall: {
+		RustedPipes: {
+			DisplayName: 錆びたパイプ
 			Tooltip: ""
-			DisplayName: ウルフラムメッキの壁
 		}
 
-		VoidstoneWall: {
+		RustedPlating: {
+			DisplayName: 錆びた板
 			Tooltip: ""
-			DisplayName: ボイドストーンの壁
 		}
 
-		VoidstoneSlabWall: {
+		RustedShelf: {
+			DisplayName: 錆びた棚
 			Tooltip: ""
-			DisplayName: ボイドストーンレンガの壁
 		}
 
-		UelibloomBrickWall: {
+		SecurityChest: {
+			DisplayName: セキュリティチェスト
 			Tooltip: ""
-			DisplayName: ウエリブルームレンガの壁
 		}
 
-		SulphurousShaleWall: {
+		EutrophicGlass: {
+			DisplayName: ユートロフィックの草
 			Tooltip: ""
-			DisplayName: 硫黄の頁岩の壁
 		}
 
-		SulphurousSandWall: {
+		EutrophicSand: {
+			DisplayName: ユートロフィックの砂
 			Tooltip: ""
-			DisplayName: 硫黄の砂の壁
 		}
 
-		SulphurousSandstoneWall: {
+		HardenedEutrophicSand: {
+			DisplayName: 硬化したユートロフィックの砂
 			Tooltip: ""
-			DisplayName: 硫黄の砂岩の壁
 		}
 
-		StratusWall: {
+		AlgalSlateItem: {
+			DisplayName: Algal Slate
 			Tooltip: ""
-			DisplayName: 層雲の壁
 		}
 
-		StatigelWall: {
+		PeatItem: {
+			DisplayName: Peat
 			Tooltip: ""
-			DisplayName: 精製ジェルの壁
 		}
 
-		SmoothVoidstoneWall: {
+		PeatMossItem: {
+			DisplayName: Peat Moss
 			Tooltip: ""
-			DisplayName: 滑らかなボイドストーンの壁
 		}
 
-		SmoothNavystoneWall: {
+		ScintillatingBloom: {
+			DisplayName: Scintillating Bloom
 			Tooltip: ""
-			DisplayName: 滑らかなネイビーストンの壁
 		}
 
-		SmoothBrimstoneSlagWall: {
+		AbyssTreasureChest: {
+			DisplayName: 古代のトレジャーチェスト
 			Tooltip: ""
-			DisplayName: 滑らかな煉獄の鉱滓の壁
 		}
 
-		SmoothAbyssGravelWall: {
-			Tooltip: ""
-			DisplayName: 滑らかな深淵の砂利の壁
-		}
-
-		SilvaWall: {
-			Tooltip: ""
-			DisplayName: シルヴァの壁
-		}
-
-		ScoriaBrickWall: {
-			Tooltip: ""
-			DisplayName: スコリアレンガの壁
-		}
-
-		ScorchedBoneWall: {
-			Tooltip: ""
-			DisplayName: 焼け焦げた骨の壁
-		}
-
-		RunicProfanedBrickWall: {
-			Tooltip: ""
-			DisplayName: ルーンの冒涜されたレンガの壁
-		}
-
-		ProfanedSlabWall: {
-			Tooltip: ""
-			DisplayName: 冒涜された平石の壁
-		}
-
-		ProfanedRockWall: {
-			Tooltip: ""
-			DisplayName: 冒涜された岩の壁
-		}
-
-		ProfanedCrystalWall: {
-			Tooltip: ""
-			DisplayName: 冒涜された水晶の壁
-		}
-
-		PlaguedPlateWall: {
-			Tooltip: ""
-			DisplayName: 疫病抑制の壁
-		}
-
-		PlagueContainmentCellsWall: {
-			Tooltip: ""
-			DisplayName: プレイグプレートの壁
-		}
-
-		PerennialBrickWall: {
-			Tooltip: ""
-			DisplayName: ペレニアルレンガの壁
-		}
-
-		OtherworldlyStoneWall: {
-			Tooltip: ""
-			DisplayName: 別世界の石の壁
-		}
-
-		OnyxplateWall: {
-			Tooltip: ""
-			DisplayName: オニキスプレートの壁
-		}
-
-		OccultBrickWallItem: {
-			Tooltip: ""
-			DisplayName: 呪いのレンガの壁
-		}
-
-		NavystoneWallSafe: {
-			Tooltip: ""
-			DisplayName: ネイビーストーンの壁
-		}
-
-		NavystoneWall: {
-			Tooltip: ""
-			DisplayName: 危険なネイビーストーンの壁
-		}
-
-		NavyplateWall: {
-			Tooltip: ""
-			DisplayName: ネイビープレートの壁
-		}
-
-		HavocplateWall: {
-			Tooltip: ""
-			DisplayName: ハボックプレートの壁
-		}
-
-		HardenedSulphurousSandstoneWall: {
-			Tooltip: ""
-			DisplayName: 硬化した硫黄の砂岩の壁
-		}
-
-		HardenedAstralSandWall: {
-			Tooltip: ""
-			DisplayName: 硬化したアストラルの砂の壁
-		}
-
-		FloralWall: {
-			Tooltip: ""
-			DisplayName: 花の壁
-		}
-
-		ExoPrismPanelWallItem: {
-			Tooltip: ""
-			DisplayName: エクソプリズムパネルの壁
-		}
-
-		ExoPlatingWallItem: {
-			Tooltip: ""
-			DisplayName: エクソプレートの壁
-		}
-
-		EutrophicSandWallSafe: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの砂の壁
-		}
-
-		EutrophicSandWall: {
-			Tooltip: ""
-			DisplayName: 危険なユートロフィックの砂の壁
-		}
-
-		ElumplateWall: {
-			Tooltip: ""
-			DisplayName: エルムプレートの壁
-		}
-
-		RustedPlatingWall: {
-			Tooltip: ""
-			DisplayName: 錆びたプレートの壁
-		}
-
-		RustedPlatePillar: {
-			Tooltip: ""
-			DisplayName: 錆びたプレートの柱
-		}
-
-		RustedPlateBeam: {
-			Tooltip: ""
-			DisplayName: 錆びたプレートの梁
-		}
-
-		LaboratoryPlatingWall: {
-			Tooltip: ""
-			DisplayName: 研究所のプレートの壁
-		}
-
-		LaboratoryPlatePillar: {
-			Tooltip: ""
-			DisplayName: 研究所のプレートの柱
-		}
-
-		LaboratoryPlateBeam: {
-			Tooltip: ""
-			DisplayName: 研究所のプレートの梁
-		}
-
-		LaboratoryPanelWall: {
-			Tooltip: ""
-			DisplayName: 研究所パネルの壁
-		}
-
-		HazardChevronWall: {
-			Tooltip: ""
-			DisplayName: ハザードシェブロンの壁
-		}
-
-		CryonicBrickWall: {
-			Tooltip: ""
-			DisplayName: クライオニックレンガの壁
-		}
-
-		CosmiliteBrickWall: {
-			Tooltip: ""
-			DisplayName: コズミライトレンガの壁
-		}
-
-		CinderplateWall: {
-			Tooltip: ""
-			DisplayName: シンダープレートの壁
-		}
-
-		CelestialRemainsWall: {
-			Tooltip: ""
-			DisplayName: 天上の残骸の壁
-		}
-
-		BrimstoneSlagWall: {
-			Tooltip: ""
-			DisplayName: 煉獄の鉱滓の壁
-		}
-
-		BrimstoneSlabWall: {
-			Tooltip: ""
-			DisplayName: 煉獄の平石の壁
-		}
-
-		AstralStoneWall: {
-			Tooltip: ""
-			DisplayName: アストラルの石の壁
-		}
-
-		AstralSnowWall: {
-			Tooltip: ""
-			DisplayName: アストラルの雪の壁
-		}
-
-		AstralSandstoneWall: {
-			Tooltip: ""
-			DisplayName: アストラルの砂岩の壁
-		}
-
-		AstralMonolithWall: {
-			Tooltip: ""
-			DisplayName: アストラルモノリスの壁
-		}
-
-		AstralIceWall: {
-			Tooltip: ""
-			DisplayName: アストラルの氷の壁
-		}
-
-		AstralGrassWall: {
-			Tooltip: ""
-			DisplayName: アストラルの草の壁
-		}
-
-		AstralDirtWall: {
-			Tooltip: ""
-			DisplayName: アストラルの土の壁
-		}
-
-		AstralBrickWall: {
-			Tooltip: ""
-			DisplayName: アストラルレンガの壁
-		}
-
-		AshenSlabWall: {
-			Tooltip: ""
-			DisplayName: 灰の平石の壁
-		}
-
-		AerialiteBrickWall: {
-			Tooltip: ""
-			DisplayName: エアリアライトレンガの壁
-		}
-
-		AcidwoodWallItem: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの壁
-		}
-
-		AbyssGravelWallItem: {
-			Tooltip: ""
-			DisplayName: 深淵の砂利の壁
-		}
-
-		Voidstone: {
-			Tooltip: ""
-			DisplayName: ヴォイドストーン
-		}
-
-		VernalSoil: {
-			Tooltip: ""
-			DisplayName: 春の土壌
-		}
-
-		UelibloomBrick: {
-			Tooltip: ""
-			DisplayName: ウエリブルームレンガ
-		}
-
-		SulphurousShale: {
-			Tooltip: ""
-			DisplayName: 硫黄の頁岩
-		}
-
-		SulphurousSandstone: {
-			Tooltip: ""
-			DisplayName: 硫黄の砂岩
-		}
-
-		SulphurousSand: {
-			Tooltip: ""
-			DisplayName: 硫黄の砂
-		}
-
-		SpineSapling: {
-			Tooltip: 煉獄の鉱滓に大きな脊椎の苗木を植える
-			DisplayName: 小さい脊椎
-		}
-
-		SeaPrismBrick: {
-			Tooltip: ""
-			DisplayName: シープリズムレンガ
-		}
-
-		SeaPrism: {
-			Tooltip: ""
-			DisplayName: シープリズム
-		}
-
-		ScoriaBrick: {
-			Tooltip: ""
-			DisplayName: スコリアレンガ
-		}
-
-		ScorchedRemains: {
-			Tooltip: ""
-			DisplayName: 焼け焦げた残骸
-		}
-
-		ScorchedBone: {
-			Tooltip: ""
-			DisplayName: 焼け焦げた骨
-		}
-
-		PyreMantleMolten: {
-			Tooltip: ""
-			DisplayName: 溶けた火殻岩
-		}
-
-		PyreMantle: {
-			Tooltip: ""
-			DisplayName: 火殻岩
-		}
-
-		PrismShard: {
-			Tooltip: 水中でより明るく光る
-			DisplayName: プリズムの欠片
-		}
-
-		Plagueplate: {
-			Tooltip: 別世界のエネルギーに共鳴する
-			DisplayName: プレイグプレート
-		}
-
-		Onyxplate: {
-			Tooltip: 別世界のエネルギーに共鳴する
-			DisplayName: オニキスプレート
-		}
-
-		Navyplate: {
-			Tooltip: 別世界のエネルギーに共鳴する
-			DisplayName: ネイビープレート
-		}
-
-		Havocplate: {
-			Tooltip: 別世界のエネルギーに共鳴する
-			DisplayName: ハボックプレート
-		}
-
-		Elumplate: {
-			Tooltip: 別世界のエネルギーに共鳴する
-			DisplayName: エラムプレート
-		}
-
-		Cinderplate: {
-			Tooltip: 別世界のエネルギーに共鳴する
-			DisplayName: シンダープレート
-		}
-
-		PlantyMush: {
-			Tooltip: ""
-			DisplayName: プランティマッシュ
-		}
-
-		PerennialBrick: {
-			Tooltip: ""
-			DisplayName: ペレニアルレンガ
-		}
-
-		UelibloomOre: {
-			Tooltip: ""
-			DisplayName: ウエリブルーム鉱石
-		}
-
-		ScoriaOre: {
-			Tooltip: ""
-			DisplayName: スコリア鉱石
-		}
-
-		PerennialOre: {
-			Tooltip: ""
-			DisplayName: ペレニアル鉱石
-		}
-
-		InfernalSuevite: {
-			Tooltip: ""
-			DisplayName: 地獄の変成岩
-		}
-
-		HallowedOre: {
-			Tooltip: ""
-			DisplayName: 聖なる鉱石
-		}
-
-		ExodiumCluster: {
-			Tooltip: 「大いなる未知からの冷たい塊」
-			DisplayName: エクソディウムの塊
-		}
-
-		CryonicOre: {
-			Tooltip: ""
-			DisplayName: クライオニック鉱石
-		}
-
-		AuricOre: {
-			Tooltip: 「長い間失われていた竜の力を注入された岩」
-			DisplayName: オーリック鉱石
-		}
-
-		AstralOre: {
-			Tooltip: ""
-			DisplayName: アストラル鉱石
-		}
-
-		AerialiteOreDisenchanted: {
-			Tooltip: ""
-			DisplayName: 失活したエアリアライト鉱石
-		}
-
-		AerialiteOre: {
-			Tooltip: ""
-			DisplayName: エアリアライト鉱石
-		}
-
-		NovaeSlag: {
-			Tooltip: ""
-			DisplayName: ノバエスラグ
-		}
-
-		Navystone: {
-			Tooltip: ""
-			DisplayName: ネイビーストーン
-		}
-
-		DraedonTalkMusicBox: {
-			Tooltip: CDMusic制作の「Signal Received」再生する
-			DisplayName: オルゴール(コードブレイカー)
-		}
-
-		DraedonExoSelectMusicBox: {
-			Tooltip: CDMusic制作の「Signal Received」を再生する
-			DisplayName: オルゴール(エクソメカ選択)
-		}
-
-		LivingHolyFireBlock: {
-			Tooltip: ""
-			DisplayName: 生きた聖なる炎のブロック
-		}
-
-		LivingGodSlayerFireBlock: {
-			Tooltip: ""
-			DisplayName: 生きたゴッドスレイヤーの炎のブロック
-		}
-
-		LivingBrimstoneFireBlock: {
-			Tooltip: ""
-			DisplayName: 生きた煉獄の炎のブロック
-		}
-
-		HardenedSulphurousSandstone: {
-			Tooltip: ""
-			DisplayName: 硬化した硫黄の砂岩
-		}
-
-		HardenedAstralSand: {
-			Tooltip: ""
-			DisplayName: 硬化したアストラルの砂
-		}
-
-		WulfrumWorkBench: {
-			Tooltip: ""
-			DisplayName: ウルフラムの作業台
-		}
-
-		WulfrumToilet: {
-			Tooltip: ""
-			DisplayName: ウルフラムのトイレ
-		}
-
-		WulfrumTable: {
-			Tooltip: ""
-			DisplayName: ウルフラムのテーブル
-		}
-
-		WulfrumSofa: {
-			Tooltip: ""
-			DisplayName: ウルフラムのソファ
-		}
-
-		WulfrumSink: {
-			Tooltip: ""
-			DisplayName: ウルフラムのシンク
-		}
-
-		WulfrumPlating: {
-			Tooltip: ""
-			DisplayName: ウルフラムの装甲板
-		}
-
-		WulfrumPiano: {
-			Tooltip: ""
-			DisplayName: ウルフラムのピアノ
-		}
-
-		WulfrumLantern: {
-			Tooltip: ""
-			DisplayName: ウルフラムのランタン
-		}
-
-		WulfrumLamp: {
-			Tooltip: ""
-			DisplayName: ウルフラムのランプ
-		}
-
-		WulfrumDresser: {
-			Tooltip: ""
-			DisplayName: ウルフラムのドレッサー
-		}
-
-		WulfrumClock: {
-			Tooltip: ""
-			DisplayName: ウルフラムの時計
-		}
-
-		WulfrumChandelier: {
-			Tooltip: ""
-			DisplayName: ウルフラムのシャンデリア
-		}
-
-		WulfrumChair: {
-			Tooltip: ""
-			DisplayName: ウルフラムのイス
-		}
-
-		WulfrumCandle: {
-			Tooltip: ""
-			DisplayName: ウルフラムの蝋燭
-		}
-
-		WulfrumCandelabra: {
-			Tooltip: ""
-			DisplayName: ウルフラムの燭台
-		}
-
-		WulfrumBookcase: {
-			Tooltip: ""
-			DisplayName: ウルフラムの本棚
-		}
-
-		WulfrumBed: {
-			Tooltip: ""
-			DisplayName: ウルフラムのベッド
-		}
-
-		WulfrumBathtub: {
-			Tooltip: ""
-			DisplayName: ウルフラムの浴槽
-		}
-
-		VoidWorkBench: {
-			Tooltip: ""
-			DisplayName: 虚空の作業台
-		}
-
-		VoidTable: {
-			Tooltip: ""
-			DisplayName: 虚空のテーブル
-		}
-
-		VoidstoneSlab: {
-			Tooltip: ""
-			DisplayName: ボイドストーンの平石
-		}
-
-		VoidSofa: {
-			Tooltip: ""
-			DisplayName: 虚空のソファ
-		}
-
-		VoidSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: 虚空のシンク
-		}
-
-		VoidPiano: {
-			Tooltip: ""
-			DisplayName: 虚空のピアノ
-		}
-
-		VoidObelisk: {
-			Tooltip: ""
-			DisplayName: 虚空のオベリスク
-		}
-
-		VoidLantern: {
-			Tooltip: ""
-			DisplayName: 虚空のランタン
-		}
-
-		VoidLamp: {
-			Tooltip: ""
-			DisplayName: 虚空のランプ
-		}
-
-		VoidDresser: {
-			Tooltip: ""
-			DisplayName: 虚空のドレッサー
-		}
-
-		VoidDoor: {
-			Tooltip: ""
-			DisplayName: 虚空のドア
-		}
-
-		VoidChest: {
-			Tooltip: ""
-			DisplayName: 虚空の宝箱
-		}
-
-		VoidChandelier: {
-			Tooltip: ""
-			DisplayName: 虚空のシャンデリア
-		}
-
-		VoidChair: {
-			Tooltip: ""
-			DisplayName: 虚空のイス
-		}
-
-		VoidCandle: {
-			Tooltip: ""
-			DisplayName: 虚空の蝋燭
-		}
-
-		VoidCandelabra: {
-			Tooltip: ""
-			DisplayName: 虚空の燭台
-		}
-
-		VoidBookcase: {
-			Tooltip: ""
-			DisplayName: 虚空の本棚
-		}
-
-		VoidBed: {
-			Tooltip: ""
-			DisplayName: 虚空のベッド
-		}
-
-		VoidBathtub: {
-			Tooltip: ""
-			DisplayName: 虚空の浴槽
-		}
-
-		SmoothVoidstonePlatform: {
-			Tooltip: ""
-			DisplayName: 滑らかなボイドストーンの足場
-		}
-
-		SmoothVoidstone: {
-			Tooltip: ""
-			DisplayName: 滑らかなボイドストーン
-		}
-
-		StratusWorkBench: {
-			Tooltip: ""
-			DisplayName: ストラトスの作業台
-		}
-
-		StratusTable: {
-			Tooltip: ""
-			DisplayName: ストラトスのテーブル
-		}
-
-		StratusStarPlatformItem: {
-			Tooltip: ""
-			DisplayName: ストラトススターの足場
-		}
-
-		StratusSofa: {
-			Tooltip: ""
-			DisplayName: ストラトスのソファ
-		}
-
-		StratusSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: ストラトスのシンク
-		}
-
-		StratusPlatform: {
-			Tooltip: ""
-			DisplayName: ストラトスの足場
-		}
-
-		StratusPiano: {
-			Tooltip: ""
-			DisplayName: ストラトスのピアノ
-		}
-
-		StratusLantern: {
-			Tooltip: ""
-			DisplayName: ストラトスのランタン
-		}
-
-		StratusLamp: {
-			Tooltip: ""
-			DisplayName: ストラトスのランプ
-		}
-
-		StratusDresser: {
-			Tooltip: ""
-			DisplayName: ストラトスのドレッサー
-		}
-
-		StratusDoor: {
-			Tooltip: ""
-			DisplayName: ストラトスのドア
-		}
-
-		StratusClock: {
-			Tooltip: ""
-			DisplayName: ストラトスの時計
-		}
-
-		StratusChest: {
-			Tooltip: ""
-			DisplayName: ストラトスの宝箱
-		}
-
-		StratusChandelier: {
-			Tooltip: ""
-			DisplayName: ストラトスのシャンデリア
-		}
-
-		StratusChair: {
-			Tooltip: ""
-			DisplayName: ストラトスのイス
-		}
-
-		StratusCandle: {
-			Tooltip: ""
-			DisplayName: ストラトスの蝋燭
-		}
-
-		StratusCandelabra: {
-			Tooltip: ""
-			DisplayName: ストラトスの燭台
-		}
-
-		StratusBricks: {
-			Tooltip: ""
-			DisplayName: ストラトスのレンガ
-		}
-
-		StratusBookcase: {
-			Tooltip: ""
-			DisplayName: ストラトスの本棚
-		}
-
-		StratusBed: {
-			Tooltip: ""
-			DisplayName: ストラトスのベッド
-		}
-
-		StratusBathtub: {
-			Tooltip: ""
-			DisplayName: ストラトスの浴槽
-		}
-
-		StatigelWorkBench: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの作業台
-		}
-
-		StatigelTable: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのテーブル
-		}
-
-		StatigelSofa: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのソファ
-		}
-
-		StatigelSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: 精製ジェルのシンク
-		}
-
-		StatigelPlatform: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの足場
-		}
-
-		StatigelPiano: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのピアノ
-		}
-
-		StatigelLantern: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのランタン
-		}
-
-		StatigelLamp: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのランプ
-		}
-
-		StatigelDresser: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのドレッサー
-		}
-
-		StatigelDoor: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのドア
-		}
-
-		StatigelClock: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの時計
-		}
-
-		StatigelChest: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの宝箱
-		}
-
-		StatigelChandelier: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのシャンデリア
-		}
-
-		StatigelChair: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのイス
-		}
-
-		StatigelCandle: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの蝋燭
-		}
-
-		StatigelCandelabra: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの燭台
-		}
-
-		StatigelBookcase: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの本棚
-		}
-
-		StatigelBlock: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのブロック
-		}
-
-		StatigelBed: {
-			Tooltip: ""
-			DisplayName: 精製ジェルのベッド
-		}
-
-		StatigelBathtub: {
-			Tooltip: ""
-			DisplayName: 精製ジェルの浴槽
-		}
-
-		SilvaWorkBench: {
-			Tooltip: ""
-			DisplayName: シルヴァの作業台
-		}
-
-		SilvaTable: {
-			Tooltip: ""
-			DisplayName: シルヴァのテーブル
-		}
-
-		SilvaSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: シルヴァのシンク
-		}
-
-		SilvaPlatform: {
-			Tooltip: ""
-			DisplayName: シルヴァの足場
-		}
-
-		SilvaPiano: {
-			Tooltip: ""
-			DisplayName: シルヴァのピアノ
-		}
-
-		SilvaLantern: {
-			Tooltip: ""
-			DisplayName: シルヴァのランタン
-		}
-
-		SilvaLamp: {
-			Tooltip: ""
-			DisplayName: シルヴァのランプ
-		}
-
-		SilvaDresser: {
-			Tooltip: ""
-			DisplayName: シルヴァのドレッサー
-		}
-
-		SilvaDoor: {
-			Tooltip: ""
-			DisplayName: シルヴァのドア
-		}
-
-		SilvaCrystal: {
-			Tooltip: ""
-			DisplayName: シルヴァクリスタル
-		}
-
-		SilvaClock: {
-			Tooltip: ""
-			DisplayName: シルヴァの時計
-		}
-
-		SilvaChest: {
-			Tooltip: ""
-			DisplayName: シルヴァの宝箱
-		}
-
-		SilvaChandelier: {
-			Tooltip: ""
-			DisplayName: シルヴァのシャンデリア
-		}
-
-		SilvaChair: {
-			Tooltip: ""
-			DisplayName: シルヴァのイス
-		}
-
-		SilvaCandle: {
-			Tooltip: ""
-			DisplayName: シルヴァの蝋燭
-		}
-
-		SilvaCandelabra: {
-			Tooltip: ""
-			DisplayName: シルヴァの燭台
-		}
-
-		SilvaBookcase: {
-			Tooltip: ""
-			DisplayName: シルヴァの本棚
-		}
-
-		SilvaBench: {
-			Tooltip: ""
-			DisplayName: シルヴァの台
-		}
-
-		SilvaBed: {
-			Tooltip: ""
-			DisplayName: シルヴァのベッド
-		}
-
-		SilvaBathtub: {
-			Tooltip: ""
-			DisplayName: シルヴァの浴槽
-		}
-
-		SacrilegiousWorkBench: {
-			Tooltip: ""
-			DisplayName: 冒涜の作業台
-		}
-
-		SacrilegiousTable: {
-			Tooltip: ""
-			DisplayName: 冒涜のテーブル
-		}
-
-		SacrilegiousSink: {
-			Tooltip: 水、蜂蜜、溶岩の源としてカウントされる
-			DisplayName: 冒涜のシンク
-		}
-
-		SacrilegiousOrgan: {
-			Tooltip: ""
-			DisplayName: 冒涜のオルガン
-		}
-
-		SacrilegiousLantern: {
-			Tooltip: ""
-			DisplayName: 冒涜のランタン
-		}
-
-		SacrilegiousLamp: {
-			Tooltip: ""
-			DisplayName: 冒涜のランプ
-		}
-
-		SacrilegiousDresser: {
-			Tooltip: ""
-			DisplayName: 冒涜のドレッサー
-		}
-
-		SacrilegiousDoor: {
-			Tooltip: ""
-			DisplayName: 冒涜のドア
-		}
-
-		SacrilegiousClock: {
-			Tooltip: ""
-			DisplayName: 冒涜の時計
-		}
-
-		SacrilegiousChest: {
-			Tooltip: ""
-			DisplayName: 冒涜の宝箱
-		}
-
-		SacrilegiousChandelier: {
-			Tooltip: ""
-			DisplayName: 冒涜のシャンデリア
-		}
-
-		SacrilegiousChair: {
-			Tooltip: ""
-			DisplayName: 冒涜のイス
-		}
-
-		SacrilegiousCandle: {
-			Tooltip: ""
-			DisplayName: 冒涜の蝋燭
-		}
-
-		SacrilegiousCandelabra: {
-			Tooltip: ""
-			DisplayName: 冒涜の燭台
-		}
-
-		SacrilegiousBookcase: {
-			Tooltip: ""
-			DisplayName: 冒涜の本棚
-		}
-
-		SacrilegiousBench: {
-			Tooltip: ""
-			DisplayName: 冒涜の台
-		}
-
-		SacrilegiousBed: {
-			Tooltip: ""
-			DisplayName: 冒涜のベッド
-		}
-
-		SacrilegiousBathtub: {
-			Tooltip: ""
-			DisplayName: 冒涜の浴槽
-		}
-
-		RitualCandle: {
-			Tooltip: <right> を押して別のスタイルで配置する
-			DisplayName: 儀式の蝋燭
-		}
-
-		OccultPlatformItem: {
-			Tooltip: ""
-			DisplayName: オカルトの足場
-		}
-
-		OccultLegionnaireBanner: {
-			Tooltip: ""
-			DisplayName: オカルトレジョネアのバナー
-		}
-
-		OccultBrickItem: {
-			Tooltip: ""
-			DisplayName: オカルトのレンガ
-		}
-
-		MonolithOfTheAccursed: {
-			Tooltip:
-				'''
-				空が燃えるように赤く染まる
-				モノリスには2つのモードがある
-				'''
-			DisplayName: 呪われたモノリス
-		}
-
-		LargeRitualCandle: {
-			Tooltip: <right> を押して別のスタイルで配置する
-			DisplayName: 大きな儀式の蝋燭
-		}
-
-		EyeOfTheAccursedBanner: {
-			Tooltip: ""
-			DisplayName: 呪われた眼のバナー
-		}
-
-		RunicProfanedBrick: {
-			Tooltip: ""
-			DisplayName: ルーンの穢れたレンガ
-		}
-
-		ProfanedWorkBench: {
-			Tooltip: ""
-			DisplayName: 穢れた作業台
-		}
-
-		ProfanedTable: {
-			Tooltip: ""
-			DisplayName: 穢れたテーブル
-		}
-
-		ProfanedSlab: {
-			Tooltip: ""
-			DisplayName: 穢れた平石
-		}
-
-		ProfanedSink: {
-			Tooltip: 溶岩源としてカウントされる
-			DisplayName: 穢れたシンク
-		}
-
-		ProfanedRock: {
-			Tooltip: ""
-			DisplayName: 穢れた岩
-		}
-
-		ProfanedPlatform: {
-			Tooltip: ""
-			DisplayName: 穢れた足場
-		}
-
-		ProfanedPiano: {
-			Tooltip: ""
-			DisplayName: 穢れたピアノ
-		}
-
-		ProfanedLantern: {
-			Tooltip: ""
-			DisplayName: 穢れたランタン
-		}
-
-		ProfanedLamp: {
-			Tooltip: ""
-			DisplayName: 穢れたランプ
-		}
-
-		ProfanedDresser: {
-			Tooltip: ""
-			DisplayName: 穢れたドレッサー
-		}
-
-		ProfanedDoor: {
-			Tooltip: ""
-			DisplayName: 穢れたドア
-		}
-
-		ProfanedCrystal: {
-			Tooltip: ""
-			DisplayName: 穢れた水晶
-		}
-
-		ProfanedClock: {
-			Tooltip: ""
-			DisplayName: 穢れた時計
-		}
-
-		ProfanedChest: {
-			Tooltip: ""
-			DisplayName: 穢れた宝箱
-		}
-
-		ProfanedChandelier: {
-			Tooltip: ""
-			DisplayName: 穢れたシャンデリア
-		}
-
-		ProfanedChair: {
-			Tooltip: ""
-			DisplayName: 穢れたイス
-		}
-
-		ProfanedCandle: {
-			Tooltip: ""
-			DisplayName: 穢れた蝋燭
-		}
-
-		ProfanedCandelabra: {
-			Tooltip: ""
-			DisplayName: 穢れた燭台
-		}
-
-		ProfanedBookcase: {
-			Tooltip: ""
-			DisplayName: 穢れた本棚
-		}
-
-		ProfanedBench: {
-			Tooltip: ""
-			DisplayName: 穢れた台
-		}
-
-		ProfanedBed: {
-			Tooltip: ""
-			DisplayName: 穢れたベッド
-		}
-
-		ProfanedBathtub: {
-			Tooltip: ""
-			DisplayName: 穢れた浴槽
-		}
-
-		PlaguedWorkBench: {
-			Tooltip: ""
-			DisplayName: 感染した作業台
-		}
-
-		PlaguedPlateTable: {
-			Tooltip: ""
-			DisplayName: 感染したテーブル
-		}
-
-		PlaguedPlateSofa: {
-			Tooltip: ""
-			DisplayName: 感染したソファ
-		}
-
-		PlaguedPlateSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: 感染したシンク
-		}
-
-		PlaguedPlatePlatform: {
-			Tooltip: ""
-			DisplayName: 感染した棚
-		}
-
-		PlaguedPlatePiano: {
-			Tooltip: ""
-			DisplayName: 感染したピアノ
-		}
-
-		PlaguedPlateLantern: {
-			Tooltip: ""
-			DisplayName: 感染したランタン
-		}
-
-		PlaguedPlateLamp: {
-			Tooltip: ""
-			DisplayName: 感染したランプ
-		}
-
-		PlaguedPlateDresser: {
-			Tooltip: ""
-			DisplayName: 感染したドレッサー
-		}
-
-		PlaguedPlateDoor: {
-			Tooltip: ""
-			DisplayName: 感染したドア
-		}
-
-		PlaguedPlateClock: {
-			Tooltip: ""
-			DisplayName: 感染した時計
-		}
-
-		PlaguedPlateChest: {
-			Tooltip: ""
-			DisplayName: 感染した宝箱
-		}
-
-		PlaguedPlateChandelier: {
-			Tooltip: ""
-			DisplayName: 感染したシャンデリア
-		}
-
-		PlaguedPlateChair: {
-			Tooltip: ""
-			DisplayName: 感染したイス
-		}
-
-		PlaguedPlateCandle: {
-			Tooltip: ""
-			DisplayName: 感染した蝋燭
-		}
-
-		PlaguedPlateCandelabra: {
-			Tooltip: ""
-			DisplayName: 感染した燭台
-		}
-
-		PlaguedPlateBookcase: {
-			Tooltip: ""
-			DisplayName: 感染した本棚
-		}
-
-		PlaguedPlateBed: {
-			Tooltip: ベッドとしてカウントされる
-			DisplayName: 感染したベッド
-		}
-
-		PlaguedPlateBathtub: {
-			Tooltip: ""
-			DisplayName: 感染した浴槽
-		}
-
-		PlaguedContainmentBrick: {
-			Tooltip: ""
-			DisplayName: 感染抑制のレンガ
-		}
-
-		BrokenPlaguedBed: {
-			Tooltip: ""
-			DisplayName: 壊れた感染ベッド
-		}
-
-		OtherworldlyWorkBench: {
-			Tooltip: ""
-			DisplayName: 異世界の作業台
-		}
-
-		OtherworldlyTable: {
-			Tooltip: ""
-			DisplayName: 異世界のテーブル
-		}
-
-		OtherworldlyStone: {
-			Tooltip: ""
-			DisplayName: 異世界の石
-		}
-
-		OtherworldlySofa: {
-			Tooltip: ""
-			DisplayName: 異世界のソファ
-		}
-
-		OtherworldlySink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: 異世界のシンク
-		}
-
-		OtherworldlyPlatform: {
-			Tooltip: ""
-			DisplayName: 異世界の足場
-		}
-
-		OtherworldlyPiano: {
-			Tooltip: ""
-			DisplayName: 異世界のピアノ
-		}
-
-		OtherworldlyLantern: {
-			Tooltip: ""
-			DisplayName: 異世界のランタン
-		}
-
-		OtherworldlyLamp: {
-			Tooltip: ""
-			DisplayName: 異世界のランプ
-		}
-
-		OtherworldlyDresser: {
-			Tooltip: ""
-			DisplayName: 異世界のドレッサー
-		}
-
-		OtherworldlyDoor: {
-			Tooltip: ""
-			DisplayName: 異世界のドア
-		}
-
-		OtherworldlyClock: {
-			Tooltip: ""
-			DisplayName: 異世界の時計
-		}
-
-		OtherworldlyChest: {
-			Tooltip: ""
-			DisplayName: 異世界の宝箱
-		}
-
-		OtherworldlyChandelier: {
-			Tooltip: ""
-			DisplayName: 異世界のシャンデリア
-		}
-
-		OtherworldlyChair: {
-			Tooltip: ""
-			DisplayName: 異世界のイス
-		}
-
-		OtherworldlyCandle: {
-			Tooltip: ""
-			DisplayName: 異世界の蝋燭
-		}
-
-		OtherworldlyCandelabra: {
-			Tooltip: ""
-			DisplayName: 異世界の燭台
-		}
-
-		OtherworldlyBookcase: {
-			Tooltip: ""
-			DisplayName: 異世界の本棚
-		}
-
-		OtherworldlyBed: {
-			Tooltip: ""
-			DisplayName: 異世界のベッド
-		}
-
-		OtherworldlyBathtub: {
-			Tooltip: ""
-			DisplayName: 異世界の浴槽
-		}
-
-		MonolithWorkBench: {
-			Tooltip: ""
-			DisplayName: モノリスの作業台
-		}
-
-		MonolithTable: {
-			Tooltip: ""
-			DisplayName: モノリスのテーブル
-		}
-
-		MonolithSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: モノリスのシンク
-		}
-
-		MonolithPlatform: {
-			Tooltip: ""
-			DisplayName: モノリスの足場
-		}
-
-		MonolithPiano: {
-			Tooltip: ""
-			DisplayName: モノリスのピアノ
-		}
-
-		MonolithLantern: {
-			Tooltip: ""
-			DisplayName: モノリスのランタン
-		}
-
-		MonolithLamp: {
-			Tooltip: ""
-			DisplayName: モノリスのランプ
-		}
-
-		MonolithDresser: {
-			Tooltip: ""
-			DisplayName: モノリスのドレッサー
-		}
-
-		MonolithDoor: {
-			Tooltip: ""
-			DisplayName: モノリスのドア
-		}
-
-		MonolithClock: {
-			Tooltip: ""
-			DisplayName: モノリスの時計
-		}
-
-		MonolithChest: {
-			Tooltip: ""
-			DisplayName: モノリスの宝箱
-		}
-
-		MonolithChandelier: {
-			Tooltip: ""
-			DisplayName: モノリスのシャンデリア
-		}
-
-		MonolithChair: {
-			Tooltip: ""
-			DisplayName: モノリスのイス
-		}
-
-		MonolithCandle: {
-			Tooltip: ""
-			DisplayName: モノリスの蝋燭
-		}
-
-		MonolithCandelabra: {
-			Tooltip: ""
-			DisplayName: モノリスの燭台
-		}
-
-		MonolithBookcase: {
-			Tooltip: ""
-			DisplayName: モノリスの本棚
-		}
-
-		MonolithBench: {
-			Tooltip: ""
-			DisplayName: モノリスの台
-		}
-
-		MonolithBed: {
-			Tooltip: ""
-			DisplayName: モノリスのベッド
-		}
-
-		MonolithBathtub: {
-			Tooltip: ""
-			DisplayName: モノリスの浴槽
-		}
-
-		ExoWorkBench: {
-			Tooltip: ""
-			DisplayName: エクソの作業台
-		}
-
-		ExoToilet: {
-			Tooltip: ""
-			DisplayName: エクソのトイレ
-		}
-
-		ExoTerminal: {
-			Tooltip: ""
-			DisplayName: エクソターミナル
-		}
-
-		ExoTable: {
-			Tooltip: ""
-			DisplayName: エクソのテーブル
-		}
-
-		ExoSofa: {
-			Tooltip: ""
-			DisplayName: エクソのソファ
-		}
-
-		ExoSink: {
-			Tooltip: 水、蜂蜜、溶岩の源としてカウントされる
-			DisplayName: エクソのシンク
-		}
-
-		ExoServer: {
-			Tooltip: ""
-			DisplayName: エクソサーバー
-		}
-
-		ExoScreen: {
-			Tooltip: ""
-			DisplayName: エクソスクリーン
-		}
-
-		ExoPrismPlatform: {
-			Tooltip: ""
-			DisplayName: エクソプリズムの足場
-		}
-
-		ExoPrismPanel: {
-			Tooltip: ""
-			DisplayName: エクソのプリズムパネル
-		}
-
-		ExoPlating: {
-			Tooltip: ""
-			DisplayName: エクソの装甲板
-		}
-
-		ExoPlatform: {
-			Tooltip: ""
-			DisplayName: エクソの足場
-		}
-
-		ExoLantern: {
-			Tooltip: ""
-			DisplayName: エクソのランタン
-		}
-
-		ExoLamp: {
-			Tooltip: ""
-			DisplayName: エクソのランプ
-		}
-
-		ExoKeyboard: {
-			Tooltip: ""
-			DisplayName: エクソキーボード
-		}
-
-		ExoDresser: {
-			Tooltip: ""
-			DisplayName: エクソのドレッサー
-		}
-
-		ExoDoor: {
-			Tooltip: ""
-			DisplayName: エクソのドア
-		}
-
-		ExoDisplay: {
-			Tooltip: ""
-			DisplayName: エクソディスプレイ
-		}
-
-		ExoConsole: {
-			Tooltip: ""
-			DisplayName: エクソコンソール
-		}
-
-		ExoClock: {
-			Tooltip: ""
-			DisplayName: エクソの時計
-		}
-
-		ExoChest: {
-			Tooltip: ""
-			DisplayName: エクソの宝箱
-		}
-
-		ExoChandelier: {
-			Tooltip: ""
-			DisplayName: エクソのシャンデリア
-		}
-
-		ExoChair: {
-			Tooltip: ""
-			DisplayName: エクソのイス
-		}
-
-		ExoCandle: {
-			Tooltip: ""
-			DisplayName: エクソの蝋燭
-		}
-
-		ExoCandelabra: {
-			Tooltip: ""
-			DisplayName: エクソの燭台
-		}
-
-		ExoBookcase: {
-			Tooltip: ""
-			DisplayName: エクソの本棚
-		}
-
-		ExoBed: {
-			Tooltip: ""
-			DisplayName: エクソのベッド
-		}
-
-		ExoBathtub: {
-			Tooltip: ""
-			DisplayName: エクソの浴槽
-		}
-
-		SmoothNavystone: {
-			Tooltip: ""
-			DisplayName: 滑らかなネイビーストーン
-		}
-
-		EutrophicWorkBench: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの作業台
-		}
-
-		EutrophicTable: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのテーブル
-		}
-
-		EutrophicSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: ユートロフィックのシンク
-		}
-
-		EutrophicPlatform: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの足場
-		}
-
-		EutrophicPiano: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのピアノ
-		}
-
-		EutrophicLantern: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのランタン
-		}
-
-		EutrophicLamp: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのランプ
-		}
-
-		EutrophicDresser: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのドレッサー
-		}
-
-		EutrophicDoor: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのドア
-		}
-
-		EutrophicClock: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの時計
-		}
-
-		EutrophicChest: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの宝箱
-		}
-
-		EutrophicChandelier: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのシャンデリア
-		}
-
-		EutrophicChair: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのイス
-		}
-
-		EutrophicCandle: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの蝋燭
-		}
-
-		EutrophicCandelabra: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの燭台
-		}
-
-		EutrophicBookcase: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの本棚
-		}
-
-		EutrophicBench: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの台
-		}
-
-		EutrophicBed: {
-			Tooltip: ""
-			DisplayName: ユートロフィックのベッド
-		}
-
-		EutrophicBathtub: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの浴槽
-		}
-
-		CosmiliteWorkBench: {
-			Tooltip: ""
-			DisplayName: コズミライト作業台
-		}
-
-		CosmiliteTable: {
-			Tooltip: ""
-			DisplayName: コズミライトテーブル
-		}
-
-		CosmiliteSofa: {
-			Tooltip: ""
-			DisplayName: コズミライトソファ
-		}
-
-		CosmiliteSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: コズミライトシンク
-		}
-
-		CosmiliteSconce: {
-			Tooltip: ""
-			DisplayName: コズミライトの壁掛け燭台
-		}
-
-		CosmilitePlatform: {
-			Tooltip: ""
-			DisplayName: コズミライト足場
-		}
-
-		CosmilitePiano: {
-			Tooltip: ""
-			DisplayName: コズミライトピアノ
-		}
-
-		CosmiliteLantern: {
-			Tooltip: ""
-			DisplayName: コズミライトランタン
-		}
-
-		CosmiliteLamp: {
-			Tooltip: ""
-			DisplayName: コズミライトランプ
-		}
-
-		CosmiliteDresser: {
-			Tooltip: ""
-			DisplayName: コズミライトドレッサー
-		}
-
-		CosmiliteDoor: {
-			Tooltip: ""
-			DisplayName: コズミライトドア
-		}
-
-		CosmiliteClock: {
-			Tooltip: ""
-			DisplayName: コズミライト時計
-		}
-
-		CosmiliteChest: {
-			Tooltip: ""
-			DisplayName: コズミライト宝箱
-		}
-
-		CosmiliteChandelier: {
-			Tooltip: ""
-			DisplayName: コズミライトシャンデリア
-		}
-
-		CosmiliteChair: {
-			Tooltip: ""
-			DisplayName: コズミライトイス
-		}
-
-		CosmiliteCandle: {
-			Tooltip: ""
-			DisplayName: コズミライト蝋燭
-		}
-
-		CosmiliteCandelabra: {
-			Tooltip: ""
-			DisplayName: コズミライト燭台
-		}
-
-		CosmiliteBrick: {
-			Tooltip: ""
-			DisplayName: コズミライトのレンガ
-		}
-
-		CosmiliteBookcase: {
-			Tooltip: ""
-			DisplayName: コズミライト本棚
-		}
-
-		CosmiliteBed: {
-			Tooltip: ""
-			DisplayName: コズミライトベッド
-		}
-
-		CosmiliteBathtub: {
-			Tooltip: ""
-			DisplayName: コズミライト浴槽
-		}
-
-		CosmiliteBasin: {
-			Tooltip: ""
-			DisplayName: コズミライトシンク
-		}
-
-		BotanicWorkBench: {
-			Tooltip: ""
-			DisplayName: ボタニックの作業台
-		}
-
-		BotanicTable: {
-			Tooltip: ""
-			DisplayName: ボタニックのテーブル
-		}
-
-		BotanicSink: {
-			Tooltip: エクソの源としてカウントされる
-			DisplayName: ボタニックのシンク
-		}
-
-		BotanicPlatform: {
-			Tooltip: ""
-			DisplayName: ボタニックの足場
-		}
-
-		BotanicPiano: {
-			Tooltip: ""
-			DisplayName: ボタニックのピアノ
-		}
-
-		BotanicLantern: {
-			Tooltip: ""
-			DisplayName: ボタニックのランタン
-		}
-
-		BotanicLamp: {
-			Tooltip: ""
-			DisplayName: ボタニックのランプ
-		}
-
-		BotanicDresser: {
-			Tooltip: ""
-			DisplayName: ボタニックのドレッサー
-		}
-
-		BotanicDoor: {
-			Tooltip: ""
-			DisplayName: ボタニックのドア
-		}
-
-		BotanicClock: {
-			Tooltip: ""
-			DisplayName: ボタニックの時計
-		}
-
-		BotanicChest: {
-			Tooltip: ""
-			DisplayName: ボタニックの宝箱
-		}
-
-		BotanicChandelier: {
-			Tooltip: ""
-			DisplayName: ボタニックのシャンデリア
-		}
-
-		BotanicChair: {
-			Tooltip: ""
-			DisplayName: ボタニックのイス
-		}
-
-		BotanicCandle: {
-			Tooltip: ""
-			DisplayName: ボタニックの蝋燭
-		}
-
-		BotanicCandelabra: {
-			Tooltip: ""
-			DisplayName: ボタニックの燭台
-		}
-
-		BotanicBookcase: {
-			Tooltip: ""
-			DisplayName: ボタニックの本棚
-		}
-
-		BotanicBench: {
-			Tooltip: ""
-			DisplayName: ボタニックの台
-		}
-
-		BotanicBed: {
-			Tooltip: ""
-			DisplayName: ボタニックのベッド
-		}
-
-		BotanicBathtub: {
-			Tooltip: ""
-			DisplayName: ボタニックの浴槽
-		}
-
-		ExoAuricPanel: {
-			Tooltip: ""
-			DisplayName: エクソ・オーリックパネル
-		}
-
-		AuricTerminal: {
-			Tooltip: ""
-			DisplayName: オーリック端末
-		}
-
-		AuricServer: {
-			Tooltip: ""
-			DisplayName: オーリックサーバー
-		}
-
-		AuricScreen: {
-			Tooltip: ""
-			DisplayName: オーリックスクリーン
-		}
-
-		AuricRepulserPanel: {
-			Tooltip: 接触したプレイヤーを反発させる
-			DisplayName: オーリック反発パネル
-		}
-
-		AuricReinforcedCrate: {
-			Tooltip: ""
-			DisplayName: オーリック強化クレート
-		}
-
-		AuricPlatform: {
-			Tooltip: ""
-			DisplayName: オーリックの足場
-		}
-
-		AuricPanel: {
-			Tooltip: ""
-			DisplayName: オーリックパネル
-		}
-
-		AuricDisplay: {
-			Tooltip: ""
-			DisplayName: オーリックディスプレイ
-		}
-
-		AuricConsole: {
-			Tooltip: ""
-			DisplayName: オーリックコンソール
-		}
-
-		AuricAbsorber: {
-			Tooltip: ""
-			DisplayName: オーリック吸収器
-		}
-
-		ActivatedAuricPanel: {
-			Tooltip: ""
-			DisplayName: 起動したオーリックパネル
-		}
-
-		SmoothBrimstoneSlag: {
-			Tooltip: ""
-			DisplayName: 滑らかな煉獄の鉱滓
-		}
-
-		AshenWorkBench: {
-			Tooltip: ""
-			DisplayName: 灰の作業台
-		}
-
-		AshenTable: {
-			Tooltip: ""
-			DisplayName: 灰のテーブル
-		}
-
-		AshenSofa: {
-			Tooltip: ""
-			DisplayName: 灰のソファ
-		}
-
-		AshenSlab: {
-			Tooltip: ""
-			DisplayName: 灰の平石
-		}
-
-		AshenSink: {
-			Tooltip: 溶岩源としてカウントされる
-			DisplayName: 灰のシンク
-		}
-
-		AshenPlatform: {
-			Tooltip: ""
-			DisplayName: 灰の足場
-		}
-
-		AshenPipeOrgan: {
-			Tooltip: ""
-			DisplayName: 灰のパイプオルガン
-		}
-
-		AshenMonolith: {
-			Tooltip: ""
-			DisplayName: 灰のモノリス
-		}
-
-		AshenLantern: {
-			Tooltip: ""
-			DisplayName: 灰のランタン
-		}
-
-		AshenLamp: {
-			Tooltip: ""
-			DisplayName: 灰のランプ
-		}
-
-		AshenDresser: {
-			Tooltip: ""
-			DisplayName: 灰のドレッサー
-		}
-
-		AshenDoor: {
-			Tooltip: ""
-			DisplayName: 灰のドア
-		}
-
-		AshenChest: {
-			Tooltip: ""
-			DisplayName: 灰の宝箱
-		}
-
-		AshenChandelier: {
-			Tooltip: ""
-			DisplayName: 灰のシャンデリア
-		}
-
-		AshenChair: {
-			Tooltip: ""
-			DisplayName: 灰のイス
-		}
-
-		AshenCandle: {
-			Tooltip: ""
-			DisplayName: 灰の蝋燭
-		}
-
-		AshenCandelabra: {
-			Tooltip: ""
-			DisplayName: 灰の燭台
-		}
-
-		AshenBookcase: {
-			Tooltip: ""
-			DisplayName: 灰の本棚
-		}
-
-		AshenBed: {
-			Tooltip: ""
-			DisplayName: 灰のベッド
-		}
-
-		AshenBathtub: {
-			Tooltip: ""
-			DisplayName: 灰の浴槽
-		}
-
-		AshenBasin: {
-			Tooltip: ""
-			DisplayName: 灰のシンク
-		}
-
-		AshenAccentSlab: {
-			Tooltip:
-				'''
-				近くのブロックと異なる形で接続される、灰の平石の亜種
-				「腕の立つに建築家に好まれる」
-				'''
-			DisplayName: アクセント用の灰の平石
-		}
-
-		AncientWorkBench: {
-			Tooltip: ""
-			DisplayName: 古代の作業台
-		}
-
-		AncientTable: {
-			Tooltip: ""
-			DisplayName: 古代のテーブル
-		}
-
-		AncientSofa: {
-			Tooltip: ""
-			DisplayName: 古代のソファ
-		}
-
-		AncientSink: {
-			Tooltip: 溶岩源としてカウントされる
-			DisplayName: 古代のシンク
-		}
-
-		AncientPipeOrgan: {
-			Tooltip: ""
-			DisplayName: 古代のパイプオルガン
-		}
-
-		AncientMonolith: {
-			Tooltip: ""
-			DisplayName: 古代のモノリス
-		}
-
-		AncientLantern: {
-			Tooltip: ""
-			DisplayName: 古代のランタン
-		}
-
-		AncientLamp: {
-			Tooltip: ""
-			DisplayName: 古代のランプ
-		}
-
-		AncientDresser: {
-			Tooltip: ""
-			DisplayName: 古代のドレッサー
-		}
-
-		AncientDoor: {
-			Tooltip: ""
-			DisplayName: 古代のドア
-		}
-
-		AncientChandelier: {
-			Tooltip: ""
-			DisplayName: 古代のシャンデリア
-		}
-
-		AncientChair: {
-			Tooltip: ""
-			DisplayName: 古代のイス
-		}
-
-		AncientBookcase: {
-			Tooltip: ""
-			DisplayName: 古代の本棚
-		}
-
-		AncientBed: {
-			Tooltip: ""
-			DisplayName: 古代のベッド
-		}
-
-		AncientBathtub: {
-			Tooltip: ""
-			DisplayName: 古代の浴槽
-		}
-
-		AncientBasin: {
-			Tooltip: ""
-			DisplayName: 古代のシンク
-		}
-
-		AcidwoodWorkBench: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの作業台
-		}
-
-		AcidwoodTable: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのテーブル
-		}
-
-		AcidwoodSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: アシッドウッドのシンク
-		}
-
-		AcidwoodPlatform: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの足場
-		}
-
-		AcidwoodPiano: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのピアノ
-		}
-
-		AcidwoodLantern: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのランタン
-		}
-
-		AcidwoodLamp: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのランプ
-		}
-
-		AcidwoodDresser: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのドレッサー
-		}
-
-		AcidwoodDoor: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのドア
-		}
-
-		AcidwoodClock: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの時計
-		}
-
-		AcidwoodChest: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの宝箱
-		}
-
-		AcidwoodChandelier: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのシャンデリア
-		}
-
-		AcidwoodChair: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのイス
-		}
-
-		AcidwoodCandle: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの蝋燭
-		}
-
-		AcidwoodCandelabra: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの燭台
-		}
-
-		AcidwoodBookcase: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの本棚
-		}
-
-		AcidwoodBench: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの台
-		}
-
-		AcidwoodBed: {
-			Tooltip: ""
-			DisplayName: アシッドウッドのベッド
-		}
-
-		AcidwoodBathtub: {
-			Tooltip: ""
-			DisplayName: アシッドウッドの浴槽
-		}
-
-		SmoothAbyssGravelPlatform: {
-			Tooltip: ""
-			DisplayName: 滑らかな深淵の砂利の足場
-		}
-
-		SmoothAbyssGravel: {
-			Tooltip: ""
-			DisplayName: 滑らかな深淵の砂利
-		}
-
-		AbyssWorkBench: {
-			Tooltip: ""
-			DisplayName: 深淵の作業台
-		}
-
-		AbyssTorch: {
+		AlgalPrismTorch: {
+			DisplayName: アルガムプリズムのたいまつ
 			Tooltip: 水中に設置可能
-			DisplayName: 深淵のたいまつ
 		}
 
-		AbyssTable: {
+		AstralBeaconItem: {
+			DisplayName: アストラルビーコン
+			Tooltip: 特定の供物と引き換えにアストラムデウスを召喚する
+		}
+
+		AstralChest: {
+			DisplayName: アストラルチェスト
 			Tooltip: ""
-			DisplayName: 深淵のテーブル
 		}
 
-		AbyssSynth: {
+		AstralTorch: {
+			DisplayName: アストラルのたいまつ
 			Tooltip: ""
-			DisplayName: 深淵のシンセ
 		}
 
-		AbyssSofa: {
-			Tooltip: ""
-			DisplayName: 深淵のソファ
-		}
-
-		AbyssSink: {
-			Tooltip: 水源としてカウントされる
-			DisplayName: 深淵のシンク
-		}
-
-		AbyssLantern: {
-			Tooltip: ""
-			DisplayName: 深淵のランタン
-		}
-
-		AbyssLamp: {
-			Tooltip: ""
-			DisplayName: 深淵のランプ
-		}
-
-		AbyssDresser: {
-			Tooltip: ""
-			DisplayName: 深淵のドレッサー
-		}
-
-		AbyssDoor: {
-			Tooltip: ""
-			DisplayName: 深淵のドア
-		}
-
-		AbyssClock: {
-			Tooltip: ""
-			DisplayName: 深淵の時計
-		}
-
-		AbyssChest: {
-			Tooltip: ""
-			DisplayName: 深淵の宝箱
-		}
-
-		AbyssChandelier: {
-			Tooltip: ""
-			DisplayName: 深淵のシャンデリア
-		}
-
-		AbyssChair: {
-			Tooltip: ""
-			DisplayName: 深淵のイス
-		}
-
-		AbyssCandle: {
-			Tooltip: ""
-			DisplayName: 深淵の蝋燭
-		}
-
-		AbyssCandelabra: {
-			Tooltip: ""
-			DisplayName: 深淵の燭台
-		}
-
-		AbyssBookcase: {
-			Tooltip: ""
-			DisplayName: 深淵の本棚
-		}
-
-		AbyssBed: {
-			Tooltip: ""
-			DisplayName: 深淵のベッド
-		}
-
-		AbyssBathtub: {
-			Tooltip: ""
-			DisplayName: 深淵の浴槽
-		}
-
-		WulfrumLureItem: {
+		AuricToilet: {
+			DisplayName: オーリックトイレット
 			Tooltip:
 				'''
-				"[i:CalamityMod/EnergyCore] エナジーコアを消費し、ウルフラムオートマトンを誘い出すウルフラム信号を発する"
-				信号は30秒間続く
+				「これは神々が使っていたものだ
+				　そのような玉座に座ることは、すべての人の恥になるだろう」
 				'''
-			DisplayName: ウルフラムのルアー
 		}
 
-		WeightlessCandle: {
+		BabyCannonballJellyfishBowl: {
+			DisplayName: キャノンボールジェリーの幼体の水槽
+			Tooltip: ""
+		}
+
+		BabyFlakCrabCage: {
+			DisplayName: テラリウム（ヤドカリの幼体）
+			Tooltip: ""
+		}
+
+		BabyGhostBellJar: {
+			DisplayName: ベビーゴーストベルジャー
+			Tooltip: ""
+		}
+
+		AquaticScourgeRelic: {
+			DisplayName: アクアティックスカージのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		AstrumAureusRelic: {
+			DisplayName: アストラムアウレウスのレリック
+			Tooltip: ""
+		}
+
+		AstrumDeusRelic: {
+			DisplayName: アストラムデウスのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		BrimstoneElementalRelic: {
+			DisplayName: ブリムストーンエレメンタルのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		CalamitasCloneRelic: {
+			DisplayName: カラミタスクローンのレリック
+			Tooltip: ""
+		}
+
+		CalamitasRelic: {
+			DisplayName: カラミタスのレリック
+			Tooltip: ""
+		}
+
+		CeaselessVoidRelic: {
+			DisplayName: シースレスヴォイドのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		CrabulonRelic: {
+			DisplayName: クラブロンのレリック
+			Tooltip: ""
+		}
+
+		CragmawMireRelic: {
+			DisplayName: クラグマイヤーのレリック
+			Tooltip: ""
+		}
+
+		CryogenRelic: {
+			DisplayName: クライオジェンのレリック
+			Tooltip: ""
+		}
+
+		DesertScourgeRelic: {
+			DisplayName: デザートスカージのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		DevourerOfGodsRelic: {
+			DisplayName: デバウアー・オブ・ゴッドのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		DraedonRelic: {
+			DisplayName: ドレイドンのレリック
+			Tooltip: ""
+		}
+
+		DragonfollyRelic: {
+			DisplayName: ドラゴンフォリーのレリック
+			Tooltip: ""
+		}
+
+		GiantClamRelic: {
+			DisplayName: 巨大ハマグリのレリック
+			Tooltip: ""
+		}
+
+		GreatSandSharkRelic: {
+			DisplayName: グレートサンドシャークのレリック
+			Tooltip: ""
+		}
+
+		HiveMindRelic: {
+			DisplayName: ハイブマインドのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		LeviathanAnahitaRelic: {
+			DisplayName: リヴァイアサンとアナヒタのレリック
+			Tooltip: ""
+		}
+
+		MaulerRelic: {
+			DisplayName: マウラーのレリック
+			Tooltip: ""
+		}
+
+		NuclearTerrorRelic: {
+			DisplayName: ニュークリアーテラーのレリック
+			Tooltip: ""
+		}
+
+		OldDukeRelic: {
+			DisplayName: オールドデュークのレリック
+			Tooltip: ""
+		}
+
+		PerforatorsRelic: {
+			DisplayName: パーフォレーターのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		PlaguebringerGoliathRelic: {
+			DisplayName: プレイグブリンガーゴライアスのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		PolterghastRelic: {
+			DisplayName: ポルターガストのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		ProfanedGuardiansRelic: {
+			DisplayName: 冒涜された守護者たちのレリック
+			Tooltip: ""
+		}
+
+		ProvidenceRelic: {
+			DisplayName: プロヴィデンスのレリック
+			Tooltip: ""
+		}
+
+		RavagerRelic: {
+			DisplayName: ラヴェジャーのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		SignusRelic: {
+			DisplayName: シグナスのレリック
+			Tooltip: 未来の姿を垣間見る...
+		}
+
+		SlimeGodRelic: {
+			DisplayName: スライムゴッドのレリック
+			Tooltip: ""
+		}
+
+		StormWeaverRelic: {
+			DisplayName: ストームウィーバーのレリック
+			Tooltip: あり得たかもしれないものを垣間見る...
+		}
+
+		YharonRelic: {
+			DisplayName: ヤーロンのレリック
+			Tooltip: 未来の姿を垣間見る...
+		}
+
+		CausticTorch: {
+			DisplayName: 腐食のたいまつ
+			Tooltip: 水中に設置できる
+		}
+
+		ChaosCandle: {
+			DisplayName: 混沌の蝋燭
+			Tooltip: この蝋燭があるだけで周囲の敵は発狂する
+		}
+
+		CorruptionEffigy: {
+			DisplayName: 不浄の偶像
 			Tooltip:
 				'''
-				配置された状態で右クリックすると、移動速度10%、飛行時間10%、加速度10%を得る
-				他の蝋燭のバフとは効果が重複しない
-				「浮遊する炎は、あなたの精神そのものを高揚させるようだ」
+				設置すると、近くのプレイヤーの移動速度とクリティカル率が10%増加する
+				近くのプレイヤーはダメージ軽減率が5%減少する
 				'''
-			DisplayName: 軽快の蝋燭
-		}
-
-		VigorousCandle: {
-			Tooltip:
-				'''
-				配置された状態で右クリックすると、1秒ごとに最大体力の0.4%を回復する
-				この自然回復は移動中でも常に効果を発揮し、リベンジェンスモードの上限を無視する
-				他の蝋燭のバフとは効果が重複しない
-				「その輝かしい光は、近くにいる人々の心をを希望で満たす」
-				'''
-			DisplayName: 活力の蝋燭
-		}
-
-		TwinklerInABottle: {
-			Tooltip: ""
-			DisplayName: 瓶詰めの光
-		}
-
-		YharonTrophy: {
-			Tooltip: ""
-			DisplayName: ヤーロンのトロフィー
-		}
-
-		WeaverTrophy: {
-			Tooltip: ""
-			DisplayName: ストームウィーバーのトロフィー
-		}
-
-		ThanatosTrophy: {
-			Tooltip: ""
-			DisplayName: タナトスのトロフィー
-		}
-
-		SupremeCatastropheTrophy: {
-			Tooltip: ""
-			DisplayName: カタストロフィーのトロフィー
-		}
-
-		SupremeCataclysmTrophy: {
-			Tooltip: ""
-			DisplayName: カタクリズムのトロフィー
-		}
-
-		SupremeCalamitasTrophy: {
-			Tooltip: ""
-			DisplayName: カラミタスのトロフィー
-		}
-
-		SlimeGodTrophy: {
-			Tooltip: ""
-			DisplayName: スライムゴッドのトロフィー
-		}
-
-		SignusTrophy: {
-			Tooltip: ""
-			DisplayName: シグナスのトロフィー
-		}
-
-		RavagerTrophy: {
-			Tooltip: ""
-			DisplayName: ラヴェジャーのトロフィー
-		}
-
-		ProvidenceTrophy: {
-			Tooltip: ""
-			DisplayName: プロヴィデンスのトロフィー
-		}
-
-		ProfanedGuardianTrophy: {
-			Tooltip: ""
-			DisplayName: 冒涜された守護者たちのトロフィー
-		}
-
-		PolterghastTrophy: {
-			Tooltip: ""
-			DisplayName: ポルターガストのトロフィー
-		}
-
-		PlaguebringerGoliathTrophy: {
-			Tooltip: ""
-			DisplayName: プレイグブリンガーゴライアスのトロフィー
-		}
-
-		PerforatorTrophy: {
-			Tooltip: ""
-			DisplayName: パーフォレーターのトロフィー
-		}
-
-		OldDukeTrophy: {
-			Tooltip: ""
-			DisplayName: オールドデュークのトロフィー
-		}
-
-		NuclearTerrorTrophy: {
-			Tooltip: ""
-			DisplayName: ニュークリアーテラーのトロフィー
-		}
-
-		MaulerTrophy: {
-			Tooltip: ""
-			DisplayName: モーラーのトロフィー
-		}
-
-		LeviathanTrophy: {
-			Tooltip: ""
-			DisplayName: リヴァイアサンのトロフィー
-		}
-
-		HiveMindTrophy: {
-			Tooltip: ""
-			DisplayName: ハイブマインドのトロフィー
-		}
-
-		GreatSandSharkTrophy: {
-			Tooltip: ""
-			DisplayName: グレートサンドシャークのトロフィー
-		}
-
-		GiantClamTrophy: {
-			Tooltip: ""
-			DisplayName: 巨大ハマグリのトロフィー
-		}
-
-		DragonfollyTrophy: {
-			Tooltip: ""
-			DisplayName: ドラゴンフォリーのトロフィー
-		}
-
-		DevourerofGodsTrophy: {
-			Tooltip: ""
-			DisplayName: デバウアー・オブ・ゴッドのトロフィー
-		}
-
-		DesertScourgeTrophy: {
-			Tooltip: ""
-			DisplayName: デザートスカージのトロフィー
-		}
-
-		CryogenTrophy: {
-			Tooltip: ""
-			DisplayName: クライオジェンのトロフィー
-		}
-
-		CragmawMireTrophy: {
-			Tooltip: ""
-			DisplayName: クラグモーマイヤーのトロフィー
-		}
-
-		CrabulonTrophy: {
-			Tooltip: ""
-			DisplayName: クラブロンのトロフィー
-		}
-
-		CeaselessVoidTrophy: {
-			Tooltip: ""
-			DisplayName: シースレスヴォイドのトロフィー
-		}
-
-		CatastropheTrophy: {
-			Tooltip: ""
-			DisplayName: カタストロフィの傀儡のトロフィー
-		}
-
-		CataclysmTrophy: {
-			Tooltip: ""
-			DisplayName: カタクリズムの傀儡のトロフィー
-		}
-
-		CalamitasCloneTrophy: {
-			Tooltip: ""
-			DisplayName: カラミタスクローンのトロフィー
-		}
-
-		BrimstoneElementalTrophy: {
-			Tooltip: ""
-			DisplayName: ブリムストーンエレメンタルのトロフィー
-		}
-
-		AstrumDeusTrophy: {
-			Tooltip: ""
-			DisplayName: アストラムデウスのトロフィー
-		}
-
-		AstrumAureusTrophy: {
-			Tooltip: ""
-			DisplayName: アストラムアウレウスのトロフィー
-		}
-
-		ArtemisTrophy: {
-			Tooltip: ""
-			DisplayName: アルテミスのトロフィー
-		}
-
-		AresTrophy: {
-			Tooltip: ""
-			DisplayName: アレスのトロフィー
-		}
-
-		AquaticScourgeTrophy: {
-			Tooltip: ""
-			DisplayName: アクアティックスカージのトロフィー
-		}
-
-		ApolloTrophy: {
-			Tooltip: ""
-			DisplayName: アポロのトロフィー
-		}
-
-		AnahitaTrophy: {
-			Tooltip: ""
-			DisplayName: アナヒタのトロフィー
-		}
-
-		TranquilityCandle: {
-			Tooltip: 周囲の敵から更に敵意を減らす
-			DisplayName: 平穏の蝋燭
-		}
-
-		ThaumaticChair: {
-			Tooltip: クロエの最高傑作のひとつ
-			DisplayName: ソーマティックのイス
-		}
-
-		SulphurousTorch: {
-			Tooltip: 水中に設置可能
-			DisplayName: 硫黄のたいまつ
-		}
-
-		SpitefulCandle: {
-			Tooltip:
-				'''
-				配置された状態で右クリックすると、敵が受けるダメージが7%増加する
-				この追加ダメージは敵のダメージ軽減や防御を無視する
-				他の蝋燭のバフとは効果が重複しない
-				「その憎悪に満ちた輝きは、怒りをちらつかせる」
-				'''
-			DisplayName: 憎悪の蝋燭
-		}
-
-		SeaMinnowJar: {
-			Tooltip: ""
-			DisplayName: シーミノーの瓶
-		}
-
-		RustyChest: {
-			Tooltip: ""
-			DisplayName: 錆びたチェスト
-		}
-
-		ResilientCandle: {
-			Tooltip:
-				'''
-				配置された状態で右クリックすると、ダメージ軽減率が10%増加し、難易度が上がるほど強化される
-				他の蝋燭のバフとは効果が重複しない
-				「雨だろうが風だろうが、その不滅の炎を消すことはできない」
-				'''
-			DisplayName: 不滅の蝋燭
-		}
-
-		RefractivePrismTorch: {
-			Tooltip: 水中に設置可能
-			DisplayName: 屈折プリズムのたいまつ
-		}
-
-		PiggyCage: {
-			Tooltip: ""
-			DisplayName: テラリウム（ピギー）
-		}
-
-		NavyPrismTorch: {
-			Tooltip: 水中に設置可能
-			DisplayName: 軍用プリズムたいまつ
-		}
-
-		PurpleDistortedMonolith: {
-			Tooltip: 「現実の構造に局所的な亀裂を生じさせる」
-			DisplayName: 歪んだ紫のモノリス
-		}
-
-		PlagueHumidifier: {
-			Tooltip: 「空気中に軽い疫病を広める」
-			DisplayName: 汚染された加湿器
-		}
-
-		FrigidMonolith: {
-			Tooltip: 「冷たいオーロラで空を魔法にかける」
-			DisplayName: 凍ったモノリス
-		}
-
-		ExoObelisk: {
-			Tooltip: 「エクソエネルギーで大気を活性化させる」
-			DisplayName: エクソのオベリスク
-		}
-
-		DraconicIncense: {
-			Tooltip: 「竜の炎で空気を燃え上がらせる」
-			DisplayName: 竜炎の香
-		}
-
-		DeepSeaAnchor: {
-			Tooltip: 「塩気を帯びた重い空気で周りを湿らせる」
-			DisplayName: 深海の錨
-		}
-
-		BossRushMonolith: {
-			Tooltip: 「終焉をもたらす」
-			DisplayName: ボスラッシュモノリス
-		}
-
-		BlueDistortedMonolith: {
-			Tooltip: 「現実の構造に局所的な亀裂を生じさせる」
-			DisplayName: 歪んだ青のモノリス
-		}
-
-		AstralProjector: {
-			Tooltip: 「アストラル感染の影響をわずかに制御する」
-			DisplayName: 星界のプロジェクター
-		}
-
-		LanternCenter: {
-			Tooltip: お祝いのランタンで夜空を照らす
-			DisplayName: ランタンセンター
-		}
-
-		GloomTorch: {
-			Tooltip: ""
-			DisplayName: 闇のたいまつ
-		}
-
-		SunkenSeaFountain: {
-			Tooltip: ""
-			DisplayName: 沈没海の間欠泉
-		}
-
-		SulphurousFountainItem: {
-			Tooltip: ""
-			DisplayName: 硫黄水の間欠泉
-		}
-
-		BrimstoneLavaFountainItem: {
-			Tooltip: ""
-			DisplayName: 硫黄の火山口
-		}
-
-		AstralFountainItem: {
-			Tooltip: ""
-			DisplayName: アストラルの間欠泉
-		}
-
-		AbyssFountainItem: {
-			Tooltip: ""
-			DisplayName: 深淵の間欠泉
-		}
-
-		EffigyOfDecay: {
-			Tooltip:
-				'''
-				設置すると、近くのプレイヤーは水中で呼吸できるようになる
-				この効果は深淵では働かない
-				近くのプレイヤーは硫黄の毒の耐性を得る
-				'''
-			DisplayName: 腐敗の偶像
-		}
-
-		ThankYouPainting: {
-			Tooltip:
-				'''
-				「チーム全員、サポートしてくれたみんな、そしてこのMODをプレイし、存続させてくれているみんなに感謝します！
-				　スペースが足りず、スタッフ全員を入れることができませんでした...」
-				SHIFTキーを押して、開発者リストを見る
-				'''
-			DisplayName: ありがとう
-		}
-
-		CrimsonEffigy: {
-			Tooltip:
-				'''
-				プレイヤーの側に置くと、ダメージが15%、防御力が10%増加する
-				近くのプレイヤーは最大ライフが10%減少する
-				'''
-			DisplayName: 真紅の偶像
-		}
-
-		WulfrumLabstationItem: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: ウルフラム研究ステーション
-		}
-
-		VoidCondenser: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 虚空コンデンサ
-		}
-
-		StaticRefiner: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 静かな精製機
-		}
-
-		ProfanedCrucible: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 冒涜された坩堝
-		}
-
-		PlagueInfuser: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 疫病注入器
-		}
-
-		MonolithAmalgam: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: モノリスアマルガム
-		}
-
-		EutrophicShelf: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: ユートロフィックシェルフ
-		}
-
-		EffulgentManipulator: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 光り輝くマニピュレーター
-		}
-
-		DraedonsForge: {
-			Tooltip:
-				'''
-				「無限の力を持つエクソエネルギーで動くプラズマ格子の製造機」
-				すべての主要クラフトステーションとして機能する
-				'''
-			DisplayName: ドレイドンの創造炉
-		}
-
-		CosmicAnvilItem: {
-			Tooltip:
-				'''
-				恒星崩壊の圧力に耐える別世界の金床
-				他の全ての鉄床と同じ機能を持つ
-				'''
-			DisplayName: コズミックアンビル
-		}
-
-		BotanicPlanter: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 植物プランター
-		}
-
-		AshenAltar: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 灰の祭壇
-		}
-
-		AncientAltar: {
-			Tooltip: 何かいいものが作れそうだ
-			DisplayName: 古代の祭壇
 		}
 
 		AltarOfTheAccursedItem: {
+			DisplayName: 呪われた祭壇
 			Tooltip:
 				'''
 				この祭壇に災厄の灰を捧げると、魔女を召喚できる
@@ -21854,534 +19849,3960 @@ Items: {
 				アリーナの外にいる間、魔女は発狂する
 				何かいいものが作れそうだ
 				'''
-			DisplayName: 呪われた祭壇
 		}
 
-		CorruptionEffigy: {
+		AshenAltar: {
+			DisplayName: 灰の祭壇
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		CosmicAnvilItem: {
+			DisplayName: コズミックアンビル
 			Tooltip:
 				'''
-				設置すると、近くのプレイヤーの移動速度とクリティカル率が10%増加する
-				近くのプレイヤーはダメージ軽減率が5%減少する
+				恒星崩壊の圧力に耐える別世界の金床
+				他の全ての鉄床と同じ機能を持つ
 				'''
-			DisplayName: 不浄の偶像
 		}
 
-		ChaosCandle: {
-			Tooltip: この蝋燭があるだけで周囲の敵は激怒する
-			DisplayName: 混沌の蝋燭
-		}
-
-		YharonRelic: {
-			Tooltip: 未来の姿を垣間見る...
-			DisplayName: ヤーロンのレリック
-		}
-
-		StormWeaverRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: ストームウィーバーのレリック
-		}
-
-		SlimeGodRelic: {
-			Tooltip: ""
-			DisplayName: スライムゴッドのレリック
-		}
-
-		SignusRelic: {
-			Tooltip: 未来の姿を垣間見る...
-			DisplayName: シグナスのレリック
-		}
-
-		RavagerRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: ラヴェジャーのレリック
-		}
-
-		ProvidenceRelic: {
-			Tooltip: ""
-			DisplayName: プロヴィデンスのレリック
-		}
-
-		ProfanedGuardiansRelic: {
-			Tooltip: ""
-			DisplayName: 冒涜された守護者たちのレリック
-		}
-
-		PolterghastRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: ポルターガストのレリック
-		}
-
-		PlaguebringerGoliathRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: プレイグブリンガーゴライアスのレリック
-		}
-
-		PerforatorsRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: パーフォレーターのレリック
-		}
-
-		OldDukeRelic: {
-			Tooltip: ""
-			DisplayName: オールドデュークのレリック
-		}
-
-		NuclearTerrorRelic: {
-			Tooltip: ""
-			DisplayName: ニュークリアーテラーのレリック
-		}
-
-		MaulerRelic: {
-			Tooltip: ""
-			DisplayName: マウラーのレリック
-		}
-
-		LeviathanAnahitaRelic: {
-			Tooltip: ""
-			DisplayName: リヴァイアサンとアナヒタのレリック
-		}
-
-		HiveMindRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: ハイブマインドのレリック
-		}
-
-		GreatSandSharkRelic: {
-			Tooltip: ""
-			DisplayName: グレートサンドシャークのレリック
-		}
-
-		GiantClamRelic: {
-			Tooltip: ""
-			DisplayName: 巨大ハマグリのレリック
-		}
-
-		DragonfollyRelic: {
-			Tooltip: ""
-			DisplayName: ドラゴンフォリーのレリック
-		}
-
-		DraedonRelic: {
-			Tooltip: ""
-			DisplayName: ドレイドンのレリック
-		}
-
-		DevourerOfGodsRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: デバウアー・オブ・ゴッドのレリック
-		}
-
-		DesertScourgeRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: デザートスカージのレリック
-		}
-
-		CryogenRelic: {
-			Tooltip: ""
-			DisplayName: クライオジェンのレリック
-		}
-
-		CragmawMireRelic: {
-			Tooltip: ""
-			DisplayName: クラグマイヤーのレリック
-		}
-
-		CrabulonRelic: {
-			Tooltip: ""
-			DisplayName: クラブロンのレリック
-		}
-
-		CeaselessVoidRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: シースレスヴォイドのレリック
-		}
-
-		CalamitasRelic: {
-			Tooltip: ""
-			DisplayName: カラミタスのレリック
-		}
-
-		CalamitasCloneRelic: {
-			Tooltip: ""
-			DisplayName: カラミタスクローンのレリック
-		}
-
-		BrimstoneElementalRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: ブリムストーンエレメンタルのレリック
-		}
-
-		AstrumDeusRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: アストラムデウスのレリック
-		}
-
-		AstrumAureusRelic: {
-			Tooltip: ""
-			DisplayName: アストラムアウレウスのレリック
-		}
-
-		AquaticScourgeRelic: {
-			Tooltip: あり得たかもしれないものを垣間見る...
-			DisplayName: アクアティックスカージのレリック
-		}
-
-		BabyGhostBellJar: {
-			Tooltip: ""
-			DisplayName: ベビーゴーストベルジャー
-		}
-
-		BabyFlakCrabCage: {
-			Tooltip: ""
-			DisplayName: テラリウム（ヤドカリの幼体）
-		}
-
-		BabyCannonballJellyfishBowl: {
-			Tooltip: ""
-			DisplayName: キャノンボールジェリーの幼体の水槽
-		}
-
-		AuricToilet: {
+		DraedonsForge: {
+			DisplayName: ドレイドンの創造炉
 			Tooltip:
 				'''
-				「これは神々が使っていたものだ
-				　そのような玉座に座ることは、すべての人の恥になるだろう」
+				「無限の力を持つエクソエネルギーで動くプラズマ格子の製造機」
+				すべての主要クラフトステーションとして機能する
 				'''
-			DisplayName: オーリックトイレット
 		}
 
-		AstralTorch: {
+		PlagueInfuser: {
+			DisplayName: 疫病注入器
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		ProfanedCrucible: {
+			DisplayName: 冒涜された坩堝
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		VoidCondenser: {
+			DisplayName: 虚空コンデンサ
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		CrimsonEffigy: {
+			DisplayName: 真紅の偶像
+			Tooltip:
+				'''
+				プレイヤーの側に置くと、ダメージが15%、防御力が10%増加する
+				近くのプレイヤーは最大ライフが10%減少する
+				'''
+		}
+
+		EffigyOfDecay: {
+			DisplayName: 腐敗の偶像
+			Tooltip:
+				'''
+				設置すると、近くのプレイヤーは水中で呼吸できるようになる
+				この効果は深淵では働かない
+				近くのプレイヤーは硫黄の毒の耐性を得る
+				'''
+		}
+
+		AbyssFountainItem: {
+			DisplayName: 深淵の間欠泉
 			Tooltip: ""
-			DisplayName: アストラルのたいまつ
 		}
 
-		AstralChest: {
+		AstralFountainItem: {
+			DisplayName: アストラルの間欠泉
 			Tooltip: ""
-			DisplayName: アストラルチェスト
 		}
 
-		AstralBeaconItem: {
-			Tooltip: 特定の供物と引き換えにアストラムデウスを召喚する
-			DisplayName: アストラルビーコン
+		BrimstoneLavaFountainItem: {
+			DisplayName: 硫黄の火山口
+			Tooltip: ""
 		}
 
-		AlgalPrismTorch: {
+		SulphurousFountainItem: {
+			DisplayName: 硫黄水の間欠泉
+			Tooltip: ""
+		}
+
+		SunkenSeaFountain: {
+			DisplayName: 沈没海の間欠泉
+			Tooltip: ""
+		}
+
+		GloomTorch: {
+			DisplayName: 闇のたいまつ
+			Tooltip: ""
+		}
+
+		LanternCenter: {
+			DisplayName: ランタンセンター
+			Tooltip: お祝いのランタンで夜空を照らす
+		}
+
+		AstralProjector: {
+			DisplayName: 星界のプロジェクター
+			Tooltip: 「アストラル感染の影響をわずかに制御する」
+		}
+
+		BlueDistortedMonolith: {
+			DisplayName: 歪んだ青のモノリス
+			Tooltip: 「現実の構造に局所的な亀裂を生じさせる」
+		}
+
+		BossRushMonolith: {
+			DisplayName: ボスラッシュモノリス
+			Tooltip: 「終焉をもたらす」
+		}
+
+		DeepSeaAnchor: {
+			DisplayName: 深海の錨
+			Tooltip: 「塩気を帯びた重い空気で周りを湿らせる」
+		}
+
+		DraconicIncense: {
+			DisplayName: 竜炎の香
+			Tooltip: 「竜の炎で空気を燃え上がらせる」
+		}
+
+		ExoObelisk: {
+			DisplayName: エクソのオベリスク
+			Tooltip: 「エクソエネルギーで大気を活性化させる」
+		}
+
+		FrigidMonolith: {
+			DisplayName: 凍ったモノリス
+			Tooltip: 「冷たいオーロラで空を魔法にかける」
+		}
+
+		KelpTorch: {
+			DisplayName: 海藻のたいまつ
+			Tooltip: 水中に設置できる
+		}
+
+		OldDukeMonolith: {
+			DisplayName: 古いジオラマ
+			Tooltip: ""
+		}
+
+		PlagueHumidifier: {
+			DisplayName: 汚染された加湿器
+			Tooltip: 「空気中に軽い疫病を広める」
+		}
+
+		PurpleDistortedMonolith: {
+			DisplayName: 歪んだ紫のモノリス
+			Tooltip: 「現実の構造に局所的な亀裂を生じさせる」
+		}
+
+		NavyPrismTorch: {
+			DisplayName: 軍用プリズムたいまつ
 			Tooltip: 水中に設置可能
-			DisplayName: アルガムプリズムのたいまつ
 		}
 
-		AbyssTreasureChest: {
-			Tooltip: ""
-			DisplayName: 古代のトレジャーチェスト
-		}
-
-		HardenedEutrophicSand: {
-			Tooltip: ""
-			DisplayName: 硬化したユートロフィックの砂
-		}
-
-		EutrophicSand: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの砂
-		}
-
-		EutrophicGlass: {
-			Tooltip: ""
-			DisplayName: ユートロフィックの草
-		}
-
-		SecurityChest: {
-			Tooltip: ""
-			DisplayName: セキュリティチェスト
-		}
-
-		RustedShelf: {
-			Tooltip: ""
-			DisplayName: 錆びた棚
-		}
-
-		RustedPlating: {
-			Tooltip: ""
-			DisplayName: 錆びた板
-		}
-
-		RustedPipes: {
-			Tooltip: ""
-			DisplayName: 錆びたパイプ
-		}
-
-		ReinforcedCrateItem: {
-			Tooltip: ""
-			DisplayName: 補強された箱
-		}
-
-		PowerCellFactoryItem: {
+		CalamityCanvas2023: {
+			DisplayName: Calamity Canvas 2023
 			Tooltip:
 				'''
-				パワーセルを製造する
-				15秒に1個のセルが作られる
+				設置後に<right>でUIを開き、絵の表示位置をカスタマイズできる
+				<left>で表示位置をカーソルに追従させ、もう一度<left>を押すことで確定させることができる
+				矢印キーでも表示位置を手動調整できる
+				マウスホイールで表示位置をズームイン・ズームアウトさせることができる
+				Shiftを押し続けるとUIを閉じずに非表示にする
+				「混沌を受け入れよ」
 				'''
-			DisplayName: パワーセル製造機
 		}
 
-		LaboratoryTerminalItem: {
-			Tooltip: ""
-			DisplayName: 研究所の端末
-		}
-
-		LaboratoryShelf: {
-			Tooltip: ""
-			DisplayName: 研究所の棚
-		}
-
-		LaboratoryServerItem: {
-			Tooltip: ""
-			DisplayName: 研究所のサーバー
-		}
-
-		LaboratoryScreenItem: {
-			Tooltip: ""
-			DisplayName: 研究所のスクリーン
-		}
-
-		LaboratoryPlating: {
-			Tooltip: ""
-			DisplayName: 研究所の板
-		}
-
-		LaboratoryPipePlating: {
-			Tooltip: ""
-			DisplayName: 研究所のパイプ板
-		}
-
-		LaboratoryPanels: {
-			Tooltip: ""
-			DisplayName: 研究所のパネル
-		}
-
-		LaboratoryElectricPanelItem: {
-			Tooltip: ""
-			DisplayName: 研究所の電気パネル
-		}
-
-		LaboratoryDoorItem: {
-			Tooltip: ""
-			DisplayName: 研究所のドア
-		}
-
-		LaboratoryDisplayItem: {
-			Tooltip: ""
-			DisplayName: 研究所のディスプレイ
-		}
-
-		LaboratoryContainmentBoxItem: {
-			Tooltip: ""
-			DisplayName: 研究所の収納箱
-		}
-
-		LaboratoryConsoleItem: {
-			Tooltip: ""
-			DisplayName: 研究所のコンソール
-		}
-
-		LabHologramProjectorItem: {
-			Tooltip: ""
-			DisplayName: 研究所のホログラムプロジェクター
-		}
-
-		HazardChevronPanels: {
-			Tooltip: ""
-			DisplayName: ハザードシェブロンパネル
-		}
-
-		ChargingStationItem: {
+		CalamityCanvas2024: {
+			DisplayName: Calamity Canvas 2024
 			Tooltip:
 				'''
-				パワーセルを使ってドレイドンの武器を充電できる
-				アイテムとパワーセルの両方を充電ステーションにセットすると、充電することができる
+				設置後に<right>でUIを開き、絵の表示位置をカスタマイズできる
+				<left>で表示位置をカーソルに追従させ、もう一度<left>を押すことで確定させることができる
+				矢印キーでも表示位置を手動調整できる
+				マウスホイールで表示位置をズームイン・ズームアウトさせることができる
+				Shiftを押し続けるとUIを閉じずに非表示にする
+				「大混乱を受け入れよ」
 				'''
-			DisplayName: 充電ステーション
 		}
 
-		AgedSecurityChest: {
-			Tooltip: ""
-			DisplayName: 老朽化したセキュリティチェスト
+		ForgivenessPainting: {
+			DisplayName: 絵画「許し」
+			Tooltip: "'D. User'"
 		}
 
-		AgedReinforcedCrateItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した補強された箱
-		}
-
-		AgedLaboratoryTerminalItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所の端末
-		}
-
-		AgedLaboratoryServerItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所のサーバー
-		}
-
-		AgedLaboratoryScreenItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所のスクリーン
-		}
-
-		AgedLaboratoryElectricPanelItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所の電気パネル
-		}
-
-		AgedLaboratoryDoorItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所のドア
-		}
-
-		AgedLaboratoryDisplayItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所のディスプレイ
-		}
-
-		AgedLaboratoryContainmentBoxItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所の収納箱
-		}
-
-		AgedLaboratoryConsoleItem: {
-			Tooltip: ""
-			DisplayName: 老朽化した研究所のコンソール
-		}
-
-		CryonicBrick: {
-			Tooltip: ""
-			DisplayName: クライオニックレンガ
-		}
-
-		CinderBlossomSeeds: {
-			Tooltip: 焼け跡にシンダーブロッサムの草を生やす
-			DisplayName: シンダーブロッサムの種
-		}
-
-		CelestialRemains: {
-			Tooltip: ""
-			DisplayName: 天上の残骸
-		}
-
-		BrimstoneSlag: {
-			Tooltip: ""
-			DisplayName: 煉獄の鉱滓
-		}
-
-		BrimstoneSlab: {
-			Tooltip: ""
-			DisplayName: 煉獄の平石
-		}
-
-		AstralStone: {
-			Tooltip: ""
-			DisplayName: アストラルの石
-		}
-
-		AstralSnow: {
-			Tooltip: ""
-			DisplayName: アストラルの雪
-		}
-
-		AstralSandstone: {
-			Tooltip: ""
-			DisplayName: アストラルの砂岩
-		}
-
-		AstralSand: {
-			Tooltip: ""
-			DisplayName: アストラルの砂
-		}
-
-		AstralMonolith: {
-			Tooltip: ""
-			DisplayName: アストラルのモノリス
-		}
-
-		AstralIce: {
-			Tooltip: ""
-			DisplayName: アストラルの氷
-		}
-
-		AstralGrassSeeds: {
-			Tooltip: アストラルの土の上に草を生やす
-			DisplayName: アストラルの草の種
-		}
-
-		AstralDirt: {
-			Tooltip: ""
-			DisplayName: アストラルの土
-		}
-
-		AstralClay: {
-			Tooltip: ""
-			DisplayName: アストラルの粘土
-		}
-
-		AstralBrick: {
-			Tooltip: ""
-			DisplayName: アストラルレンガ
-		}
-
-		AerialiteBrick: {
-			Tooltip: ""
-			DisplayName: エアリアライトレンガ
-		}
-
-		Acidwood: {
-			Tooltip: ""
-			DisplayName: アシッドウッド
-		}
-
-		AbyssGravel: {
-			Tooltip: ""
-			DisplayName: 深淵の砂利
-		}
-
-		SunkenPylon: {
+		ThankYouPainting: {
+			DisplayName: ありがとう
 			Tooltip:
 				'''
-				２人以上の住民が近くにいる別のパイロンへテレポート
-				１種につき１つだけ、適したバイオームに設置することができる
+				「チーム全員、サポートしてくれたみんな、そしてこのMODをプレイし、存続させてくれているみんなに感謝します！
+				　スペースが足りず、スタッフ全員を入れることができませんでした...」
+				SHIFTキーを押して、開発者リストを見る
 				'''
-			DisplayName: 沈没海のパイロン
 		}
 
-		SulphurPylon: {
+		PiggyCage: {
+			DisplayName: テラリウム（ピギー）
+			Tooltip: ""
+		}
+
+		RefractivePrismTorch: {
+			DisplayName: 屈折プリズムのたいまつ
+			Tooltip: 水中に設置可能
+		}
+
+		RepairUnitCage: {
+			DisplayName: テラリウム（修理ユニット）
+			Tooltip: ""
+		}
+
+		ResilientCandle: {
+			DisplayName: 不滅の蝋燭
 			Tooltip:
 				'''
-				２人以上の住民が近くにいる別のパイロンへテレポート
-				１種につき１つだけ、適したバイオームに設置することができる
+				配置された状態で右クリックすると、ダメージ軽減率が10%増加し、難易度が上がるほど強化される
+				他の蝋燭のバフとは効果が重複しない
+				「雨だろうが風だろうが、その不滅の炎を消すことはできない」
 				'''
-			DisplayName: 硫黄のパイロン
 		}
 
-		CragsPylon: {
+		RustyChest: {
+			DisplayName: 錆びたチェスト
+			Tooltip: ""
+		}
+
+		SeaMinnowJar: {
+			DisplayName: シーミノーの瓶
+			Tooltip: ""
+		}
+
+		SpitefulCandle: {
+			DisplayName: 憎悪の蝋燭
 			Tooltip:
 				'''
-				別のパイロンにテレポートする
-				バイオームの性質上、近くに村人がいなくてもこのパイロンにテレポートすることができる
-				1種類につき1つだけ、同じバイオームに置くことができる
+				配置された状態で右クリックすると、敵が受けるダメージが7%増加する
+				この追加ダメージは敵のダメージ軽減や防御を無視する
+				他の蝋燭のバフとは効果が重複しない
+				「その憎悪に満ちた輝きは、怒りをちらつかせる」
 				'''
-			DisplayName: 煉獄の岩山のパイロン
 		}
 
-		AstralPylon: {
+		SulphurousTorch: {
+			DisplayName: 硫黄のたいまつ
+			Tooltip: 水中に設置可能
+		}
+
+		ThaumaticChair: {
+			DisplayName: ソーマティックのイス
+			Tooltip: クロエの最高傑作のひとつ
+		}
+
+		TranquilityCandle: {
+			DisplayName: 平穏の蝋燭
+			Tooltip: 周囲の敵から更に敵意を減らす
+		}
+
+		ThermalTorch: {
+			DisplayName: 熱のたいまつ
 			Tooltip:
 				'''
-				２人以上の住民が近くにいる別のパイロンへテレポート
-				１種につき１つだけ、適したバイオームに設置することができる
+				水中に設置できる
+				深淵の闇を、設置時に払うことができる
 				'''
-			DisplayName: アストラルのパイロン
 		}
 
-		FormattedBannerTooltip: 以下のモンスターに対してボーナスを得る：{0}
-		FormattedBannerName: "{0}のバナー"
+		VoidTorch: {
+			DisplayName: 深淵のたいまつ
+			Tooltip:
+				'''
+				水中に設置できる
+				深淵の闇を、設置時に払うことができる
+				'''
+		}
+
+		AnahitaTrophy: {
+			DisplayName: アナヒタのトロフィー
+			Tooltip: ""
+		}
+
+		ApolloTrophy: {
+			DisplayName: アポロのトロフィー
+			Tooltip: ""
+		}
+
+		AquaticScourgeTrophy: {
+			DisplayName: アクアティックスカージのトロフィー
+			Tooltip: ""
+		}
+
+		AresTrophy: {
+			DisplayName: アレスのトロフィー
+			Tooltip: ""
+		}
+
+		ArtemisTrophy: {
+			DisplayName: アルテミスのトロフィー
+			Tooltip: ""
+		}
+
+		AstrumAureusTrophy: {
+			DisplayName: アストラムアウレウスのトロフィー
+			Tooltip: ""
+		}
+
+		AstrumDeusTrophy: {
+			DisplayName: アストラムデウスのトロフィー
+			Tooltip: ""
+		}
+
+		BrimstoneElementalTrophy: {
+			DisplayName: ブリムストーンエレメンタルのトロフィー
+			Tooltip: ""
+		}
+
+		CalamitasCloneTrophy: {
+			DisplayName: カラミタスクローンのトロフィー
+			Tooltip: ""
+		}
+
+		CataclysmTrophy: {
+			DisplayName: カタクリズムの傀儡のトロフィー
+			Tooltip: ""
+		}
+
+		CatastropheTrophy: {
+			DisplayName: カタストロフィの傀儡のトロフィー
+			Tooltip: ""
+		}
+
+		CeaselessVoidTrophy: {
+			DisplayName: シースレスヴォイドのトロフィー
+			Tooltip: ""
+		}
+
+		CrabulonTrophy: {
+			DisplayName: クラブロンのトロフィー
+			Tooltip: ""
+		}
+
+		CragmawMireTrophy: {
+			DisplayName: クラグモーマイヤーのトロフィー
+			Tooltip: ""
+		}
+
+		CryogenTrophy: {
+			DisplayName: クライオジェンのトロフィー
+			Tooltip: ""
+		}
+
+		DesertScourgeTrophy: {
+			DisplayName: デザートスカージのトロフィー
+			Tooltip: ""
+		}
+
+		DevourerofGodsTrophy: {
+			DisplayName: デバウアー・オブ・ゴッドのトロフィー
+			Tooltip: ""
+		}
+
+		DragonfollyTrophy: {
+			DisplayName: ドラゴンフォリーのトロフィー
+			Tooltip: ""
+		}
+
+		GiantClamTrophy: {
+			DisplayName: 巨大ハマグリのトロフィー
+			Tooltip: ""
+		}
+
+		GreatSandSharkTrophy: {
+			DisplayName: グレートサンドシャークのトロフィー
+			Tooltip: ""
+		}
+
+		HiveMindTrophy: {
+			DisplayName: ハイブマインドのトロフィー
+			Tooltip: ""
+		}
+
+		LeviathanTrophy: {
+			DisplayName: リヴァイアサンのトロフィー
+			Tooltip: ""
+		}
+
+		MaulerTrophy: {
+			DisplayName: モーラーのトロフィー
+			Tooltip: ""
+		}
+
+		NuclearTerrorTrophy: {
+			DisplayName: ニュークリアーテラーのトロフィー
+			Tooltip: ""
+		}
+
+		OldDukeTrophy: {
+			DisplayName: オールドデュークのトロフィー
+			Tooltip: ""
+		}
+
+		PerforatorTrophy: {
+			DisplayName: パーフォレーターのトロフィー
+			Tooltip: ""
+		}
+
+		PlaguebringerGoliathTrophy: {
+			DisplayName: プレイグブリンガーゴライアスのトロフィー
+			Tooltip: ""
+		}
+
+		PolterghastTrophy: {
+			DisplayName: ポルターガストのトロフィー
+			Tooltip: ""
+		}
+
+		ProfanedGuardianTrophy: {
+			DisplayName: 冒涜された守護者たちのトロフィー
+			Tooltip: ""
+		}
+
+		ProvidenceTrophy: {
+			DisplayName: プロヴィデンスのトロフィー
+			Tooltip: ""
+		}
+
+		RavagerTrophy: {
+			DisplayName: ラヴェジャーのトロフィー
+			Tooltip: ""
+		}
+
+		SignusTrophy: {
+			DisplayName: シグナスのトロフィー
+			Tooltip: ""
+		}
+
+		SlimeGodTrophy: {
+			DisplayName: スライムゴッドのトロフィー
+			Tooltip: ""
+		}
+
+		SupremeCalamitasTrophy: {
+			DisplayName: カラミタスのトロフィー
+			Tooltip: ""
+		}
+
+		SupremeCataclysmTrophy: {
+			DisplayName: カタクリズムのトロフィー
+			Tooltip: ""
+		}
+
+		SupremeCatastropheTrophy: {
+			DisplayName: カタストロフィーのトロフィー
+			Tooltip: ""
+		}
+
+		ThanatosTrophy: {
+			DisplayName: タナトスのトロフィー
+			Tooltip: ""
+		}
+
+		WeaverTrophy: {
+			DisplayName: ストームウィーバーのトロフィー
+			Tooltip: ""
+		}
+
+		YharonTrophy: {
+			DisplayName: ヤーロンのトロフィー
+			Tooltip: ""
+		}
+
+		TwinklerInABottle: {
+			DisplayName: 瓶詰めの光
+			Tooltip: ""
+		}
+
+		VigorousCandle: {
+			DisplayName: 活力の蝋燭
+			Tooltip:
+				'''
+				配置された状態で右クリックすると、1秒ごとに最大体力の0.4%を回復する
+				この自然回復は移動中でも常に効果を発揮し、リベンジェンスモードの上限を無視する
+				他の蝋燭のバフとは効果が重複しない
+				「その輝かしい光は、近くにいる人々の心をを希望で満たす」
+				'''
+		}
+
+		WeightlessCandle: {
+			DisplayName: 軽快の蝋燭
+			Tooltip:
+				'''
+				配置された状態で右クリックすると、移動速度10%、飛行時間10%、加速度10%を得る
+				他の蝋燭のバフとは効果が重複しない
+				「浮遊する炎は、あなたの精神そのものを高揚させるようだ」
+				'''
+		}
+
+		WulfrumLureItem: {
+			DisplayName: ウルフラムのルアー
+			Tooltip:
+				'''
+				"[i:CalamityMod/EnergyCore] エナジーコアを消費し、ウルフラムオートマトンを誘い出すウルフラム信号を発する"
+				信号は30秒間続く
+				'''
+		}
+
+		ZenithThrone: {
+			DisplayName: 至高の玉座
+			Tooltip: 「遊びは終わりだ、残るのはDPSだけ...」
+		}
+
+		AbyssBathtub: {
+			DisplayName: 深淵の浴槽
+			Tooltip: ""
+		}
+
+		AbyssBed: {
+			DisplayName: 深淵のベッド
+			Tooltip: ""
+		}
+
+		AbyssBookcase: {
+			DisplayName: 深淵の本棚
+			Tooltip: ""
+		}
+
+		AbyssCandelabra: {
+			DisplayName: 深淵の燭台
+			Tooltip: ""
+		}
+
+		AbyssCandle: {
+			DisplayName: 深淵の蝋燭
+			Tooltip: ""
+		}
+
+		AbyssChair: {
+			DisplayName: 深淵のイス
+			Tooltip: ""
+		}
+
+		AbyssChandelier: {
+			DisplayName: 深淵のシャンデリア
+			Tooltip: ""
+		}
+
+		AbyssChest: {
+			DisplayName: 深淵の宝箱
+			Tooltip: ""
+		}
+
+		AbyssClock: {
+			DisplayName: 深淵の時計
+			Tooltip: ""
+		}
+
+		AbyssDoor: {
+			DisplayName: 深淵のドア
+			Tooltip: ""
+		}
+
+		AbyssDresser: {
+			DisplayName: 深淵のドレッサー
+			Tooltip: ""
+		}
+
+		AbyssLamp: {
+			DisplayName: 深淵のランプ
+			Tooltip: ""
+		}
+
+		AbyssLantern: {
+			DisplayName: 深淵のランタン
+			Tooltip: ""
+		}
+
+		AbyssSink: {
+			DisplayName: 深淵のシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		AbyssSofa: {
+			DisplayName: 深淵のソファ
+			Tooltip: ""
+		}
+
+		AbyssSynth: {
+			DisplayName: 深淵のシンセ
+			Tooltip: ""
+		}
+
+		AbyssTable: {
+			DisplayName: 深淵のテーブル
+			Tooltip: ""
+		}
+
+		AbyssWorkBench: {
+			DisplayName: 深淵の作業台
+			Tooltip: ""
+		}
+
+		SmoothAbyssGravel: {
+			DisplayName: 滑らかな深淵の砂利
+			Tooltip: ""
+		}
+
+		SmoothAbyssGravelPlatform: {
+			DisplayName: 滑らかな深淵の砂利の足場
+			Tooltip: ""
+		}
+
+		AcidwoodBathtub: {
+			DisplayName: アシッドウッドの浴槽
+			Tooltip: ""
+		}
+
+		AcidwoodBed: {
+			DisplayName: アシッドウッドのベッド
+			Tooltip: ""
+		}
+
+		AcidwoodBench: {
+			DisplayName: アシッドウッドの台
+			Tooltip: ""
+		}
+
+		AcidwoodBookcase: {
+			DisplayName: アシッドウッドの本棚
+			Tooltip: ""
+		}
+
+		AcidwoodCandelabra: {
+			DisplayName: アシッドウッドの燭台
+			Tooltip: ""
+		}
+
+		AcidwoodCandle: {
+			DisplayName: アシッドウッドの蝋燭
+			Tooltip: ""
+		}
+
+		AcidwoodChair: {
+			DisplayName: アシッドウッドのイス
+			Tooltip: ""
+		}
+
+		AcidwoodChandelier: {
+			DisplayName: アシッドウッドのシャンデリア
+			Tooltip: ""
+		}
+
+		AcidwoodChest: {
+			DisplayName: アシッドウッドの宝箱
+			Tooltip: ""
+		}
+
+		AcidwoodClock: {
+			DisplayName: アシッドウッドの時計
+			Tooltip: ""
+		}
+
+		AcidwoodDoor: {
+			DisplayName: アシッドウッドのドア
+			Tooltip: ""
+		}
+
+		AcidwoodDresser: {
+			DisplayName: アシッドウッドのドレッサー
+			Tooltip: ""
+		}
+
+		AcidwoodLamp: {
+			DisplayName: アシッドウッドのランプ
+			Tooltip: ""
+		}
+
+		AcidwoodLantern: {
+			DisplayName: アシッドウッドのランタン
+			Tooltip: ""
+		}
+
+		AcidwoodPiano: {
+			DisplayName: アシッドウッドのピアノ
+			Tooltip: ""
+		}
+
+		AcidwoodPlatform: {
+			DisplayName: アシッドウッドの足場
+			Tooltip: ""
+		}
+
+		AcidwoodSink: {
+			DisplayName: アシッドウッドのシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		AcidwoodTable: {
+			DisplayName: アシッドウッドのテーブル
+			Tooltip: ""
+		}
+
+		AcidwoodWorkBench: {
+			DisplayName: アシッドウッドの作業台
+			Tooltip: ""
+		}
+
+		AncientAltar: {
+			DisplayName: 古代の祭壇
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		AncientBasin: {
+			DisplayName: 古代のシンク
+			Tooltip: ""
+		}
+
+		AncientBathtub: {
+			DisplayName: 古代の浴槽
+			Tooltip: ""
+		}
+
+		AncientBed: {
+			DisplayName: 古代のベッド
+			Tooltip: ""
+		}
+
+		AncientBookcase: {
+			DisplayName: 古代の本棚
+			Tooltip: ""
+		}
+
+		AncientChair: {
+			DisplayName: 古代のイス
+			Tooltip: ""
+		}
+
+		AncientChandelier: {
+			DisplayName: 古代のシャンデリア
+			Tooltip: ""
+		}
+
+		AncientDoor: {
+			DisplayName: 古代のドア
+			Tooltip: ""
+		}
+
+		AncientDresser: {
+			DisplayName: 古代のドレッサー
+			Tooltip: ""
+		}
+
+		AncientLamp: {
+			DisplayName: 古代のランプ
+			Tooltip: ""
+		}
+
+		AncientLantern: {
+			DisplayName: 古代のランタン
+			Tooltip: ""
+		}
+
+		AncientMonolith: {
+			DisplayName: 古代のモノリス
+			Tooltip: ""
+		}
+
+		AncientPipeOrgan: {
+			DisplayName: 古代のパイプオルガン
+			Tooltip: ""
+		}
+
+		AncientSink: {
+			DisplayName: 古代のシンク
+			Tooltip: 溶岩源としてカウントされる
+		}
+
+		AncientSofa: {
+			DisplayName: 古代のソファ
+			Tooltip: ""
+		}
+
+		AncientTable: {
+			DisplayName: 古代のテーブル
+			Tooltip: ""
+		}
+
+		AncientWorkBench: {
+			DisplayName: 古代の作業台
+			Tooltip: ""
+		}
+
+		AshenAccentSlab: {
+			DisplayName: アクセント用の灰の平石
+			Tooltip:
+				'''
+				近くのブロックと異なる形で接続される、灰の平石の亜種
+				「腕の立つ建築家に好まれる」
+				'''
+		}
+
+		AshenBasin: {
+			DisplayName: 灰のシンク
+			Tooltip: ""
+		}
+
+		AshenBathtub: {
+			DisplayName: 灰の浴槽
+			Tooltip: ""
+		}
+
+		AshenBed: {
+			DisplayName: 灰のベッド
+			Tooltip: ""
+		}
+
+		AshenBookcase: {
+			DisplayName: 灰の本棚
+			Tooltip: ""
+		}
+
+		AshenCandelabra: {
+			DisplayName: 灰の燭台
+			Tooltip: ""
+		}
+
+		AshenCandle: {
+			DisplayName: 灰の蝋燭
+			Tooltip: ""
+		}
+
+		AshenChair: {
+			DisplayName: 灰のイス
+			Tooltip: ""
+		}
+
+		AshenChandelier: {
+			DisplayName: 灰のシャンデリア
+			Tooltip: ""
+		}
+
+		AshenChest: {
+			DisplayName: 灰の宝箱
+			Tooltip: ""
+		}
+
+		AshenDoor: {
+			DisplayName: 灰のドア
+			Tooltip: ""
+		}
+
+		AshenDresser: {
+			DisplayName: 灰のドレッサー
+			Tooltip: ""
+		}
+
+		AshenLamp: {
+			DisplayName: 灰のランプ
+			Tooltip: ""
+		}
+
+		AshenLantern: {
+			DisplayName: 灰のランタン
+			Tooltip: ""
+		}
+
+		AshenMonolith: {
+			DisplayName: 灰のモノリス
+			Tooltip: ""
+		}
+
+		AshenPipeOrgan: {
+			DisplayName: 灰のパイプオルガン
+			Tooltip: ""
+		}
+
+		AshenPlatform: {
+			DisplayName: 灰の足場
+			Tooltip: ""
+		}
+
+		AshenSink: {
+			DisplayName: 灰のシンク
+			Tooltip: 溶岩源としてカウントされる
+		}
+
+		AshenSlab: {
+			DisplayName: 灰の平石
+			Tooltip: ""
+		}
+
+		AshenSofa: {
+			DisplayName: 灰のソファ
+			Tooltip: ""
+		}
+
+		AshenTable: {
+			DisplayName: 灰のテーブル
+			Tooltip: ""
+		}
+
+		AshenWorkBench: {
+			DisplayName: 灰の作業台
+			Tooltip: ""
+		}
+
+		SmoothBrimstoneSlag: {
+			DisplayName: 滑らかな煉獄の鉱滓
+			Tooltip: ""
+		}
+
+		ActivatedAuricPanel: {
+			DisplayName: 起動したオーリックパネル
+			Tooltip: ""
+		}
+
+		AuricAbsorber: {
+			DisplayName: オーリック吸収器
+			Tooltip: ""
+		}
+
+		AuricConsole: {
+			DisplayName: オーリックコンソール
+			Tooltip: ""
+		}
+
+		AuricDisplay: {
+			DisplayName: オーリックディスプレイ
+			Tooltip: ""
+		}
+
+		AuricLandMine: {
+			DisplayName: オーリック地雷
+			Tooltip: 「踏むと爆発する...」
+		}
+
+		AuricPanel: {
+			DisplayName: オーリックパネル
+			Tooltip: ""
+		}
+
+		AuricPlatform: {
+			DisplayName: オーリックの足場
+			Tooltip: ""
+		}
+
+		AuricReinforcedCrate: {
+			DisplayName: オーリック強化クレート
+			Tooltip: ""
+		}
+
+		AuricRepulserPanel: {
+			DisplayName: オーリック反発パネル
+			Tooltip: 接触したプレイヤーを反発させる
+		}
+
+		AuricScreen: {
+			DisplayName: オーリックスクリーン
+			Tooltip: ""
+		}
+
+		AuricServer: {
+			DisplayName: オーリックサーバー
+			Tooltip: ""
+		}
+
+		AuricTerminal: {
+			DisplayName: オーリック端末
+			Tooltip: ""
+		}
+
+		ExoAuricPanel: {
+			DisplayName: エクソ・オーリックパネル
+			Tooltip: ""
+		}
+
+		BotanicBathtub: {
+			DisplayName: ボタニックの浴槽
+			Tooltip: ""
+		}
+
+		BotanicBed: {
+			DisplayName: ボタニックのベッド
+			Tooltip: ""
+		}
+
+		BotanicBench: {
+			DisplayName: ボタニックの台
+			Tooltip: ""
+		}
+
+		BotanicBookcase: {
+			DisplayName: ボタニックの本棚
+			Tooltip: ""
+		}
+
+		BotanicCandelabra: {
+			DisplayName: ボタニックの燭台
+			Tooltip: ""
+		}
+
+		BotanicCandle: {
+			DisplayName: ボタニックの蝋燭
+			Tooltip: ""
+		}
+
+		BotanicChair: {
+			DisplayName: ボタニックのイス
+			Tooltip: ""
+		}
+
+		BotanicChandelier: {
+			DisplayName: ボタニックのシャンデリア
+			Tooltip: ""
+		}
+
+		BotanicChest: {
+			DisplayName: ボタニックの宝箱
+			Tooltip: ""
+		}
+
+		BotanicClock: {
+			DisplayName: ボタニックの時計
+			Tooltip: ""
+		}
+
+		BotanicDoor: {
+			DisplayName: ボタニックのドア
+			Tooltip: ""
+		}
+
+		BotanicDresser: {
+			DisplayName: ボタニックのドレッサー
+			Tooltip: ""
+		}
+
+		BotanicLamp: {
+			DisplayName: ボタニックのランプ
+			Tooltip: ""
+		}
+
+		BotanicLantern: {
+			DisplayName: ボタニックのランタン
+			Tooltip: ""
+		}
+
+		BotanicPiano: {
+			DisplayName: ボタニックのピアノ
+			Tooltip: ""
+		}
+
+		BotanicPlanter: {
+			DisplayName: 植物プランター
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		BotanicPlatform: {
+			DisplayName: ボタニックの足場
+			Tooltip: ""
+		}
+
+		BotanicSink: {
+			DisplayName: ボタニックのシンク
+			Tooltip: エクソの源としてカウントされる
+		}
+
+		BotanicTable: {
+			DisplayName: ボタニックのテーブル
+			Tooltip: ""
+		}
+
+		BotanicWorkBench: {
+			DisplayName: ボタニックの作業台
+			Tooltip: ""
+		}
+
+		CosmiliteBasin: {
+			DisplayName: コズミライトシンク
+			Tooltip: ""
+		}
+
+		CosmiliteBathtub: {
+			DisplayName: コズミライト浴槽
+			Tooltip: ""
+		}
+
+		CosmiliteBed: {
+			DisplayName: コズミライトベッド
+			Tooltip: ""
+		}
+
+		CosmiliteBookcase: {
+			DisplayName: コズミライト本棚
+			Tooltip: ""
+		}
+
+		CosmiliteBrick: {
+			DisplayName: コズミライトのレンガ
+			Tooltip: ""
+		}
+
+		CosmiliteCandelabra: {
+			DisplayName: コズミライト燭台
+			Tooltip: ""
+		}
+
+		CosmiliteCandle: {
+			DisplayName: コズミライト蝋燭
+			Tooltip: ""
+		}
+
+		CosmiliteChair: {
+			DisplayName: コズミライトイス
+			Tooltip: ""
+		}
+
+		CosmiliteChandelier: {
+			DisplayName: コズミライトシャンデリア
+			Tooltip: ""
+		}
+
+		CosmiliteChest: {
+			DisplayName: コズミライト宝箱
+			Tooltip: ""
+		}
+
+		CosmiliteClock: {
+			DisplayName: コズミライト時計
+			Tooltip: ""
+		}
+
+		CosmiliteDoor: {
+			DisplayName: コズミライトドア
+			Tooltip: ""
+		}
+
+		CosmiliteDresser: {
+			DisplayName: コズミライトドレッサー
+			Tooltip: ""
+		}
+
+		CosmiliteLamp: {
+			DisplayName: コズミライトランプ
+			Tooltip: ""
+		}
+
+		CosmiliteLantern: {
+			DisplayName: コズミライトランタン
+			Tooltip: ""
+		}
+
+		CosmilitePiano: {
+			DisplayName: コズミライトピアノ
+			Tooltip: ""
+		}
+
+		CosmilitePlatform: {
+			DisplayName: コズミライト足場
+			Tooltip: ""
+		}
+
+		CosmiliteSconce: {
+			DisplayName: コズミライトの壁掛け燭台
+			Tooltip: ""
+		}
+
+		CosmiliteSink: {
+			DisplayName: コズミライトシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		CosmiliteSofa: {
+			DisplayName: コズミライトソファ
+			Tooltip: ""
+		}
+
+		CosmiliteTable: {
+			DisplayName: コズミライトテーブル
+			Tooltip: ""
+		}
+
+		CosmiliteWorkBench: {
+			DisplayName: コズミライト作業台
+			Tooltip: ""
+		}
+
+		DriftwoodBaroqueCello: {
+			DisplayName: 流木のBaroque Cello
+			Tooltip: ""
+		}
+
+		DriftwoodBathtub: {
+			DisplayName: 流木のBathtub
+			Tooltip: ""
+		}
+
+		DriftwoodBed: {
+			DisplayName: 流木のBed
+			Tooltip: ""
+		}
+
+		DriftwoodBookcase: {
+			DisplayName: 流木のBookcase
+			Tooltip: ""
+		}
+
+		DriftwoodCandelabra: {
+			DisplayName: 流木のCandelabra
+			Tooltip: ""
+		}
+
+		DriftwoodCandle: {
+			DisplayName: 流木のCandle
+			Tooltip: ""
+		}
+
+		DriftwoodChair: {
+			DisplayName: 流木のChair
+			Tooltip: ""
+		}
+
+		DriftwoodChandelier: {
+			DisplayName: 流木のChandelier
+			Tooltip: ""
+		}
+
+		DriftwoodChest: {
+			DisplayName: 流木のChest
+			Tooltip: ""
+		}
+
+		DriftwoodDoor: {
+			DisplayName: 流木のDoor
+			Tooltip: ""
+		}
+
+		DriftwoodDresser: {
+			DisplayName: 流木のDresser
+			Tooltip: ""
+		}
+
+		DriftwoodLamp: {
+			DisplayName: 流木のLamp
+			Tooltip: ""
+		}
+
+		DriftwoodLantern: {
+			DisplayName: 流木のLantern
+			Tooltip: ""
+		}
+
+		DriftwoodPlatform: {
+			DisplayName: 流木のPlatform
+			Tooltip: ""
+		}
+
+		DriftwoodSink: {
+			DisplayName: 流木のSink
+			Tooltip: Counts as a water source
+		}
+
+		DriftwoodSofa: {
+			DisplayName: 流木のSofa
+			Tooltip: ""
+		}
+
+		DriftwoodSundial: {
+			DisplayName: 流木のSundial
+			Tooltip: ""
+		}
+
+		DriftwoodTable: {
+			DisplayName: 流木のTable
+			Tooltip: ""
+		}
+
+		DriftwoodToilet: {
+			DisplayName: 流木のToilet
+			Tooltip: ""
+		}
+
+		DriftwoodWorkBench: {
+			DisplayName: 流木のWork Bench
+			Tooltip: ""
+		}
+
+		AncientNavystoneBathtub: {
+			DisplayName: 古代のネイビーストーンBathtub
+			Tooltip: ""
+		}
+
+		AncientNavystoneBed: {
+			DisplayName: 古代のネイビーストーンBed
+			Tooltip: ""
+		}
+
+		AncientNavystoneBench: {
+			DisplayName: 古代のネイビーストーンBench
+			Tooltip: ""
+		}
+
+		AncientNavystoneBookcase: {
+			DisplayName: 古代のネイビーストーンBookcase
+			Tooltip: ""
+		}
+
+		AncientNavystoneCandelabra: {
+			DisplayName: 古代のネイビーストーンCandelabra
+			Tooltip: ""
+		}
+
+		AncientNavystoneCandle: {
+			DisplayName: 古代のネイビーストーンCandle
+			Tooltip: ""
+		}
+
+		AncientNavystoneChair: {
+			DisplayName: 古代のネイビーストーンChair
+			Tooltip: ""
+		}
+
+		AncientNavystoneChandelier: {
+			DisplayName: 古代のネイビーストーンChandelier
+			Tooltip: ""
+		}
+
+		AncientNavystoneChest: {
+			DisplayName: 古代のネイビーストーンChest
+			Tooltip: ""
+		}
+
+		AncientNavystoneClock: {
+			DisplayName: 古代のネイビーストーンClock
+			Tooltip: ""
+		}
+
+		AncientNavystoneDoor: {
+			DisplayName: 古代のネイビーストーンDoor
+			Tooltip: ""
+		}
+
+		AncientNavystoneDresser: {
+			DisplayName: 古代のネイビーストーンDresser
+			Tooltip: ""
+		}
+
+		AncientNavystoneLamp: {
+			DisplayName: 古代のネイビーストーンLamp
+			Tooltip: ""
+		}
+
+		AncientNavystoneLantern: {
+			DisplayName: 古代のネイビーストーンLantern
+			Tooltip: ""
+		}
+
+		AncientNavystonePiano: {
+			DisplayName: 古代のネイビーストーンPiano
+			Tooltip: ""
+		}
+
+		AncientNavystonePlatform: {
+			DisplayName: 古代のネイビーストーンPlatform
+			Tooltip: ""
+		}
+
+		AncientNavystoneSink: {
+			DisplayName: 古代のネイビーストーンSink
+			Tooltip: Counts as a water source
+		}
+
+		AncientNavystoneTable: {
+			DisplayName: 古代のネイビーストーンTable
+			Tooltip: ""
+		}
+
+		AncientNavystoneWorkBench: {
+			DisplayName: 古代のネイビーストーンWork Bench
+			Tooltip: ""
+		}
+
+		AncientSmoothNavystone: {
+			DisplayName: 古代のSmooth Navystone
+			Tooltip: ""
+		}
+
+		EutrophicShelf: {
+			DisplayName: ユートロフィックシェルフ
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		NavystoneBathtub: {
+			DisplayName: ネイビーストーンBathtub
+			Tooltip: ""
+		}
+
+		NavystoneBed: {
+			DisplayName: ネイビーストーンBed
+			Tooltip: ""
+		}
+
+		NavystoneBookcase: {
+			DisplayName: ネイビーストーンBookcase
+			Tooltip: ""
+		}
+
+		NavystoneCandelabra: {
+			DisplayName: ネイビーストーンCandelabra
+			Tooltip: ""
+		}
+
+		NavystoneCandle: {
+			DisplayName: ネイビーストーンCandle
+			Tooltip: ""
+		}
+
+		NavystoneChair: {
+			DisplayName: ネイビーストーンChair
+			Tooltip: ""
+		}
+
+		NavystoneChandelier: {
+			DisplayName: ネイビーストーンChandelier
+			Tooltip: ""
+		}
+
+		NavystoneChest: {
+			DisplayName: ネイビーストーンChest
+			Tooltip: ""
+		}
+
+		NavystoneClock: {
+			DisplayName: ネイビーストーンClock
+			Tooltip: ""
+		}
+
+		NavystoneDoor: {
+			DisplayName: ネイビーストーンDoor
+			Tooltip: ""
+		}
+
+		NavystoneDresser: {
+			DisplayName: ネイビーストーンDresser
+			Tooltip: ""
+		}
+
+		NavystoneLamp: {
+			DisplayName: ネイビーストーンLamp
+			Tooltip: ""
+		}
+
+		NavystoneLantern: {
+			DisplayName: ネイビーストーンLantern
+			Tooltip: ""
+		}
+
+		NavystoneLyre: {
+			DisplayName: Navystone Lyre
+			Tooltip: ""
+		}
+
+		NavystonePlatform: {
+			DisplayName: Navystone Platform
+			Tooltip: ""
+		}
+
+		NavystoneSink: {
+			DisplayName: Navystone Sink
+			Tooltip: Counts as a water source
+		}
+
+		NavystoneTable: {
+			DisplayName: Navystone Table
+			Tooltip: ""
+		}
+
+		NavystoneToilet: {
+			DisplayName: Navystone Toilet
+			Tooltip: ""
+		}
+
+		NavystoneTriclinium: {
+			DisplayName: Navystone Triclinium
+			Tooltip: ""
+		}
+
+		NavystoneWorkBench: {
+			DisplayName: Navystone Work Bench
+			Tooltip: ""
+		}
+
+		SmoothNavystone: {
+			DisplayName: 滑らかなネイビーストーン
+			Tooltip: ""
+		}
+
+		ExoBathtub: {
+			DisplayName: エクソの浴槽
+			Tooltip: ""
+		}
+
+		ExoBed: {
+			DisplayName: エクソのベッド
+			Tooltip: ""
+		}
+
+		ExoBookcase: {
+			DisplayName: エクソの本棚
+			Tooltip: ""
+		}
+
+		ExoCandelabra: {
+			DisplayName: エクソの燭台
+			Tooltip: ""
+		}
+
+		ExoCandle: {
+			DisplayName: エクソの蝋燭
+			Tooltip: ""
+		}
+
+		ExoChair: {
+			DisplayName: エクソのイス
+			Tooltip: ""
+		}
+
+		ExoChandelier: {
+			DisplayName: エクソのシャンデリア
+			Tooltip: ""
+		}
+
+		ExoChest: {
+			DisplayName: エクソの宝箱
+			Tooltip: ""
+		}
+
+		ExoClock: {
+			DisplayName: エクソの時計
+			Tooltip: ""
+		}
+
+		ExoConsole: {
+			DisplayName: エクソコンソール
+			Tooltip: ""
+		}
+
+		ExoDisplay: {
+			DisplayName: エクソディスプレイ
+			Tooltip: ""
+		}
+
+		ExoDoor: {
+			DisplayName: エクソのドア
+			Tooltip: ""
+		}
+
+		ExoDresser: {
+			DisplayName: エクソのドレッサー
+			Tooltip: ""
+		}
+
+		ExoKeyboard: {
+			DisplayName: エクソキーボード
+			Tooltip: ""
+		}
+
+		ExoLamp: {
+			DisplayName: エクソのランプ
+			Tooltip: ""
+		}
+
+		ExoLantern: {
+			DisplayName: エクソのランタン
+			Tooltip: ""
+		}
+
+		ExoPlatform: {
+			DisplayName: エクソの足場
+			Tooltip: ""
+		}
+
+		ExoPlating: {
+			DisplayName: エクソの装甲板
+			Tooltip: ""
+		}
+
+		ExoPrismPanel: {
+			DisplayName: エクソのプリズムパネル
+			Tooltip: ""
+		}
+
+		ExoPrismPlatform: {
+			DisplayName: エクソプリズムの足場
+			Tooltip: ""
+		}
+
+		ExoScreen: {
+			DisplayName: エクソスクリーン
+			Tooltip: ""
+		}
+
+		ExoServer: {
+			DisplayName: エクソサーバー
+			Tooltip: ""
+		}
+
+		ExoSink: {
+			DisplayName: エクソのシンク
+			Tooltip: 水、蜂蜜、溶岩の源としてカウントされる
+		}
+
+		ExoSofa: {
+			DisplayName: エクソのソファ
+			Tooltip: ""
+		}
+
+		ExoTable: {
+			DisplayName: エクソのテーブル
+			Tooltip: ""
+		}
+
+		ExoTerminal: {
+			DisplayName: エクソターミナル
+			Tooltip: ""
+		}
+
+		ExoToilet: {
+			DisplayName: エクソのトイレ
+			Tooltip: ""
+		}
+
+		ExoWorkBench: {
+			DisplayName: エクソの作業台
+			Tooltip: ""
+		}
+
+		MarniteChest: {
+			DisplayName: Marnite Chest
+			Tooltip: ""
+		}
+
+		MarniteDresser: {
+			DisplayName: Marnite Dresser
+			Tooltip: ""
+		}
+
+		MarniteBathtub: {
+			DisplayName: Marnite Bathtub
+			Tooltip: ""
+		}
+
+		MarniteBed: {
+			DisplayName: Marnite Bed
+			Tooltip: ""
+		}
+
+		MarniteBookcase: {
+			DisplayName: Marnite Bookcase
+			Tooltip: ""
+		}
+
+		MarniteCandelabra: {
+			DisplayName: Marnite Candelabra
+			Tooltip: ""
+		}
+
+		MarniteCandle: {
+			DisplayName: Marnite Candle
+			Tooltip: ""
+		}
+
+		MarniteChair: {
+			DisplayName: Marnite Chair
+			Tooltip: ""
+		}
+
+		MarniteChandelier: {
+			DisplayName: Marnite Chandelier
+			Tooltip: ""
+		}
+
+		MarniteClock: {
+			DisplayName: Marnite Clock
+			Tooltip: ""
+		}
+
+		MarniteDoor: {
+			DisplayName: Marnite Door
+			Tooltip: ""
+		}
+
+		MarniteLamp: {
+			DisplayName: Marnite Lamp
+			Tooltip: ""
+		}
+
+		MarniteLantern: {
+			DisplayName: Marnite Lantern
+			Tooltip: ""
+		}
+
+		MarniteLight: {
+			DisplayName: Marnite Light
+			Tooltip: ""
+		}
+
+		MarniteOrgan: {
+			DisplayName: Marnite Organ
+			Tooltip: ""
+		}
+
+		MarniteSink: {
+			DisplayName: Marnite Sink
+			Tooltip: ""
+		}
+
+		MarniteSofa: {
+			DisplayName: Marnite Sofa
+			Tooltip: ""
+		}
+
+		MarniteTable: {
+			DisplayName: Marnite Table
+			Tooltip: ""
+		}
+
+		MarniteToilet: {
+			DisplayName: Marnite Toilet
+			Tooltip: ""
+		}
+
+		MarniteWorkBench: {
+			DisplayName: Marnite Work Bench
+			Tooltip: ""
+		}
+
+		PolishedMarniteBlock: {
+			DisplayName: Polished Marnite Block
+			Tooltip: ""
+		}
+
+		PolishedMarnitePlatform: {
+			DisplayName: Polished Marnite Platform
+			Tooltip: ""
+		}
+
+		PolishedMarniteWall: {
+			DisplayName: Polished Marnite Wall
+			Tooltip: ""
+		}
+
+		MonolithAmalgam: {
+			DisplayName: モノリスアマルガム
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		MonolithBathtub: {
+			DisplayName: モノリスの浴槽
+			Tooltip: ""
+		}
+
+		MonolithBed: {
+			DisplayName: モノリスのベッド
+			Tooltip: ""
+		}
+
+		MonolithBench: {
+			DisplayName: モノリスの台
+			Tooltip: ""
+		}
+
+		MonolithBookcase: {
+			DisplayName: モノリスの本棚
+			Tooltip: ""
+		}
+
+		MonolithCandelabra: {
+			DisplayName: モノリスの燭台
+			Tooltip: ""
+		}
+
+		MonolithCandle: {
+			DisplayName: モノリスの蝋燭
+			Tooltip: ""
+		}
+
+		MonolithChair: {
+			DisplayName: モノリスのイス
+			Tooltip: ""
+		}
+
+		MonolithChandelier: {
+			DisplayName: モノリスのシャンデリア
+			Tooltip: ""
+		}
+
+		MonolithChest: {
+			DisplayName: モノリスの宝箱
+			Tooltip: ""
+		}
+
+		MonolithClock: {
+			DisplayName: モノリスの時計
+			Tooltip: ""
+		}
+
+		MonolithDoor: {
+			DisplayName: モノリスのドア
+			Tooltip: ""
+		}
+
+		MonolithDresser: {
+			DisplayName: モノリスのドレッサー
+			Tooltip: ""
+		}
+
+		MonolithLamp: {
+			DisplayName: モノリスのランプ
+			Tooltip: ""
+		}
+
+		MonolithLantern: {
+			DisplayName: モノリスのランタン
+			Tooltip: ""
+		}
+
+		MonolithPiano: {
+			DisplayName: モノリスのピアノ
+			Tooltip: ""
+		}
+
+		MonolithPlatform: {
+			DisplayName: モノリスの足場
+			Tooltip: ""
+		}
+
+		MonolithSink: {
+			DisplayName: モノリスのシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		MonolithTable: {
+			DisplayName: モノリスのテーブル
+			Tooltip: ""
+		}
+
+		MonolithWorkBench: {
+			DisplayName: モノリスの作業台
+			Tooltip: ""
+		}
+
+		OtherworldlyBathtub: {
+			DisplayName: 異世界の浴槽
+			Tooltip: ""
+		}
+
+		OtherworldlyBed: {
+			DisplayName: 異世界のベッド
+			Tooltip: ""
+		}
+
+		OtherworldlyBookcase: {
+			DisplayName: 異世界の本棚
+			Tooltip: ""
+		}
+
+		OtherworldlyCandelabra: {
+			DisplayName: 異世界の燭台
+			Tooltip: ""
+		}
+
+		OtherworldlyCandle: {
+			DisplayName: 異世界の蝋燭
+			Tooltip: ""
+		}
+
+		OtherworldlyChair: {
+			DisplayName: 異世界のイス
+			Tooltip: ""
+		}
+
+		OtherworldlyChandelier: {
+			DisplayName: 異世界のシャンデリア
+			Tooltip: ""
+		}
+
+		OtherworldlyChest: {
+			DisplayName: 異世界の宝箱
+			Tooltip: ""
+		}
+
+		OtherworldlyClock: {
+			DisplayName: 異世界の時計
+			Tooltip: ""
+		}
+
+		OtherworldlyDoor: {
+			DisplayName: 異世界のドア
+			Tooltip: ""
+		}
+
+		OtherworldlyDresser: {
+			DisplayName: 異世界のドレッサー
+			Tooltip: ""
+		}
+
+		OtherworldlyLamp: {
+			DisplayName: 異世界のランプ
+			Tooltip: ""
+		}
+
+		OtherworldlyLantern: {
+			DisplayName: 異世界のランタン
+			Tooltip: ""
+		}
+
+		OtherworldlyPiano: {
+			DisplayName: 異世界のピアノ
+			Tooltip: ""
+		}
+
+		OtherworldlyPlatform: {
+			DisplayName: 異世界の足場
+			Tooltip: ""
+		}
+
+		OtherworldlySink: {
+			DisplayName: 異世界のシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		OtherworldlySofa: {
+			DisplayName: 異世界のソファ
+			Tooltip: ""
+		}
+
+		OtherworldlyStone: {
+			DisplayName: 異世界の石
+			Tooltip: ""
+		}
+
+		OtherworldlyTable: {
+			DisplayName: 異世界のテーブル
+			Tooltip: ""
+		}
+
+		OtherworldlyWorkBench: {
+			DisplayName: 異世界の作業台
+			Tooltip: ""
+		}
+
+		BrokenPlaguedBed: {
+			DisplayName: 壊れた感染ベッド
+			Tooltip: ""
+		}
+
+		PlaguedContainmentBrick: {
+			DisplayName: 感染抑制のレンガ
+			Tooltip: ""
+		}
+
+		PlaguedPlateBathtub: {
+			DisplayName: 感染した浴槽
+			Tooltip: ""
+		}
+
+		PlaguedPlateBed: {
+			DisplayName: 感染したベッド
+			Tooltip: ベッドとしてカウントされる
+		}
+
+		PlaguedPlateBookcase: {
+			DisplayName: 感染した本棚
+			Tooltip: ""
+		}
+
+		PlaguedPlateCandelabra: {
+			DisplayName: 感染した燭台
+			Tooltip: ""
+		}
+
+		PlaguedPlateCandle: {
+			DisplayName: 感染した蝋燭
+			Tooltip: ""
+		}
+
+		PlaguedPlateChair: {
+			DisplayName: 感染したイス
+			Tooltip: ""
+		}
+
+		PlaguedPlateChandelier: {
+			DisplayName: 感染したシャンデリア
+			Tooltip: ""
+		}
+
+		PlaguedPlateChest: {
+			DisplayName: 感染した宝箱
+			Tooltip: ""
+		}
+
+		PlaguedPlateClock: {
+			DisplayName: 感染した時計
+			Tooltip: ""
+		}
+
+		PlaguedPlateDoor: {
+			DisplayName: 感染したドア
+			Tooltip: ""
+		}
+
+		PlaguedPlateDresser: {
+			DisplayName: 感染したドレッサー
+			Tooltip: ""
+		}
+
+		PlaguedPlateLamp: {
+			DisplayName: 感染したランプ
+			Tooltip: ""
+		}
+
+		PlaguedPlateLantern: {
+			DisplayName: 感染したランタン
+			Tooltip: ""
+		}
+
+		PlaguedPlatePiano: {
+			DisplayName: 感染したピアノ
+			Tooltip: ""
+		}
+
+		PlaguedPlatePlatform: {
+			DisplayName: 感染した棚
+			Tooltip: ""
+		}
+
+		PlaguedPlateSink: {
+			DisplayName: 感染したシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		PlaguedPlateSofa: {
+			DisplayName: 感染したソファ
+			Tooltip: ""
+		}
+
+		PlaguedPlateTable: {
+			DisplayName: 感染したテーブル
+			Tooltip: ""
+		}
+
+		PlaguedWorkBench: {
+			DisplayName: 感染した作業台
+			Tooltip: ""
+		}
+
+		ProfanedBathtub: {
+			DisplayName: 穢れた浴槽
+			Tooltip: ""
+		}
+
+		ProfanedBed: {
+			DisplayName: 穢れたベッド
+			Tooltip: ""
+		}
+
+		ProfanedBench: {
+			DisplayName: 穢れた台
+			Tooltip: ""
+		}
+
+		ProfanedBookcase: {
+			DisplayName: 穢れた本棚
+			Tooltip: ""
+		}
+
+		ProfanedCandelabra: {
+			DisplayName: 穢れた燭台
+			Tooltip: ""
+		}
+
+		ProfanedCandle: {
+			DisplayName: 穢れた蝋燭
+			Tooltip: ""
+		}
+
+		ProfanedChair: {
+			DisplayName: 穢れたイス
+			Tooltip: ""
+		}
+
+		ProfanedChandelier: {
+			DisplayName: 穢れたシャンデリア
+			Tooltip: ""
+		}
+
+		ProfanedChest: {
+			DisplayName: 穢れた宝箱
+			Tooltip: ""
+		}
+
+		ProfanedClock: {
+			DisplayName: 穢れた時計
+			Tooltip: ""
+		}
+
+		ProfanedCrystal: {
+			DisplayName: 穢れた水晶
+			Tooltip: ""
+		}
+
+		ProfanedDoor: {
+			DisplayName: 穢れたドア
+			Tooltip: ""
+		}
+
+		ProfanedDresser: {
+			DisplayName: 穢れたドレッサー
+			Tooltip: ""
+		}
+
+		ProfanedLamp: {
+			DisplayName: 穢れたランプ
+			Tooltip: ""
+		}
+
+		ProfanedLantern: {
+			DisplayName: 穢れたランタン
+			Tooltip: ""
+		}
+
+		ProfanedPiano: {
+			DisplayName: 穢れたピアノ
+			Tooltip: ""
+		}
+
+		ProfanedPlatform: {
+			DisplayName: 穢れた足場
+			Tooltip: ""
+		}
+
+		ProfanedRock: {
+			DisplayName: 穢れた岩
+			Tooltip: ""
+		}
+
+		ProfanedSink: {
+			DisplayName: 穢れたシンク
+			Tooltip: 溶岩源としてカウントされる
+		}
+
+		ProfanedSlab: {
+			DisplayName: 穢れた平石
+			Tooltip: ""
+		}
+
+		ProfanedTable: {
+			DisplayName: 穢れたテーブル
+			Tooltip: ""
+		}
+
+		ProfanedWorkBench: {
+			DisplayName: 穢れた作業台
+			Tooltip: ""
+		}
+
+		RunicProfanedBrick: {
+			DisplayName: ルーンの穢れたレンガ
+			Tooltip: ""
+		}
+
+		EyeOfTheAccursedBanner: {
+			DisplayName: 呪われた眼のバナー
+			Tooltip: ""
+		}
+
+		LargeRitualCandle: {
+			DisplayName: 大きな儀式の蝋燭
+			Tooltip: <right> を押して別のスブロックで配置する
+		}
+
+		MonolithOfTheAccursed: {
+			DisplayName: 呪われたモノリス
+			Tooltip:
+				'''
+				空が燃えるように赤く染まる
+				モノリスには2つのモードがある
+				'''
+		}
+
+		OccultBrickItem: {
+			DisplayName: オカルトのレンガ
+			Tooltip: ""
+		}
+
+		OccultLegionnaireBanner: {
+			DisplayName: オカルトレジョネアのバナー
+			Tooltip: ""
+		}
+
+		OccultPlatformItem: {
+			DisplayName: オカルトの足場
+			Tooltip: ""
+		}
+
+		RitualCandle: {
+			DisplayName: 儀式の蝋燭
+			Tooltip: <right> を押して別のスブロックで配置する
+		}
+
+		SacrilegiousBathtub: {
+			DisplayName: 冒涜の浴槽
+			Tooltip: ""
+		}
+
+		SacrilegiousBed: {
+			DisplayName: 冒涜のベッド
+			Tooltip: ""
+		}
+
+		SacrilegiousBench: {
+			DisplayName: 冒涜の台
+			Tooltip: ""
+		}
+
+		SacrilegiousBookcase: {
+			DisplayName: 冒涜の本棚
+			Tooltip: ""
+		}
+
+		SacrilegiousCandelabra: {
+			DisplayName: 冒涜の燭台
+			Tooltip: ""
+		}
+
+		SacrilegiousCandle: {
+			DisplayName: 冒涜の蝋燭
+			Tooltip: ""
+		}
+
+		SacrilegiousChair: {
+			DisplayName: 冒涜のイス
+			Tooltip: ""
+		}
+
+		SacrilegiousChandelier: {
+			DisplayName: 冒涜のシャンデリア
+			Tooltip: ""
+		}
+
+		SacrilegiousChest: {
+			DisplayName: 冒涜の宝箱
+			Tooltip: ""
+		}
+
+		SacrilegiousClock: {
+			DisplayName: 冒涜の時計
+			Tooltip: ""
+		}
+
+		SacrilegiousDoor: {
+			DisplayName: 冒涜のドア
+			Tooltip: ""
+		}
+
+		SacrilegiousDresser: {
+			DisplayName: 冒涜のドレッサー
+			Tooltip: ""
+		}
+
+		SacrilegiousLamp: {
+			DisplayName: 冒涜のランプ
+			Tooltip: ""
+		}
+
+		SacrilegiousLantern: {
+			DisplayName: 冒涜のランタン
+			Tooltip: ""
+		}
+
+		SacrilegiousOrgan: {
+			DisplayName: 冒涜のオルガン
+			Tooltip: ""
+		}
+
+		SacrilegiousSink: {
+			DisplayName: 冒涜のシンク
+			Tooltip: 水、蜂蜜、溶岩の源としてカウントされる
+		}
+
+		SacrilegiousTable: {
+			DisplayName: 冒涜のテーブル
+			Tooltip: ""
+		}
+
+		SacrilegiousWorkBench: {
+			DisplayName: 冒涜の作業台
+			Tooltip: ""
+		}
+
+		SilvaBasin: {
+			DisplayName: Silva Basin
+			Tooltip: ""
+		}
+
+		SilvaBathtub: {
+			DisplayName: シルヴァの浴槽
+			Tooltip: ""
+		}
+
+		SilvaBed: {
+			DisplayName: シルヴァのベッド
+			Tooltip: ""
+		}
+
+		SilvaBench: {
+			DisplayName: シルヴァの台
+			Tooltip: ""
+		}
+
+		SilvaBookcase: {
+			DisplayName: シルヴァの本棚
+			Tooltip: ""
+		}
+
+		SilvaCandelabra: {
+			DisplayName: シルヴァの燭台
+			Tooltip: ""
+		}
+
+		SilvaCandle: {
+			DisplayName: シルヴァの蝋燭
+			Tooltip: ""
+		}
+
+		SilvaChair: {
+			DisplayName: シルヴァのイス
+			Tooltip: ""
+		}
+
+		SilvaChandelier: {
+			DisplayName: シルヴァのシャンデリア
+			Tooltip: ""
+		}
+
+		SilvaChest: {
+			DisplayName: シルヴァの宝箱
+			Tooltip: ""
+		}
+
+		SilvaClock: {
+			DisplayName: シルヴァの時計
+			Tooltip: ""
+		}
+
+		SilvaCrystal: {
+			DisplayName: シルヴァクリスタル
+			Tooltip: ""
+		}
+
+		SilvaDoor: {
+			DisplayName: シルヴァのドア
+			Tooltip: ""
+		}
+
+		SilvaDresser: {
+			DisplayName: シルヴァのドレッサー
+			Tooltip: ""
+		}
+
+		SilvaLamp: {
+			DisplayName: シルヴァのランプ
+			Tooltip: ""
+		}
+
+		SilvaLantern: {
+			DisplayName: シルヴァのランタン
+			Tooltip: ""
+		}
+
+		SilvaPiano: {
+			DisplayName: シルヴァのピアノ
+			Tooltip: ""
+		}
+
+		SilvaPlatform: {
+			DisplayName: シルヴァの足場
+			Tooltip: ""
+		}
+
+		SilvaSink: {
+			DisplayName: シルヴァのシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		SilvaTable: {
+			DisplayName: シルヴァのテーブル
+			Tooltip: ""
+		}
+
+		SilvaWorkBench: {
+			DisplayName: シルヴァの作業台
+			Tooltip: ""
+		}
+
+		StaticRefiner: {
+			DisplayName: 静かな精製機
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		StatigelBathtub: {
+			DisplayName: 浄化ジェルの浴槽
+			Tooltip: ""
+		}
+
+		StatigelBed: {
+			DisplayName: 浄化ジェルのベッド
+			Tooltip: ""
+		}
+
+		StatigelBlock: {
+			DisplayName: 浄化ジェルのブロック
+			Tooltip: ""
+		}
+
+		StatigelBookcase: {
+			DisplayName: 浄化ジェルの本棚
+			Tooltip: ""
+		}
+
+		StatigelCandelabra: {
+			DisplayName: 浄化ジェルの燭台
+			Tooltip: ""
+		}
+
+		StatigelCandle: {
+			DisplayName: 浄化ジェルの蝋燭
+			Tooltip: ""
+		}
+
+		StatigelChair: {
+			DisplayName: 浄化ジェルのイス
+			Tooltip: ""
+		}
+
+		StatigelChandelier: {
+			DisplayName: 浄化ジェルのシャンデリア
+			Tooltip: ""
+		}
+
+		StatigelChest: {
+			DisplayName: 浄化ジェルの宝箱
+			Tooltip: ""
+		}
+
+		StatigelClock: {
+			DisplayName: 浄化ジェルの時計
+			Tooltip: ""
+		}
+
+		StatigelDoor: {
+			DisplayName: 浄化ジェルのドア
+			Tooltip: ""
+		}
+
+		StatigelDresser: {
+			DisplayName: 浄化ジェルのドレッサー
+			Tooltip: ""
+		}
+
+		StatigelLamp: {
+			DisplayName: 浄化ジェルのランプ
+			Tooltip: ""
+		}
+
+		StatigelLantern: {
+			DisplayName: 浄化ジェルのランタン
+			Tooltip: ""
+		}
+
+		StatigelPiano: {
+			DisplayName: 浄化ジェルのピアノ
+			Tooltip: ""
+		}
+
+		StatigelPlatform: {
+			DisplayName: 浄化ジェルの足場
+			Tooltip: ""
+		}
+
+		StatigelSink: {
+			DisplayName: 浄化ジェルのシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		StatigelSofa: {
+			DisplayName: 浄化ジェルのソファ
+			Tooltip: ""
+		}
+
+		StatigelTable: {
+			DisplayName: 浄化ジェルのテーブル
+			Tooltip: ""
+		}
+
+		StatigelWorkBench: {
+			DisplayName: 浄化ジェルの作業台
+			Tooltip: ""
+		}
+
+		StratusBathtub: {
+			DisplayName: ストラトスの浴槽
+			Tooltip: ""
+		}
+
+		StratusBed: {
+			DisplayName: ストラトスのベッド
+			Tooltip: ""
+		}
+
+		StratusBookcase: {
+			DisplayName: ストラトスの本棚
+			Tooltip: ""
+		}
+
+		StratusBricks: {
+			DisplayName: ストラトスのレンガ
+			Tooltip: ""
+		}
+
+		StratusCandelabra: {
+			DisplayName: ストラトスの燭台
+			Tooltip: ""
+		}
+
+		StratusCandle: {
+			DisplayName: ストラトスの蝋燭
+			Tooltip: ""
+		}
+
+		StratusChair: {
+			DisplayName: ストラトスのイス
+			Tooltip: ""
+		}
+
+		StratusChandelier: {
+			DisplayName: ストラトスのシャンデリア
+			Tooltip: ""
+		}
+
+		StratusChest: {
+			DisplayName: ストラトスの宝箱
+			Tooltip: ""
+		}
+
+		StratusClock: {
+			DisplayName: ストラトスの時計
+			Tooltip: ""
+		}
+
+		StratusDoor: {
+			DisplayName: ストラトスのドア
+			Tooltip: ""
+		}
+
+		StratusDresser: {
+			DisplayName: ストラトスのドレッサー
+			Tooltip: ""
+		}
+
+		StratusLamp: {
+			DisplayName: ストラトスのランプ
+			Tooltip: ""
+		}
+
+		StratusLantern: {
+			DisplayName: ストラトスのランタン
+			Tooltip: ""
+		}
+
+		StratusPiano: {
+			DisplayName: ストラトスのピアノ
+			Tooltip: ""
+		}
+
+		StratusPlatform: {
+			DisplayName: ストラトスの足場
+			Tooltip: ""
+		}
+
+		StratusSink: {
+			DisplayName: ストラトスのシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		StratusSofa: {
+			DisplayName: ストラトスのソファ
+			Tooltip: ""
+		}
+
+		StratusStarPlatformItem: {
+			DisplayName: ストラトススターの足場
+			Tooltip: ""
+		}
+
+		StratusTable: {
+			DisplayName: ストラトスのテーブル
+			Tooltip: ""
+		}
+
+		StratusWorkBench: {
+			DisplayName: ストラトスの作業台
+			Tooltip: ""
+		}
+
+		SmoothVoidstone: {
+			DisplayName: 滑らかなボイドストーン
+			Tooltip: ""
+		}
+
+		SmoothVoidstonePlatform: {
+			DisplayName: 滑らかなボイドストーンの足場
+			Tooltip: ""
+		}
+
+		VoidBathtub: {
+			DisplayName: 虚空の浴槽
+			Tooltip: ""
+		}
+
+		VoidBed: {
+			DisplayName: 虚空のベッド
+			Tooltip: ""
+		}
+
+		VoidBookcase: {
+			DisplayName: 虚空の本棚
+			Tooltip: ""
+		}
+
+		VoidCandelabra: {
+			DisplayName: 虚空の燭台
+			Tooltip: ""
+		}
+
+		VoidCandle: {
+			DisplayName: 虚空の蝋燭
+			Tooltip: ""
+		}
+
+		VoidChair: {
+			DisplayName: 虚空のイス
+			Tooltip: ""
+		}
+
+		VoidChandelier: {
+			DisplayName: 虚空のシャンデリア
+			Tooltip: ""
+		}
+
+		VoidChest: {
+			DisplayName: 虚空の宝箱
+			Tooltip: ""
+		}
+
+		VoidDoor: {
+			DisplayName: 虚空のドア
+			Tooltip: ""
+		}
+
+		VoidDresser: {
+			DisplayName: 虚空のドレッサー
+			Tooltip: ""
+		}
+
+		VoidLamp: {
+			DisplayName: 虚空のランプ
+			Tooltip: ""
+		}
+
+		VoidLantern: {
+			DisplayName: 虚空のランタン
+			Tooltip: ""
+		}
+
+		VoidObelisk: {
+			DisplayName: 虚空のオベリスク
+			Tooltip: ""
+		}
+
+		VoidPiano: {
+			DisplayName: 虚空のピアノ
+			Tooltip: ""
+		}
+
+		VoidSink: {
+			DisplayName: 虚空のシンク
+			Tooltip: 水源としてカウントされる
+		}
+
+		VoidSofa: {
+			DisplayName: 虚空のソファ
+			Tooltip: ""
+		}
+
+		VoidstoneSlab: {
+			DisplayName: ボイドストーンの平石
+			Tooltip: ""
+		}
+
+		VoidTable: {
+			DisplayName: 虚空のテーブル
+			Tooltip: ""
+		}
+
+		VoidWorkBench: {
+			DisplayName: 虚空の作業台
+			Tooltip: ""
+		}
+
+		ChargedWulfrumEnergyBarrier: {
+			DisplayName: Charged Wulfrum Energy Barrier
+			Tooltip: ""
+		}
+
+		ChargedWulfrumWallMountedBulb: {
+			DisplayName: Charged Wulfrum Wall Mounted Bulb
+			Tooltip: ""
+		}
+
+		WulfrumBathtub: {
+			DisplayName: ウルフラムの浴槽
+			Tooltip: ""
+		}
+
+		WulfrumBed: {
+			DisplayName: ウルフラムのベッド
+			Tooltip: ""
+		}
+
+		WulfrumBookcase: {
+			DisplayName: ウルフラムの本棚
+			Tooltip: ""
+		}
+
+		WulfrumCandelabra: {
+			DisplayName: ウルフラムの燭台
+			Tooltip: ""
+		}
+
+		WulfrumCandle: {
+			DisplayName: ウルフラムの蝋燭
+			Tooltip: ""
+		}
+
+		WulfrumChair: {
+			DisplayName: ウルフラムのイス
+			Tooltip: ""
+		}
+
+		WulfrumChandelier: {
+			DisplayName: ウルフラムのシャンデリア
+			Tooltip: ""
+		}
+
+		WulfrumClock: {
+			DisplayName: ウルフラムの時計
+			Tooltip: ""
+		}
+
+		WulfrumDresser: {
+			DisplayName: ウルフラムのドレッサー
+			Tooltip: ""
+		}
+
+		WulfrumEnergyBarrier: {
+			DisplayName: Wulfrum Energy Barrier
+			Tooltip: ""
+		}
+
+		WulfrumLabstationItem: {
+			DisplayName: ウルフラム研究ステーション
+			Tooltip: 何かいいものが作れそうだ
+		}
+
+		WulfrumLamp: {
+			DisplayName: ウルフラムのランプ
+			Tooltip: ""
+		}
+
+		WulfrumLantern: {
+			DisplayName: ウルフラムのランタン
+			Tooltip: ""
+		}
+
+		WulfrumPanels: {
+			DisplayName: Wulfrum Panels
+			Tooltip: ""
+		}
+
+		WulfrumPiano: {
+			DisplayName: ウルフラムのピアノ
+			Tooltip: ""
+		}
+
+		WulfrumPlatform: {
+			DisplayName: Wulfrum Platform
+			Tooltip: ""
+		}
+
+		WulfrumPlating: {
+			DisplayName: ウルフラムの装甲板
+			Tooltip: ""
+		}
+
+		WulfrumSheets: {
+			DisplayName: ウルフラムトタン
+			Tooltip: ""
+		}
+
+		WulfrumSiding: {
+			DisplayName: Wulfrum Siding
+			Tooltip: ""
+		}
+
+		WulfrumSink: {
+			DisplayName: ウルフラムのシンク
+			Tooltip: ""
+		}
+
+		WulfrumSofa: {
+			DisplayName: ウルフラムのソファ
+			Tooltip: ""
+		}
+
+		WulfrumTable: {
+			DisplayName: ウルフラムのテーブル
+			Tooltip: ""
+		}
+
+		WulfrumToilet: {
+			DisplayName: ウルフラムのトイレ
+			Tooltip: ""
+		}
+
+		WulfrumWallMountedBulb: {
+			DisplayName: Wulfrum Wall Mounted Bulb
+			Tooltip: ""
+		}
+
+		WulfrumWorkBench: {
+			DisplayName: ウルフラムの作業台
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumBathtub: {
+			DisplayName: Anodized Wulfrum Bathtub
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumBookcase: {
+			DisplayName: Anodized Wulfrum Bookcase
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumChair: {
+			DisplayName: Anodized Wulfrum Chair
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumChandelier: {
+			DisplayName: Anodized Wulfrum Chandelier
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumChest: {
+			DisplayName: Anodized Wulfrum Chest
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumDeskLight: {
+			DisplayName: Anodized Wulfrum Desk Light
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumDoor: {
+			DisplayName: Anodized Wulfrum Door
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumDresser: {
+			DisplayName: Anodized Wulfrum Dresser
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumJukebox: {
+			DisplayName: Anodized Wulfrum Jukebox
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumLamp: {
+			DisplayName: Anodized Wulfrum Lamp
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumLantern: {
+			DisplayName: Anodized Wulfrum Lantern
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumPanels: {
+			DisplayName: Anodized Wulfrum Panels
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumPlatform: {
+			DisplayName: Anodized Wulfrum Platform
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumSink: {
+			DisplayName: Anodized Wulfrum Sink
+			Tooltip: Counts as a water source
+		}
+
+		AnodizedWulfrumSleepingPod: {
+			DisplayName: Anodized Wulfrum Sleeping Pod
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumSofa: {
+			DisplayName: Anodized Wulfrum Sofa
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumTable: {
+			DisplayName: Anodized Wulfrum Table
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumTrim: {
+			DisplayName: Anodized Wulfrum Trim
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumToilet: {
+			DisplayName: Anodized Wulfrum Toilet
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumWorkBench: {
+			DisplayName: Anodized Wulfrum Work Bench
+			Tooltip: ""
+		}
+
+		RoundedAnodizedWulfrumPanels: {
+			DisplayName: Rounded Anodized Wulfrum Panels
+			Tooltip: ""
+		}
+
+		HardenedAstralSand: {
+			DisplayName: 硬化したアストラルの砂
+			Tooltip: ""
+		}
+
+		HardenedSulphurousSandstone: {
+			DisplayName: 硬化した硫黄の砂岩
+			Tooltip: ""
+		}
+
+		LivingBrimstoneFireBlock: {
+			DisplayName: 生きた煉獄の炎のブロック
+			Tooltip: ""
+		}
+
+		LivingGodSlayerFireBlock: {
+			DisplayName: 生きたゴッドスレイヤーの炎のブロック
+			Tooltip: ""
+		}
+
+		LivingHolyFireBlock: {
+			DisplayName: 生きた聖なる炎のブロック
+			Tooltip: ""
+		}
+
+		LivingPlagueFireBlock: {
+			DisplayName: Living Plague Fire Block
+			Tooltip: ""
+		}
+
+		DraedonExoSelectMusicBox: {
+			DisplayName: オルゴール(エクソメカ選択)
+			Tooltip: CDMusic制作の「Signal Received」を再生する
+		}
+
+		DraedonTalkMusicBox: {
+			DisplayName: オルゴール(コードブレイカー)
+			Tooltip: CDMusic制作の「Signal Received」再生する
+		}
+
+		NovaeSlag: {
+			DisplayName: ノバエスラグ
+			Tooltip: ""
+		}
+
+		AerialiteOre: {
+			DisplayName: エアリアライト鉱石
+			Tooltip: ""
+		}
+
+		AerialiteOreDisenchanted: {
+			DisplayName: 失活したエアリアライト鉱石
+			Tooltip: ""
+		}
+
+		AstralOre: {
+			DisplayName: アストラル鉱石
+			Tooltip: ""
+		}
+
+		AuricOre: {
+			DisplayName: オーリック鉱石
+			Tooltip: 「長い間失われていた竜の力を注入された岩」
+		}
+
+		CryonicOre: {
+			DisplayName: クライオニック鉱石
+			Tooltip: ""
+		}
+
+		ExodiumCluster: {
+			DisplayName: エクソディウムの塊
+			Tooltip: 「大いなる未知からの冷たい塊」
+		}
+
+		HallowedOre: {
+			DisplayName: 聖なる鉱石
+			Tooltip: ""
+		}
+
+		InfernalSuevite: {
+			DisplayName: 地獄の変成岩
+			Tooltip: ""
+		}
+
+		PerennialOre: {
+			DisplayName: ペレニアル鉱石
+			Tooltip: ""
+		}
+
+		ScoriaOre: {
+			DisplayName: スコリア鉱石
+			Tooltip: ""
+		}
+
+		UelibloomOre: {
+			DisplayName: ウエリブルーム鉱石
+			Tooltip: ""
+		}
+
+		PerennialBrick: {
+			DisplayName: ペレニアルレンガ
+			Tooltip: ""
+		}
+
+		PlantyMush: {
+			DisplayName: プランティマッシュ
+			Tooltip: ""
+		}
+
+		Cinderplate: {
+			DisplayName: シンダープレート
+			Tooltip: 別世界のエネルギーに共鳴する
+		}
+
+		Elumplate: {
+			DisplayName: エラムプレート
+			Tooltip: 別世界のエネルギーに共鳴する
+		}
+
+		Havocplate: {
+			DisplayName: ハボックプレート
+			Tooltip: 別世界のエネルギーに共鳴する
+		}
+
+		Navyplate: {
+			DisplayName: ネイビープレート
+			Tooltip: 別世界のエネルギーに共鳴する
+		}
+
+		Onyxplate: {
+			DisplayName: オニキスプレート
+			Tooltip: 別世界のエネルギーに共鳴する
+		}
+
+		Plagueplate: {
+			DisplayName: プレイグプレート
+			Tooltip: 別世界のエネルギーに共鳴する
+		}
+
+		PrismShard: {
+			DisplayName: プリズムの欠片
+			Tooltip: 水中でより明るく光る
+		}
+
+		PyreMantle: {
+			DisplayName: 火殻岩
+			Tooltip: ""
+		}
+
+		PyreMantleMolten: {
+			DisplayName: 溶けた火殻岩
+			Tooltip: ""
+		}
+
+		ScorchedBone: {
+			DisplayName: 焼け焦げた骨
+			Tooltip: ""
+		}
+
+		ScorchedRemains: {
+			DisplayName: 焼け焦げた残骸
+			Tooltip: ""
+		}
+
+		ScoriaBrick: {
+			DisplayName: スコリアレンガ
+			Tooltip: ""
+		}
+
+		SeaPrism: {
+			DisplayName: シープリズム
+			Tooltip: ""
+		}
+
+		SeaPrismBrick: {
+			DisplayName: シープリズムレンガ
+			Tooltip: ""
+		}
+
+		SpineSapling: {
+			DisplayName: 小さい脊椎
+			Tooltip: 煉獄の鉱滓に大きな脊椎の苗木を植える
+		}
+
+		Stohne: {
+			DisplayName: Stohne
+			Tooltip: ""
+		}
+
+		SulphurousSand: {
+			DisplayName: 硫黄の砂
+			Tooltip: ""
+		}
+
+		SulphurousSandstone: {
+			DisplayName: 硫黄の砂岩
+			Tooltip: ""
+		}
+
+		SulphurousShale: {
+			DisplayName: 硫黄の頁岩
+			Tooltip: ""
+		}
+
+		Basalt: {
+			DisplayName: Basalt
+			Tooltip: ""
+		}
+
+		Driftwood: {
+			DisplayName: 流木
+			Tooltip: ""
+		}
+
+		Dunesand: {
+			DisplayName: Dunesand
+			Tooltip: ""
+		}
+
+		Navystone: {
+			DisplayName: ネイビーストーン
+			Tooltip: ""
+		}
+
+		Shellstone: {
+			DisplayName: Shellstone
+			Tooltip: ""
+		}
+
+		PolishedNavystoneBrick: {
+			DisplayName: Polished Navystone Brick
+			Tooltip: ""
+		}
+
+		ShellstoneSlab: {
+			DisplayName: Shellstone Slab
+			Tooltip: ""
+		}
+
+		BlackPearlPile: {
+			DisplayName: Black Pearl Pile
+			Tooltip: ""
+		}
+
+		PinkPearlPile: {
+			DisplayName: Pink Pearl Pile
+			Tooltip: ""
+		}
+
+		WhitePearlPile: {
+			DisplayName: White Pearl Pile
+			Tooltip: ""
+		}
+
+		CyanCoral: {
+			DisplayName: Cyan Coral
+			Tooltip: ""
+		}
+
+		MagentaCoral: {
+			DisplayName: Magenta Coral
+			Tooltip: ""
+		}
+
+		OrangeCoral: {
+			DisplayName: Orange Coral
+			Tooltip: ""
+		}
+
+		LimeCoral: {
+			DisplayName: Lime Coral
+			Tooltip: ""
+		}
+
+		YellowCoral: {
+			DisplayName: Yellow Coral
+			Tooltip: ""
+		}
+
+		Runestone: {
+			DisplayName: Runestone
+			Tooltip: ""
+		}
+
+		RuneSand: {
+			DisplayName: Runesand
+			Tooltip: ""
+		}
+
+		Limestone: {
+			DisplayName: Limestone
+			Tooltip: ""
+		}
+
+		PolypSand: {
+			DisplayName: Polyp Sand
+			Tooltip: ""
+		}
+
+		TableCoralLeft: {
+			DisplayName: Table Coral
+			Tooltip: ""
+		}
+
+		VolcanicSand: {
+			DisplayName: Volcanic Sand
+			Tooltip: ""
+		}
+
+		UelibloomBrick: {
+			DisplayName: ウエリブルームレンガ
+			Tooltip: ""
+		}
+
+		VernalSoil: {
+			DisplayName: 春の土壌
+			Tooltip: ""
+		}
+
+		Voidstone: {
+			DisplayName: ヴォイドストーン
+			Tooltip: ""
+		}
+
+		AbyssGravelWallItem: {
+			DisplayName: 深淵の砂利の壁
+			Tooltip: ""
+		}
+
+		AcidwoodWallItem: {
+			DisplayName: アシッドウッドの壁
+			Tooltip: ""
+		}
+
+		AerialiteBrickWall: {
+			DisplayName: エアリアライトレンガの壁
+			Tooltip: ""
+		}
+
+		AncientSmoothNavystoneWall: {
+			DisplayName: 古代のSmooth Navystone Wall
+			Tooltip: ""
+		}
+
+		AshenSlabWall: {
+			DisplayName: 灰の平石の壁
+			Tooltip: ""
+		}
+
+		AstralBrickWall: {
+			DisplayName: アストラルレンガの壁
+			Tooltip: ""
+		}
+
+		AstralDirtWall: {
+			DisplayName: アストラルの土の壁
+			Tooltip: ""
+		}
+
+		AstralGrassWall: {
+			DisplayName: アストラルの草の壁
+			Tooltip: ""
+		}
+
+		AstralIceWall: {
+			DisplayName: アストラルの氷の壁
+			Tooltip: ""
+		}
+
+		AstralMonolithWall: {
+			DisplayName: アストラルモノリスの壁
+			Tooltip: ""
+		}
+
+		AstralSandstoneWall: {
+			DisplayName: アストラルの砂岩の壁
+			Tooltip: ""
+		}
+
+		AstralSnowWall: {
+			DisplayName: アストラルの雪の壁
+			Tooltip: ""
+		}
+
+		AstralStoneWall: {
+			DisplayName: アストラルの石の壁
+			Tooltip: ""
+		}
+
+		BrimstoneSlabWall: {
+			DisplayName: 煉獄の平石の壁
+			Tooltip: ""
+		}
+
+		BrimstoneSlagWall: {
+			DisplayName: 煉獄の鉱滓の壁
+			Tooltip: ""
+		}
+
+		CelestialRemainsWall: {
+			DisplayName: 天上の残骸の壁
+			Tooltip: ""
+		}
+
+		CinderplateWall: {
+			DisplayName: シンダープレートの壁
+			Tooltip: ""
+		}
+
+		CosmiliteBrickWall: {
+			DisplayName: コズミライトレンガの壁
+			Tooltip: ""
+		}
+
+		CryonicBrickWall: {
+			DisplayName: クライオニックレンガの壁
+			Tooltip: ""
+		}
+
+		HazardChevronWall: {
+			DisplayName: ハザードシェブロンの壁
+			Tooltip: ""
+		}
+
+		LaboratoryPanelWall: {
+			DisplayName: 研究所パネルの壁
+			Tooltip: ""
+		}
+
+		LaboratoryPlateBeam: {
+			DisplayName: 研究所のプレートの梁
+			Tooltip: ""
+		}
+
+		LaboratoryPlatePillar: {
+			DisplayName: 研究所のプレートの柱
+			Tooltip: ""
+		}
+
+		LaboratoryPlatingWall: {
+			DisplayName: 研究所のプレートの壁
+			Tooltip: ""
+		}
+
+		RustedPlateBeam: {
+			DisplayName: 錆びたプレートの梁
+			Tooltip: ""
+		}
+
+		RustedPlatePillar: {
+			DisplayName: 錆びたプレートの柱
+			Tooltip: ""
+		}
+
+		RustedPlatingWall: {
+			DisplayName: 錆びたプレートの壁
+			Tooltip: ""
+		}
+
+		AnodizedWulfrumTrimWall: {
+			DisplayName: Anodized Wulfrum Trim Wall
+			Tooltip: ""
+		}
+
+		ChargedWulfrumEnergyBarrierWall: {
+			DisplayName: Charged Wulfrum Energy Barrier Wall
+			Tooltip: ""
+		}
+
+		DriftwoodWall: {
+			DisplayName: 流木のWall
+			Tooltip: ""
+		}
+
+		ElumplateWall: {
+			DisplayName: エルムプレートの壁
+			Tooltip: ""
+		}
+
+		EutrophicGlassWall: {
+			DisplayName: Eutrophic Glass Wall
+			Tooltip: ""
+		}
+
+		ExoPlatingWallItem: {
+			DisplayName: エクソプレートの壁
+			Tooltip: ""
+		}
+
+		ExoPrismPanelWallItem: {
+			DisplayName: エクソプリズムパネルの壁
+			Tooltip: ""
+		}
+
+		FloralWall: {
+			DisplayName: 花の壁
+			Tooltip: ""
+		}
+
+		HardenedAstralSandWall: {
+			DisplayName: 硬化したアストラルの砂の壁
+			Tooltip: ""
+		}
+
+		HardenedSulphurousSandstoneWall: {
+			DisplayName: 硬化した硫黄の砂岩の壁
+			Tooltip: ""
+		}
+
+		HavocplateWall: {
+			DisplayName: ハボックプレートの壁
+			Tooltip: ""
+		}
+
+		LimestoneWall: {
+			DisplayName: Limestone Wall
+			Tooltip: ""
+		}
+
+		NavyplateWall: {
+			DisplayName: ネイビープレートの壁
+			Tooltip: ""
+		}
+
+		NavystoneWall: {
+			DisplayName: 危険なネイビーストーンの壁
+			Tooltip: ""
+		}
+
+		OccultBrickWallItem: {
+			DisplayName: 呪いのレンガの壁
+			Tooltip: ""
+		}
+
+		OnyxplateWall: {
+			DisplayName: オニキスプレートの壁
+			Tooltip: ""
+		}
+
+		OtherworldlyStoneWall: {
+			DisplayName: 別世界の石の壁
+			Tooltip: ""
+		}
+
+		PerennialBrickWall: {
+			DisplayName: ペレニアルレンガの壁
+			Tooltip: ""
+		}
+
+		PlagueContainmentCellsWall: {
+			DisplayName: プレイグプレートの壁
+			Tooltip: ""
+		}
+
+		PlaguedPlateWall: {
+			DisplayName: 疫病抑制の壁
+			Tooltip: ""
+		}
+
+		ProfanedCrystalWall: {
+			DisplayName: 冒涜された水晶の壁
+			Tooltip: ""
+		}
+
+		ProfanedRockWall: {
+			DisplayName: 冒涜された岩の壁
+			Tooltip: ""
+		}
+
+		ProfanedSlabWall: {
+			DisplayName: 冒涜された平石の壁
+			Tooltip: ""
+		}
+
+		PyreMantleWall: {
+			DisplayName: Pyre Mantle Wall
+			Tooltip: ""
+		}
+
+		RoundedAnodizedWulfrumPanelWall: {
+			DisplayName: Rounded Anodized Wulfrum Panel Wall
+			Tooltip: ""
+		}
+
+		RunestoneWall: {
+			DisplayName: Runestone Wall
+			Tooltip: ""
+		}
+
+		RunicProfanedBrickWall: {
+			DisplayName: ルーンの冒涜されたレンガの壁
+			Tooltip: ""
+		}
+
+		ScorchedBoneWall: {
+			DisplayName: 焼け焦げた骨の壁
+			Tooltip: ""
+		}
+
+		ScoriaBrickWall: {
+			DisplayName: スコリアレンガの壁
+			Tooltip: ""
+		}
+
+		ShellstoneSlabWall: {
+			DisplayName: Shellstone Slab Wall
+			Tooltip: ""
+		}
+
+		ShellstoneWall: {
+			DisplayName: Shellstone Wall
+			Tooltip: ""
+		}
+
+		SilvaWall: {
+			DisplayName: シルヴァの壁
+			Tooltip: ""
+		}
+
+		SmoothAbyssGravelWall: {
+			DisplayName: 滑らかな深淵の砂利の壁
+			Tooltip: ""
+		}
+
+		SmoothBrimstoneSlagWall: {
+			DisplayName: 滑らかな煉獄の鉱滓の壁
+			Tooltip: ""
+		}
+
+		SmoothNavystoneWall: {
+			DisplayName: 滑らかなネイビーストンの壁
+			Tooltip: ""
+		}
+
+		SmoothVoidstoneWall: {
+			DisplayName: 滑らかなボイドストーンの壁
+			Tooltip: ""
+		}
+
+		StatigelWall: {
+			DisplayName: 浄化ジェルの壁
+			Tooltip: ""
+		}
+
+		StratusWall: {
+			DisplayName: 層雲の壁
+			Tooltip: ""
+		}
+
+		SulphurousSandstoneWall: {
+			DisplayName: 硫黄の砂岩の壁
+			Tooltip: ""
+		}
+
+		SulphurousSandWall: {
+			DisplayName: 硫黄の砂の壁
+			Tooltip: ""
+		}
+
+		SulphurousShaleWall: {
+			DisplayName: 硫黄の頁岩の壁
+			Tooltip: ""
+		}
+
+		UelibloomBrickWall: {
+			DisplayName: ウエリブルームレンガの壁
+			Tooltip: ""
+		}
+
+		VoidstoneSlabWall: {
+			DisplayName: ボイドストーンレンガの壁
+			Tooltip: ""
+		}
+
+		VoidstoneWall: {
+			DisplayName: ボイドストーンの壁
+			Tooltip: ""
+		}
+
+		WulfrumComplexPanelWall: {
+			DisplayName: Wulfrum Complex Panel Wall
+			Tooltip: ""
+		}
+
+		WulfrumEnergyBarrierWall: {
+			DisplayName: Wulfrum Energy Barrier Wall
+			Tooltip: ""
+		}
+
+		WulfrumPanelWall: {
+			DisplayName: Wulfrum Panel Wall
+			Tooltip: ""
+		}
+
+		WulfrumPillar: {
+			DisplayName: Wulfrum Pillar
+			Tooltip: ""
+		}
+
+		WulfrumPlatingWall: {
+			DisplayName: ウルフラムメッキの壁
+			Tooltip: ""
+		}
+
+		WulfrumSheetWall: {
+			DisplayName: ウルフラムトタンの壁
+			Tooltip: ""
+		}
+
+		WulfrumSidingWall: {
+			DisplayName: Wulfrum Siding Wall
+			Tooltip: ""
+		}
+
+		FireTurret: {
+			DisplayName: 火炎タレット
+			Tooltip:
+				'''
+				近くの敵を火炎放射器で攻撃する
+				ボスが生きている間は攻撃できない
+				'''
+		}
+
+		HostileFireTurret: {
+			DisplayName: 敵性タレット
+			Tooltip: 近くのプレーヤーを火炎放射器で攻撃する
+		}
+
+		HostileIceTurret: {
+			DisplayName: 敵性氷タレット
+			Tooltip: 近くのプレイヤーに壊れやすい氷のミスト弾を発射する
+		}
+
+		HostileLabTurret: {
+			DisplayName: 敵性研究所タレット
+			Tooltip: 近くのプレイヤーにレーザー光線を照射する
+		}
+
+		HostileLaserTurret: {
+			DisplayName: 敵性レーザータレット
+			Tooltip: 稲妻のような速さのレーザービームで近くのプレーヤーを吹き飛ばす
+		}
+
+		HostileOnyxTurret: {
+			DisplayName: 敵性オニキスタレット
+			Tooltip: 散弾の弾丸を近くのプレイヤーに向けて放つ
+		}
+
+		HostilePlagueTurret: {
+			DisplayName: 敵性疫病タレット
+			Tooltip: 近くのプレイヤーに向かって追尾ミサイルを発射する
+		}
+
+		HostileWaterTurret: {
+			DisplayName: 敵性水タレット
+			Tooltip: 近くにいるプレイヤーに向かって高速で水を噴射する
+		}
+
+		IceTurret: {
+			DisplayName: 氷タレット
+			Tooltip:
+				'''
+				近くの敵に壊れやすい氷の霧の爆弾を発射する
+				ボスが生きている間は動作を停止する
+				'''
+		}
+
+		LabTurret: {
+			DisplayName: 研究所タレット
+			Tooltip:
+				'''
+				散弾銃の弾丸を近くの選手に向けて放つ
+				ボスが生きている間は動作を停止する
+				'''
+		}
+
+		LaserTurret: {
+			DisplayName: レーザータレット
+			Tooltip:
+				'''
+				光速のレーザービームで近くの敵を吹き飛ばす
+				ボスが生きている間は動作を停止する
+				'''
+		}
+
+		OnyxTurret: {
+			DisplayName: オニキスタレット
+			Tooltip:
+				'''
+				散弾の弾丸を近くの敵に撃ち込む
+				ボスが生きている間は動作を停止する
+				'''
+		}
+
+		PlagueTurret: {
+			DisplayName: 疫病タレット
+			Tooltip:
+				'''
+				近くの敵に向かって追尾ミサイルを発射する
+				ボスが生きている間は動作を停止する
+				'''
+		}
+
+		WaterTurret: {
+			DisplayName: 水タレット
+			Tooltip:
+				'''
+				近くの敵に高速の水爆弾を放つ
+				ボスが生きている間は動作を停止する
+				'''
+		}
+
+		CagedLablightItem: {
+			DisplayName: Caged Lablight
+			Tooltip: ""
+		}
+
+		AgedLablightItem: {
+			DisplayName: Aged Lablight
+			Tooltip: ""
+		}
+
+		MiniCagedLablightItem: {
+			DisplayName: Mini Caged Lablight
+			Tooltip: ""
+		}
+
+		MiniAgedLablightItem: {
+			DisplayName: Mini Aged Lablight
+			Tooltip: ""
+		}
+
+		CagedCinderlightItem: {
+			DisplayName: Caged Cinderlight
+			Tooltip: ""
+		}
+
+		AgedCinderlightItem: {
+			DisplayName: Aged Cinderlight
+			Tooltip: ""
+		}
+
+		MiniCagedCinderlightItem: {
+			DisplayName: Mini Caged Cinderlight
+			Tooltip: ""
+		}
+
+		MiniAgedCinderlightItem: {
+			DisplayName: Mini Aged Cinderlight
+			Tooltip: ""
+		}
+
+		CagedFlamelightItem: {
+			DisplayName: Caged Flamelight
+			Tooltip: ""
+		}
+
+		AgedFlamelightItem: {
+			DisplayName: Aged Flamelight
+			Tooltip: ""
+		}
+
+		MiniCagedFlamelightItem: {
+			DisplayName: Mini Caged Flamelight
+			Tooltip: ""
+		}
+
+		MiniAgedFlamelightItem: {
+			DisplayName: Mini Aged Flamelight
+			Tooltip: ""
+		}
+
+		CagedFrostlightItem: {
+			DisplayName: Caged Frostlight
+			Tooltip: ""
+		}
+
+		AgedFrostlightItem: {
+			DisplayName: Aged Frostlight
+			Tooltip: ""
+		}
+
+		MiniCagedFrostlightItem: {
+			DisplayName: Mini Caged Frostlight
+			Tooltip: ""
+		}
+
+		MiniAgedFrostlightItem: {
+			DisplayName: Mini Aged Frostlight
+			Tooltip: ""
+		}
+
+		CagedBiolightItem: {
+			DisplayName: Caged Biolight
+			Tooltip: ""
+		}
+
+		AgedBiolightItem: {
+			DisplayName: Aged Biolight
+			Tooltip: ""
+		}
+
+		MiniCagedBiolightItem: {
+			DisplayName: Mini Caged Biolight
+			Tooltip: ""
+		}
+
+		MiniAgedBiolightItem: {
+			DisplayName: Mini Aged Biolight
+			Tooltip: ""
+		}
+
+		CagedBlacklightItem: {
+			DisplayName: Caged Blacklight
+			Tooltip: ""
+		}
+
+		AgedBlacklightItem: {
+			DisplayName: Aged Blacklight
+			Tooltip: ""
+		}
+
+		MiniCagedBlacklightItem: {
+			DisplayName: Mini Caged Blacklight
+			Tooltip: ""
+		}
+
+		MiniAgedBlacklightItem: {
+			DisplayName: Mini Aged Blacklight
+			Tooltip: ""
+		}
+
+		CagedFloodlightItem: {
+			DisplayName: Caged Floodlight
+			Tooltip: ""
+		}
+
+		AgedFloodlightItem: {
+			DisplayName: Aged Floodlight
+			Tooltip: ""
+		}
+
+		MiniCagedFloodlightItem: {
+			DisplayName: Mini Caged Floodlight
+			Tooltip: ""
+		}
+
+		MiniAgedFloodlightItem: {
+			DisplayName: Mini Aged Floodlight
+			Tooltip: ""
+		}
+
+		AridSoil: {
+			DisplayName: Arid Soil
+			Tooltip: ""
+		}
+
+		RunestoneTerracotta: {
+			DisplayName: Runestone Terracotta
+			Tooltip: ""
+		}
+
+		ShellTrimBrick: {
+			DisplayName: Shell Trim Brick
+			Tooltip: ""
+		}
+
+		ShellTrimBrickWall: {
+			DisplayName: Shell Trim Brick Wall
+			Tooltip: ""
+		}
+
+		BasaltSlab: {
+			DisplayName: Basalt Slab
+			Tooltip: ""
+		}
+
+		UnsafeNavystoneWall: {
+			DisplayName: Unsafe Navystone Wall
+			Tooltip: ""
+		}
+
+		MossyStone: {
+			DisplayName: Mossy Stone
+			Tooltip: ""
+		}
+
+		EutrophicSandWall: {
+			DisplayName: 危険なユートロフィックの砂の壁
+			Tooltip: ""
+		}
+
+		EutrophicSandWallSafe: {
+			DisplayName: ユートロフィックの砂の壁
+			Tooltip: ""
+		}
 	}
 
 	Accessories: {
