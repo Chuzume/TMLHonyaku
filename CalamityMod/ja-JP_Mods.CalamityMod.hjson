@@ -21035,202 +21035,202 @@ Items: {
 		}
 
 		DriftwoodBaroqueCello: {
-			DisplayName: 流木のBaroque Cello
+			DisplayName: 流木のバロックチェロ
 			Tooltip: ""
 		}
 
 		DriftwoodBathtub: {
-			DisplayName: 流木のBathtub
+			DisplayName: 流木の浴槽
 			Tooltip: ""
 		}
 
 		DriftwoodBed: {
-			DisplayName: 流木のBed
+			DisplayName: 流木のベッド
 			Tooltip: ""
 		}
 
 		DriftwoodBookcase: {
-			DisplayName: 流木のBookcase
+			DisplayName: 流木の本棚
 			Tooltip: ""
 		}
 
 		DriftwoodCandelabra: {
-			DisplayName: 流木のCandelabra
+			DisplayName: 流木の燭台
 			Tooltip: ""
 		}
 
 		DriftwoodCandle: {
-			DisplayName: 流木のCandle
+			DisplayName: 流木の蝋燭
 			Tooltip: ""
 		}
 
 		DriftwoodChair: {
-			DisplayName: 流木のChair
+			DisplayName: 流木のイス
 			Tooltip: ""
 		}
 
 		DriftwoodChandelier: {
-			DisplayName: 流木のChandelier
+			DisplayName: 流木のシャンデリア
 			Tooltip: ""
 		}
 
 		DriftwoodChest: {
-			DisplayName: 流木のChest
+			DisplayName: 流木の宝箱
 			Tooltip: ""
 		}
 
 		DriftwoodDoor: {
-			DisplayName: 流木のDoor
+			DisplayName: 流木のドア
 			Tooltip: ""
 		}
 
 		DriftwoodDresser: {
-			DisplayName: 流木のDresser
+			DisplayName: 流木のドレッサー
 			Tooltip: ""
 		}
 
 		DriftwoodLamp: {
-			DisplayName: 流木のLamp
+			DisplayName: 流木のランプ
 			Tooltip: ""
 		}
 
 		DriftwoodLantern: {
-			DisplayName: 流木のLantern
+			DisplayName: 流木のランタン
 			Tooltip: ""
 		}
 
 		DriftwoodPlatform: {
-			DisplayName: 流木のPlatform
+			DisplayName: 流木の足場
 			Tooltip: ""
 		}
 
 		DriftwoodSink: {
-			DisplayName: 流木のSink
-			Tooltip: Counts as a water source
+			DisplayName: 流木のシンク
+			Tooltip: 水源として扱われる
 		}
 
 		DriftwoodSofa: {
-			DisplayName: 流木のSofa
+			DisplayName: 流木のソファ
 			Tooltip: ""
 		}
 
 		DriftwoodSundial: {
-			DisplayName: 流木のSundial
+			DisplayName: 流木の日時計
 			Tooltip: ""
 		}
 
 		DriftwoodTable: {
-			DisplayName: 流木のTable
+			DisplayName: 流木のテーブル
 			Tooltip: ""
 		}
 
 		DriftwoodToilet: {
-			DisplayName: 流木のToilet
+			DisplayName: 流木のトイレ
 			Tooltip: ""
 		}
 
 		DriftwoodWorkBench: {
-			DisplayName: 流木のWork Bench
+			DisplayName: 流木の作業台
 			Tooltip: ""
 		}
 
 		AncientNavystoneBathtub: {
-			DisplayName: 古代のネイビーストーンBathtub
+			DisplayName: 古代のネイビーストーンの浴槽
 			Tooltip: ""
 		}
 
 		AncientNavystoneBed: {
-			DisplayName: 古代のネイビーストーンBed
+			DisplayName: 古代のネイビーストーンのベッド
 			Tooltip: ""
 		}
 
 		AncientNavystoneBench: {
-			DisplayName: 古代のネイビーストーンBench
+			DisplayName: 古代のネイビーストーンのベンチ
 			Tooltip: ""
 		}
 
 		AncientNavystoneBookcase: {
-			DisplayName: 古代のネイビーストーンBookcase
+			DisplayName: 古代のネイビーストーンの本棚
 			Tooltip: ""
 		}
 
 		AncientNavystoneCandelabra: {
-			DisplayName: 古代のネイビーストーンCandelabra
+			DisplayName: 古代のネイビーストーンの燭台
 			Tooltip: ""
 		}
 
 		AncientNavystoneCandle: {
-			DisplayName: 古代のネイビーストーンCandle
+			DisplayName: 古代のネイビーストーンの蝋燭
 			Tooltip: ""
 		}
 
 		AncientNavystoneChair: {
-			DisplayName: 古代のネイビーストーンChair
+			DisplayName: 古代のネイビーストーンのイス
 			Tooltip: ""
 		}
 
 		AncientNavystoneChandelier: {
-			DisplayName: 古代のネイビーストーンChandelier
+			DisplayName: 古代のネイビーストーンのシャンデリア
 			Tooltip: ""
 		}
 
 		AncientNavystoneChest: {
-			DisplayName: 古代のネイビーストーンChest
+			DisplayName: 古代のネイビーストーンのチェスト
 			Tooltip: ""
 		}
 
 		AncientNavystoneClock: {
-			DisplayName: 古代のネイビーストーンClock
+			DisplayName: 古代のネイビーストーンの時計
 			Tooltip: ""
 		}
 
 		AncientNavystoneDoor: {
-			DisplayName: 古代のネイビーストーンDoor
+			DisplayName: 古代のネイビーストーンのドア
 			Tooltip: ""
 		}
 
 		AncientNavystoneDresser: {
-			DisplayName: 古代のネイビーストーンDresser
+			DisplayName: 古代のネイビーストーンのドレッサー
 			Tooltip: ""
 		}
 
 		AncientNavystoneLamp: {
-			DisplayName: 古代のネイビーストーンLamp
+			DisplayName: 古代のネイビーストーンのランプ
 			Tooltip: ""
 		}
 
 		AncientNavystoneLantern: {
-			DisplayName: 古代のネイビーストーンLantern
+			DisplayName: 古代のネイビーストーンのランタン
 			Tooltip: ""
 		}
 
 		AncientNavystonePiano: {
-			DisplayName: 古代のネイビーストーンPiano
+			DisplayName: 古代のネイビーストーンのピアノ
 			Tooltip: ""
 		}
 
 		AncientNavystonePlatform: {
-			DisplayName: 古代のネイビーストーンPlatform
+			DisplayName: 古代のネイビーストーンの足場
 			Tooltip: ""
 		}
 
 		AncientNavystoneSink: {
-			DisplayName: 古代のネイビーストーンSink
-			Tooltip: Counts as a water source
+			DisplayName: 古代のネイビーストーンのシンク
+			Tooltip: 水源としてカウントされる
 		}
 
 		AncientNavystoneTable: {
-			DisplayName: 古代のネイビーストーンTable
+			DisplayName: 古代のネイビーストーンのテーブル
 			Tooltip: ""
 		}
 
 		AncientNavystoneWorkBench: {
-			DisplayName: 古代のネイビーストーンWork Bench
+			DisplayName: 古代のネイビーストーンの作業台
 			Tooltip: ""
 		}
 
 		AncientSmoothNavystone: {
-			DisplayName: 古代のSmooth Navystone
+			DisplayName: 古代の滑らかなネイビーストーン
 			Tooltip: ""
 		}
 
@@ -21240,102 +21240,102 @@ Items: {
 		}
 
 		NavystoneBathtub: {
-			DisplayName: ネイビーストーンBathtub
+			DisplayName: ネイビーストーンの浴槽
 			Tooltip: ""
 		}
 
 		NavystoneBed: {
-			DisplayName: ネイビーストーンBed
+			DisplayName: ネイビーストーンのベッド
 			Tooltip: ""
 		}
 
 		NavystoneBookcase: {
-			DisplayName: ネイビーストーンBookcase
+			DisplayName: ネイビーストーンの本棚
 			Tooltip: ""
 		}
 
 		NavystoneCandelabra: {
-			DisplayName: ネイビーストーンCandelabra
+			DisplayName: ネイビーストーンの燭台
 			Tooltip: ""
 		}
 
 		NavystoneCandle: {
-			DisplayName: ネイビーストーンCandle
+			DisplayName: ネイビーストーンの蝋燭
 			Tooltip: ""
 		}
 
 		NavystoneChair: {
-			DisplayName: ネイビーストーンChair
+			DisplayName: ネイビーストーンのイス
 			Tooltip: ""
 		}
 
 		NavystoneChandelier: {
-			DisplayName: ネイビーストーンChandelier
+			DisplayName: ネイビーストーンのシャンデリア
 			Tooltip: ""
 		}
 
 		NavystoneChest: {
-			DisplayName: ネイビーストーンChest
+			DisplayName: ネイビーストーンのチェスト
 			Tooltip: ""
 		}
 
 		NavystoneClock: {
-			DisplayName: ネイビーストーンClock
+			DisplayName: ネイビーストーンの時計
 			Tooltip: ""
 		}
 
 		NavystoneDoor: {
-			DisplayName: ネイビーストーンDoor
+			DisplayName: ネイビーストーンのドア
 			Tooltip: ""
 		}
 
 		NavystoneDresser: {
-			DisplayName: ネイビーストーンDresser
+			DisplayName: ネイビーストーンのドレッサー
 			Tooltip: ""
 		}
 
 		NavystoneLamp: {
-			DisplayName: ネイビーストーンLamp
+			DisplayName: ネイビーストーンのランプ
 			Tooltip: ""
 		}
 
 		NavystoneLantern: {
-			DisplayName: ネイビーストーンLantern
+			DisplayName: ネイビーストーンのランタン
 			Tooltip: ""
 		}
 
 		NavystoneLyre: {
-			DisplayName: Navystone Lyre
+			DisplayName: ネイビーストーンの竪琴
 			Tooltip: ""
 		}
 
 		NavystonePlatform: {
-			DisplayName: Navystone Platform
+			DisplayName: ネイビーストーンの足場
 			Tooltip: ""
 		}
 
 		NavystoneSink: {
-			DisplayName: Navystone Sink
-			Tooltip: Counts as a water source
+			DisplayName: ネイビーストーンのシンク
+			Tooltip: 水源としてカウントされる
 		}
 
 		NavystoneTable: {
-			DisplayName: Navystone Table
+			DisplayName: ネイビーストーンのテーブル
 			Tooltip: ""
 		}
 
 		NavystoneToilet: {
-			DisplayName: Navystone Toilet
+			DisplayName: ネイビーストーンのトイレ
 			Tooltip: ""
 		}
 
 		NavystoneTriclinium: {
-			DisplayName: Navystone Triclinium
+			DisplayName: ネイビーストーンのトリクリニウム
 			Tooltip: ""
 		}
 
 		NavystoneWorkBench: {
-			DisplayName: Navystone Work Bench
+			DisplayName: ネイビーストーンの作業台
 			Tooltip: ""
 		}
 
@@ -21485,117 +21485,117 @@ Items: {
 		}
 
 		MarniteChest: {
-			DisplayName: Marnite Chest
+			DisplayName: マーナイトのチェスト
 			Tooltip: ""
 		}
 
 		MarniteDresser: {
-			DisplayName: Marnite Dresser
+			DisplayName: マーナイトのドレッサー
 			Tooltip: ""
 		}
 
 		MarniteBathtub: {
-			DisplayName: Marnite Bathtub
+			DisplayName: マーナイトの浴槽
 			Tooltip: ""
 		}
 
 		MarniteBed: {
-			DisplayName: Marnite Bed
+			DisplayName: マーナイトのベッド
 			Tooltip: ""
 		}
 
 		MarniteBookcase: {
-			DisplayName: Marnite Bookcase
+			DisplayName: マーナイトの本棚
 			Tooltip: ""
 		}
 
 		MarniteCandelabra: {
-			DisplayName: Marnite Candelabra
+			DisplayName: マーナイトの燭台
 			Tooltip: ""
 		}
 
 		MarniteCandle: {
-			DisplayName: Marnite Candle
+			DisplayName: マーナイトの蝋燭
 			Tooltip: ""
 		}
 
 		MarniteChair: {
-			DisplayName: Marnite Chair
+			DisplayName: マーナイトのイス
 			Tooltip: ""
 		}
 
 		MarniteChandelier: {
-			DisplayName: Marnite Chandelier
+			DisplayName: マーナイトのシャンデリア
 			Tooltip: ""
 		}
 
 		MarniteClock: {
-			DisplayName: Marnite Clock
+			DisplayName: マーナイトの時計
 			Tooltip: ""
 		}
 
 		MarniteDoor: {
-			DisplayName: Marnite Door
+			DisplayName: マーナイトのドア
 			Tooltip: ""
 		}
 
 		MarniteLamp: {
-			DisplayName: Marnite Lamp
+			DisplayName: マーナイトのランプ
 			Tooltip: ""
 		}
 
 		MarniteLantern: {
-			DisplayName: Marnite Lantern
+			DisplayName: マーナイトのランタン
 			Tooltip: ""
 		}
 
 		MarniteLight: {
-			DisplayName: Marnite Light
+			DisplayName: マーナイトのライト
 			Tooltip: ""
 		}
 
 		MarniteOrgan: {
-			DisplayName: Marnite Organ
+			DisplayName: マーナイトのオルガン
 			Tooltip: ""
 		}
 
 		MarniteSink: {
-			DisplayName: Marnite Sink
+			DisplayName: マーナイトのシンク
 			Tooltip: ""
 		}
 
 		MarniteSofa: {
-			DisplayName: Marnite Sofa
+			DisplayName: マーナイトのソファ
 			Tooltip: ""
 		}
 
 		MarniteTable: {
-			DisplayName: Marnite Table
+			DisplayName: マーナイトのテーブル
 			Tooltip: ""
 		}
 
 		MarniteToilet: {
-			DisplayName: Marnite Toilet
+			DisplayName: マーナイトのトイレ
 			Tooltip: ""
 		}
 
 		MarniteWorkBench: {
-			DisplayName: Marnite Work Bench
+			DisplayName: マーナイトの作業台
 			Tooltip: ""
 		}
 
 		PolishedMarniteBlock: {
-			DisplayName: Polished Marnite Block
+			DisplayName: 磨かれたマーナイトのブロック
 			Tooltip: ""
 		}
 
 		PolishedMarnitePlatform: {
-			DisplayName: Polished Marnite Platform
+			DisplayName: 磨かれたマーナイトの足場
 			Tooltip: ""
 		}
 
 		PolishedMarniteWall: {
-			DisplayName: Polished Marnite Wall
+			DisplayName: 磨かれたマーナイトの壁
 			Tooltip: ""
 		}
 
@@ -22654,7 +22654,7 @@ Items: {
 		}
 
 		WulfrumPlatform: {
-			DisplayName: Wulfrum Platform
+			DisplayName: Wulfrumの足場
 			Tooltip: ""
 		}
 
@@ -22694,7 +22694,7 @@ Items: {
 		}
 
 		WulfrumWallMountedBulb: {
-			DisplayName: Wulfrum Wall Mounted Bulb
+			DisplayName: ウルフラムの壁掛け電球
 			Tooltip: ""
 		}
 
@@ -22704,107 +22704,107 @@ Items: {
 		}
 
 		AnodizedWulfrumBathtub: {
-			DisplayName: Anodized Wulfrum Bathtub
+			DisplayName: アルマイトウルフラムの浴槽
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumBookcase: {
-			DisplayName: Anodized Wulfrum Bookcase
+			DisplayName: アルマイトウルフラムの本棚
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumChair: {
-			DisplayName: Anodized Wulfrum Chair
+			DisplayName: アルマイトウルフラムのイス
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumChandelier: {
-			DisplayName: Anodized Wulfrum Chandelier
+			DisplayName: アルマイトウルフラムのシャンデリア
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumChest: {
-			DisplayName: Anodized Wulfrum Chest
+			DisplayName: アルマイトウルフラムのチェスト
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumDeskLight: {
-			DisplayName: Anodized Wulfrum Desk Light
+			DisplayName: アルマイトウルフラムのデスクライト
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumDoor: {
-			DisplayName: Anodized Wulfrum Door
+			DisplayName: アルマイトウルフラムのドア
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumDresser: {
-			DisplayName: Anodized Wulfrum Dresser
+			DisplayName: アルマイトウルフラムのドレッサー
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumJukebox: {
-			DisplayName: Anodized Wulfrum Jukebox
+			DisplayName: アルマイトウルフラムのジュークボックス
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumLamp: {
-			DisplayName: Anodized Wulfrum Lamp
+			DisplayName: アルマイトウルフラムのランプ
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumLantern: {
-			DisplayName: Anodized Wulfrum Lantern
+			DisplayName: アルマイトウルフラムのランタン
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumPanels: {
-			DisplayName: Anodized Wulfrum Panels
+			DisplayName: アルマイトウルフラムのパネル
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumPlatform: {
-			DisplayName: Anodized Wulfrum Platform
+			DisplayName: アルマイトウルフラムの足場
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumSink: {
-			DisplayName: Anodized Wulfrum Sink
-			Tooltip: Counts as a water source
+			DisplayName: アルマイトウルフラムのシンク
+			Tooltip: 水源としてカウントされる
 		}
 
 		AnodizedWulfrumSleepingPod: {
-			DisplayName: Anodized Wulfrum Sleeping Pod
+			DisplayName: アルマイトウルフラムの休眠ベッド
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumSofa: {
-			DisplayName: Anodized Wulfrum Sofa
+			DisplayName: アルマイトウルフラムのソファ
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumTable: {
-			DisplayName: Anodized Wulfrum Table
+			DisplayName: アルマイトウルフラムのテーブル
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumTrim: {
-			DisplayName: Anodized Wulfrum Trim
+			DisplayName: アルマイトウルフラムの縁材
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumToilet: {
-			DisplayName: Anodized Wulfrum Toilet
+			DisplayName: アルマイトウルフラムのトイレ
 			Tooltip: ""
 		}
 
 		AnodizedWulfrumWorkBench: {
-			DisplayName: Anodized Wulfrum Work Bench
+			DisplayName: アルマイトウルフラムの作業台
 			Tooltip: ""
 		}
 
 		RoundedAnodizedWulfrumPanels: {
-			DisplayName: Rounded Anodized Wulfrum Panels
+			DisplayName: 丸みを帯びたアルマイトウルフラムのパネル
 			Tooltip: ""
 		}
 
@@ -23039,7 +23039,7 @@ Items: {
 		}
 
 		PolishedNavystoneBrick: {
-			DisplayName: Polished Navystone Brick
+			DisplayName: 磨かれたネイビーストーンのレンガ
 			Tooltip: ""
 		}
 
@@ -23109,7 +23109,7 @@ Items: {
 		}
 
 		TableCoralLeft: {
-			DisplayName: Table Coral
+			DisplayName: テーブルサンゴ
 			Tooltip: ""
 		}
 
@@ -23149,7 +23149,7 @@ Items: {
 		}
 
 		AncientSmoothNavystoneWall: {
-			DisplayName: 古代のSmooth Navystone Wall
+			DisplayName: 古代の滑らかなネイビーストーンの壁
 			Tooltip: ""
 		}
 
@@ -23269,7 +23269,7 @@ Items: {
 		}
 
 		AnodizedWulfrumTrimWall: {
-			DisplayName: Anodized Wulfrum Trim Wall
+			DisplayName: アルマイトウルフラムの縁材の壁
 			Tooltip: ""
 		}
 
@@ -23389,7 +23389,7 @@ Items: {
 		}
 
 		RoundedAnodizedWulfrumPanelWall: {
-			DisplayName: Rounded Anodized Wulfrum Panel Wall
+			DisplayName: Rounded アルマイトウルフラム Panel Wall
 			Tooltip: ""
 		}
 
@@ -23439,7 +23439,7 @@ Items: {
 		}
 
 		SmoothNavystoneWall: {
-			DisplayName: 滑らかなネイビーストンの壁
+			DisplayName: 滑らかなネイビーストーンの壁
 			Tooltip: ""
 		}
 
