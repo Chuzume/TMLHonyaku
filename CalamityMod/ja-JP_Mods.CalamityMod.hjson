@@ -1114,7 +1114,7 @@ Tiles: {
 	Sconce: 壁掛け燭台
 	PipeOrgan: パイプオルガン
 	LavaFountain: 溶岩噴泉
-	Basin: シンク
+	Basin: 火鉢
 	PirateCrate: 放棄された箱
 	Stalactite: スタラクタイト
 	Stalagmite: スタラグマイト
@@ -20561,7 +20561,7 @@ Items: {
 		}
 
 		AncientBasin: {
-			DisplayName: 古代のシンク
+			DisplayName: 古代の火鉢
 			Tooltip: ""
 		}
 
@@ -20650,7 +20650,7 @@ Items: {
 		}
 
 		AshenBasin: {
-			DisplayName: 灰のシンク
+			DisplayName: 灰の火鉢
 			Tooltip: ""
 		}
 
@@ -20925,7 +20925,7 @@ Items: {
 		}
 
 		CosmiliteBasin: {
-			DisplayName: コズミライトシンク
+			DisplayName: コズミライトの火鉢
 			Tooltip: ""
 		}
 
@@ -22149,7 +22149,7 @@ Items: {
 		}
 
 		SilvaBasin: {
-			DisplayName: Silva Basin
+			DisplayName: シルヴァの火鉢
 			Tooltip: ""
 		}
 
