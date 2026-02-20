@@ -19911,12 +19911,12 @@ Items: {
 		}
 
 		AbyssFountainItem: {
-			DisplayName: 深淵の間欠泉
+			DisplayName: 深淵の噴水
 			Tooltip: ""
 		}
 
 		AstralFountainItem: {
-			DisplayName: アストラルの間欠泉
+			DisplayName: アストラルの噴水
 			Tooltip: ""
 		}
 
@@ -19926,12 +19926,12 @@ Items: {
 		}
 
 		SulphurousFountainItem: {
-			DisplayName: 硫黄水の間欠泉
+			DisplayName: 硫黄水の噴水
 			Tooltip: ""
 		}
 
 		SunkenSeaFountain: {
-			DisplayName: 沈没海の間欠泉
+			DisplayName: 沈没海の噴水
 			Tooltip: ""
 		}
 
