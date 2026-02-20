@@ -22662,7 +22662,7 @@ Items: {
 		}
 
 		WulfrumSheets: {
-			DisplayName: ウルフラムトタン
+			DisplayName: Wulfrum Sheets
 			Tooltip: ""
 		}
 
@@ -23512,7 +23512,7 @@ Items: {
 		}
 
 		WulfrumSheetWall: {
-			DisplayName: ウルフラムトタンの壁
+			DisplayName: Wulfrum Sheet Wall
 			Tooltip: ""
 		}
 
