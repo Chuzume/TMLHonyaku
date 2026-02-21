@@ -20356,8 +20356,8 @@ Items: {
 		}
 
 		ZenithThrone: {
-			DisplayName: 至高の玉座
-			Tooltip: 「遊びは終わりだ、残るのはDPSだけ...」
+			DisplayName: ゼニス玉座
+			Tooltip: 「遊びは終わり、あとはDPSだけだ…」
 		}
 
 		AbyssBathtub: {
