@@ -19617,7 +19617,7 @@ Items: {
 		}
 
 		AbyssTreasureChest: {
-			DisplayName: 古代のトレジャーチェスト
+			DisplayName: 古代の宝箱
 			Tooltip: ""
 		}
 
@@ -19632,7 +19632,7 @@ Items: {
 		}
 
 		AstralChest: {
-			DisplayName: アストラルチェスト
+			DisplayName: アストラルの宝箱
 			Tooltip: ""
 		}
 
@@ -20072,7 +20072,7 @@ Items: {
 		}
 
 		RustyChest: {
-			DisplayName: 錆びたチェスト
+			DisplayName: 錆びた宝箱
 			Tooltip: ""
 		}
 
@@ -21175,7 +21175,7 @@ Items: {
 		}
 
 		AncientNavystoneChest: {
-			DisplayName: 古代のネイビーストーンのチェスト
+			DisplayName: 古代のネイビーストーンの宝箱
 			Tooltip: ""
 		}
 
@@ -21275,7 +21275,7 @@ Items: {
 		}
 
 		NavystoneChest: {
-			DisplayName: ネイビーストーンのチェスト
+			DisplayName: ネイビーストーンの宝箱
 			Tooltip: ""
 		}
 
@@ -21485,7 +21485,7 @@ Items: {
 		}
 
 		MarniteChest: {
-			DisplayName: マーナイトのチェスト
+			DisplayName: マーナイトの宝箱
 			Tooltip: ""
 		}
 
@@ -22724,7 +22724,7 @@ Items: {
 		}
 
 		AnodizedWulfrumChest: {
-			DisplayName: アルマイトウルフラムのチェスト
+			DisplayName: アルマイトウルフラムの宝箱
 			Tooltip: ""
 		}
 
