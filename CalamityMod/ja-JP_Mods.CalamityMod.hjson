@@ -22026,7 +22026,7 @@ Items: {
 
 		LargeRitualCandle: {
 			DisplayName: 大きな儀式の蝋燭
-			Tooltip: <right> を押して別のスブロックで配置する
+			Tooltip: <right> を押して別のスタイルで配置する
 		}
 
 		MonolithOfTheAccursed: {
@@ -22055,7 +22055,7 @@ Items: {
 
 		RitualCandle: {
 			DisplayName: 儀式の蝋燭
-			Tooltip: <right> を押して別のスブロックで配置する
+			Tooltip: <right> を押して別のスタイルで配置する
 		}
 
 		SacrilegiousBathtub: {
