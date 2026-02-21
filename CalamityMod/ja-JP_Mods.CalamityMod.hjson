@@ -19661,7 +19661,7 @@ Items: {
 		}
 
 		BabyGhostBellJar: {
-			DisplayName: ベビーゴーストベルジャー
+			DisplayName: ベビーゴーストベル入りの瓶
 			Tooltip: ""
 		}
 
@@ -20077,7 +20077,7 @@ Items: {
 		}
 
 		SeaMinnowJar: {
-			DisplayName: シーミノーの瓶
+			DisplayName: シーミノー入りの瓶
 			Tooltip: ""
 		}
 
