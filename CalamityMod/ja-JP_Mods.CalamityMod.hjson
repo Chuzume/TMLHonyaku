@@ -20351,7 +20351,7 @@ Items: {
 			DisplayName: ウルフラム誘引装置
 			Tooltip:
 				'''
-				"[i:CalamityMod/EnergyCore] エナジーコアを消費し、ウルフラムオートマトンを誘い出すウルフラム信号を発する"
+				"[i:CalamityMod/EnergyCore] エネルギーコアを消費し、ウルフラムのロボットたちを誘い出すウルフラム信号を発する"
 				信号は30秒間続く
 				'''
 		}
