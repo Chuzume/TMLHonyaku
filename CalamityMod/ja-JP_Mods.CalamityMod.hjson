@@ -19597,22 +19597,22 @@ Items: {
 		}
 
 		AlgalSlateItem: {
-			DisplayName: Algal Slate
+			DisplayName: 藻類の粘板岩
 			Tooltip: ""
 		}
 
 		PeatItem: {
-			DisplayName: Peat
+			DisplayName: 泥炭
 			Tooltip: ""
 		}
 
 		PeatMossItem: {
-			DisplayName: Peat Moss
+			DisplayName: ピートモス
 			Tooltip: ""
 		}
 
 		ScintillatingBloom: {
-			DisplayName: Scintillating Bloom
+			DisplayName: きらめく花
 			Tooltip: ""
 		}
 
