@@ -20347,7 +20347,7 @@ Items: {
 		}
 
 		WulfrumLureItem: {
-			DisplayName: ウルフラムのルアー
+			DisplayName: ウルフラム誘引装置
 			Tooltip:
 				'''
 				"[i:CalamityMod/EnergyCore] エナジーコアを消費し、ウルフラムオートマトンを誘い出すウルフラム信号を発する"
