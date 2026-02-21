@@ -20428,7 +20428,7 @@ Items: {
 
 		AbyssSink: {
 			DisplayName: 深淵のシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		AbyssSofa: {
@@ -20543,7 +20543,7 @@ Items: {
 
 		AcidwoodSink: {
 			DisplayName: アシッドウッドのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		AcidwoodTable: {
@@ -21017,7 +21017,7 @@ Items: {
 
 		CosmiliteSink: {
 			DisplayName: コズミライトシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		CosmiliteSofa: {
@@ -21217,7 +21217,7 @@ Items: {
 
 		AncientNavystoneSink: {
 			DisplayName: 古代のネイビーストーンのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		AncientNavystoneTable: {
@@ -21317,7 +21317,7 @@ Items: {
 
 		NavystoneSink: {
 			DisplayName: ネイビーストーンのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		NavystoneTable: {
@@ -21687,7 +21687,7 @@ Items: {
 
 		MonolithSink: {
 			DisplayName: モノリスのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		MonolithTable: {
@@ -21777,7 +21777,7 @@ Items: {
 
 		OtherworldlySink: {
 			DisplayName: 異世界のシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		OtherworldlySofa: {
@@ -21887,7 +21887,7 @@ Items: {
 
 		PlaguedPlateSink: {
 			DisplayName: 感染したシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		PlaguedPlateSofa: {
@@ -22241,7 +22241,7 @@ Items: {
 
 		SilvaSink: {
 			DisplayName: シルヴァのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		SilvaTable: {
@@ -22341,7 +22341,7 @@ Items: {
 
 		StatigelSink: {
 			DisplayName: 浄化ジェルのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		StatigelSofa: {
@@ -22441,7 +22441,7 @@ Items: {
 
 		StratusSink: {
 			DisplayName: ストラトスのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		StratusSofa: {
@@ -22546,7 +22546,7 @@ Items: {
 
 		VoidSink: {
 			DisplayName: 虚空のシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		VoidSofa: {
@@ -22771,7 +22771,7 @@ Items: {
 
 		AnodizedWulfrumSink: {
 			DisplayName: アルマイトウルフラムのシンク
-			Tooltip: 水源としてカウントされる
+			Tooltip: 水源として扱われる
 		}
 
 		AnodizedWulfrumSleepingPod: {
