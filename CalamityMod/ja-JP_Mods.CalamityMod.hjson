@@ -22994,7 +22994,7 @@ Items: {
 		}
 
 		Stohne: {
-			DisplayName: Stohne
+			DisplayName: ストーヌ
 			Tooltip: ""
 		}
 
@@ -23014,7 +23014,7 @@ Items: {
 		}
 
 		Basalt: {
-			DisplayName: Basalt
+			DisplayName: 玄武岩
 			Tooltip: ""
 		}
 
@@ -23024,7 +23024,7 @@ Items: {
 		}
 
 		Dunesand: {
-			DisplayName: Dunesand
+			DisplayName: デューンサンド
 			Tooltip: ""
 		}
 
@@ -23034,7 +23034,7 @@ Items: {
 		}
 
 		Shellstone: {
-			DisplayName: Shellstone
+			DisplayName: 貝石
 			Tooltip: ""
 		}
 
@@ -23044,67 +23044,67 @@ Items: {
 		}
 
 		ShellstoneSlab: {
-			DisplayName: Shellstone Slab
+			DisplayName: 貝石の平石
 			Tooltip: ""
 		}
 
 		BlackPearlPile: {
-			DisplayName: Black Pearl Pile
+			DisplayName: 黒い真珠の山
 			Tooltip: ""
 		}
 
 		PinkPearlPile: {
-			DisplayName: Pink Pearl Pile
+			DisplayName: ピンクの真珠の山
 			Tooltip: ""
 		}
 
 		WhitePearlPile: {
-			DisplayName: White Pearl Pile
+			DisplayName: 白い真珠の山
 			Tooltip: ""
 		}
 
 		CyanCoral: {
-			DisplayName: Cyan Coral
+			DisplayName: シアンサンゴ
 			Tooltip: ""
 		}
 
 		MagentaCoral: {
-			DisplayName: Magenta Coral
+			DisplayName: マゼンタサンゴ
 			Tooltip: ""
 		}
 
 		OrangeCoral: {
-			DisplayName: Orange Coral
+			DisplayName: オレンジサンゴ
 			Tooltip: ""
 		}
 
 		LimeCoral: {
-			DisplayName: Lime Coral
+			DisplayName: ライムサンゴ
 			Tooltip: ""
 		}
 
 		YellowCoral: {
-			DisplayName: Yellow Coral
+			DisplayName: キイロサンゴ
 			Tooltip: ""
 		}
 
 		Runestone: {
-			DisplayName: Runestone
+			DisplayName: ルーンストーン
 			Tooltip: ""
 		}
 
 		RuneSand: {
-			DisplayName: Runesand
+			DisplayName: ルーンサンド
 			Tooltip: ""
 		}
 
 		Limestone: {
-			DisplayName: Limestone
+			DisplayName: ライムストーン
 			Tooltip: ""
 		}
 
 		PolypSand: {
-			DisplayName: Polyp Sand
+			DisplayName: ポリプの砂
 			Tooltip: ""
 		}
 
@@ -23114,7 +23114,7 @@ Items: {
 		}
 
 		VolcanicSand: {
-			DisplayName: Volcanic Sand
+			DisplayName: 火山の砂
 			Tooltip: ""
 		}
 
@@ -23279,7 +23279,7 @@ Items: {
 		}
 
 		DriftwoodWall: {
-			DisplayName: 流木のWall
+			DisplayName: 流木の壁
 			Tooltip: ""
 		}
 
@@ -23289,7 +23289,7 @@ Items: {
 		}
 
 		EutrophicGlassWall: {
-			DisplayName: Eutrophic Glass Wall
+			DisplayName: 富養のガラスの壁
 			Tooltip: ""
 		}
 
@@ -23324,7 +23324,7 @@ Items: {
 		}
 
 		LimestoneWall: {
-			DisplayName: Limestone Wall
+			DisplayName: ライムストーンの壁
 			Tooltip: ""
 		}
 
@@ -23384,17 +23384,17 @@ Items: {
 		}
 
 		PyreMantleWall: {
-			DisplayName: Pyre Mantle Wall
+			DisplayName: 火殻岩の壁
 			Tooltip: ""
 		}
 
 		RoundedAnodizedWulfrumPanelWall: {
-			DisplayName: Rounded アルマイトウルフラム Panel Wall
+			DisplayName: 丸みを帯びたアルマイトウルフラムパネルの壁
 			Tooltip: ""
 		}
 
 		RunestoneWall: {
-			DisplayName: Runestone Wall
+			DisplayName: ルーンストーンの壁
 			Tooltip: ""
 		}
 
@@ -23414,12 +23414,12 @@ Items: {
 		}
 
 		ShellstoneSlabWall: {
-			DisplayName: Shellstone Slab Wall
+			DisplayName: 貝石の平石の壁
 			Tooltip: ""
 		}
 
 		ShellstoneWall: {
-			DisplayName: Shellstone Wall
+			DisplayName: 貝石の壁
 			Tooltip: ""
 		}
 
@@ -23622,177 +23622,177 @@ Items: {
 		}
 
 		CagedLablightItem: {
-			DisplayName: Caged Lablight
+			DisplayName: ラボライト
 			Tooltip: ""
 		}
 
 		AgedLablightItem: {
-			DisplayName: Aged Lablight
+			DisplayName: 古びたラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedLablightItem: {
-			DisplayName: Mini Caged Lablight
+			DisplayName: 小さなラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedLablightItem: {
-			DisplayName: Mini Aged Lablight
+			DisplayName: 小さな古びたラボライト
 			Tooltip: ""
 		}
 
 		CagedCinderlightItem: {
-			DisplayName: Caged Cinderlight
+			DisplayName: シンダーラボライト
 			Tooltip: ""
 		}
 
 		AgedCinderlightItem: {
-			DisplayName: Aged Cinderlight
+			DisplayName: 古びたシンダーラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedCinderlightItem: {
-			DisplayName: Mini Caged Cinderlight
+			DisplayName: 小さなシンダーラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedCinderlightItem: {
-			DisplayName: Mini Aged Cinderlight
+			DisplayName: 小さな古びたシンダーラボライト
 			Tooltip: ""
 		}
 
 		CagedFlamelightItem: {
-			DisplayName: Caged Flamelight
+			DisplayName: フレイムラボライト
 			Tooltip: ""
 		}
 
 		AgedFlamelightItem: {
-			DisplayName: Aged Flamelight
+			DisplayName: 古びたフレイムラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedFlamelightItem: {
-			DisplayName: Mini Caged Flamelight
+			DisplayName: 小さなフレイムラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedFlamelightItem: {
-			DisplayName: Mini Aged Flamelight
+			DisplayName: 小さな古びたフレイムラボライト
 			Tooltip: ""
 		}
 
 		CagedFrostlightItem: {
-			DisplayName: Caged Frostlight
+			DisplayName: フロストラボライト
 			Tooltip: ""
 		}
 
 		AgedFrostlightItem: {
-			DisplayName: Aged Frostlight
+			DisplayName: 古びたフロストラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedFrostlightItem: {
-			DisplayName: Mini Caged Frostlight
+			DisplayName: 小さなフロストラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedFrostlightItem: {
-			DisplayName: Mini Aged Frostlight
+			DisplayName: 小さな古びたフロストラボライト
 			Tooltip: ""
 		}
 
 		CagedBiolightItem: {
-			DisplayName: Caged Biolight
+			DisplayName: バイオラボライト
 			Tooltip: ""
 		}
 
 		AgedBiolightItem: {
-			DisplayName: Aged Biolight
+			DisplayName: 古びたバイオラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedBiolightItem: {
-			DisplayName: Mini Caged Biolight
+			DisplayName: 小さなバイオラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedBiolightItem: {
-			DisplayName: Mini Aged Biolight
+			DisplayName: 小さな古びたバイオラボライト
 			Tooltip: ""
 		}
 
 		CagedBlacklightItem: {
-			DisplayName: Caged Blacklight
+			DisplayName: ブラックラボライト
 			Tooltip: ""
 		}
 
 		AgedBlacklightItem: {
-			DisplayName: Aged Blacklight
+			DisplayName: 古びたブラックラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedBlacklightItem: {
-			DisplayName: Mini Caged Blacklight
+			DisplayName: 小さなブラックラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedBlacklightItem: {
-			DisplayName: Mini Aged Blacklight
+			DisplayName: 小さな古びたブラックラボライト
 			Tooltip: ""
 		}
 
 		CagedFloodlightItem: {
-			DisplayName: Caged Floodlight
+			DisplayName: フラッドラボライト
 			Tooltip: ""
 		}
 
 		AgedFloodlightItem: {
-			DisplayName: Aged Floodlight
+			DisplayName: 古びたフラッドラボライト
 			Tooltip: ""
 		}
 
 		MiniCagedFloodlightItem: {
-			DisplayName: Mini Caged Floodlight
+			DisplayName: 小さなフラッドラボライト
 			Tooltip: ""
 		}
 
 		MiniAgedFloodlightItem: {
-			DisplayName: Mini Aged Floodlight
+			DisplayName: 小さな古びたフラッドラボライト
 			Tooltip: ""
 		}
 
 		AridSoil: {
-			DisplayName: Arid Soil
+			DisplayName: 乾いた土壌
 			Tooltip: ""
 		}
 
 		RunestoneTerracotta: {
-			DisplayName: Runestone Terracotta
+			DisplayName: ルーンストーンのテラコッタ
 			Tooltip: ""
 		}
 
 		ShellTrimBrick: {
-			DisplayName: Shell Trim Brick
+			DisplayName: 貝の縁材レンガ
 			Tooltip: ""
 		}
 
 		ShellTrimBrickWall: {
-			DisplayName: Shell Trim Brick Wall
+			DisplayName: 貝の縁材レンガの壁
 			Tooltip: ""
 		}
 
 		BasaltSlab: {
-			DisplayName: Basalt Slab
+			DisplayName: 玄武岩の平石
 			Tooltip: ""
 		}
 
 		UnsafeNavystoneWall: {
-			DisplayName: Unsafe Navystone Wall
+			DisplayName: 危険なネイビーストーンの壁
 			Tooltip: ""
 		}
 
 		MossyStone: {
-			DisplayName: Mossy Stone
+			DisplayName: 苔むした石
 			Tooltip: ""
 		}
 
