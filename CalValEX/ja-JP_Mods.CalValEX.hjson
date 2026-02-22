@@ -1069,7 +1069,7 @@ Items: {
 	}
 
 	CrystalFlyItem: {
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 		Tooltip: ""
 	}
 
@@ -1134,7 +1134,7 @@ Items: {
 	}
 
 	ProvFlyItem: {
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 		Tooltip: ""
 	}
 
@@ -1497,7 +1497,7 @@ Items: {
 	}
 
 	ProfanedCultistMask: {
-		DisplayName: 冒涜された信者のマスク
+		DisplayName: 冒涜されし信者のマスク
 		Tooltip: ""
 	}
 
@@ -1642,7 +1642,7 @@ Items: {
 
 	ProviCrystal: {
 		DisplayName: アンホーリーチャーム
-		Tooltip: 冒涜された女神から贈られた希少な宝物
+		Tooltip: 冒涜されし女神から贈られた希少な宝物
 	}
 
 	RapturedWormScarf: {
@@ -1764,7 +1764,7 @@ Items: {
 	}
 
 	ProfanedCultistRobes: {
-		DisplayName: 冒涜された信者のローブ
+		DisplayName: 冒涜されし信者のローブ
 		Tooltip: ""
 	}
 
@@ -1977,7 +1977,7 @@ Items: {
 	}
 
 	ProfanedEnergyHook: {
-		DisplayName: 冒涜されたフック
+		DisplayName: 冒涜されしフック
 		Tooltip:
 			'''
 			「聖なる鎖なんてクソくらえだ」
@@ -1988,7 +1988,7 @@ Items: {
 	}
 
 	ProfanedHook: {
-		DisplayName: 冒涜されたフック
+		DisplayName: 冒涜されしフック
 	}
 
 	RavaHook: {
@@ -2278,21 +2278,21 @@ Items: {
 
 	ProfanedBattery: {
 		DisplayName: 聖なるクリスタルコア
-		Tooltip: 冒涜された守護者のエネルギーが込められたコア
+		Tooltip: 冒涜されし守護者のエネルギーが込められたコア
 	}
 
 	ProfanedCycleItem: {
-		DisplayName: 冒涜されたバイク
+		DisplayName: 冒涜されしバイク
 		Tooltip:
 			'''
-			乗ることができる冒涜されたバイクを召喚する
+			乗ることができる冒涜されしバイクを召喚する
 			ボスが近くにいるとヘルスとダメージが劇的に減少する 
 			「スタイリッシュに移動したいときに」
 			'''
 	}
 
 	ProfanedFrame: {
-		DisplayName: 冒涜されたフレーム
+		DisplayName: 冒涜されしフレーム
 		Tooltip: 何かしらの古代のパーツ
 	}
 
@@ -2907,7 +2907,7 @@ Items: {
 		DisplayName: フレアルーン
 		Tooltip:
 			'''
-			冒涜的な宇宙のエネルギーを注がれ、次元的上昇を果たした冒涜された守護者、アヴァロンを召喚する
+			冒涜的な宇宙のエネルギーを注がれ、次元的上昇を果たした冒涜されし守護者、アヴァロンを召喚する
 			「ウォウ」
 			'''
 	}
@@ -3029,7 +3029,7 @@ Items: {
 	}
 
 	ProfanedChewToy: {
-		DisplayName: 冒涜された玩具
+		DisplayName: 冒涜されし玩具
 		Tooltip:
 			'''
 			邪悪な革新的野郎を召喚する
@@ -4257,7 +4257,7 @@ Items: {
 	}
 
 	UnholyMonolith: {
-		DisplayName: 冒涜された噴水
+		DisplayName: 冒涜されし噴水
 		Tooltip: 「いや、水の色は変わらないよ」
 	}
 
@@ -4841,7 +4841,7 @@ Items: {
 	}
 
 	Provibust: {
-		DisplayName: 冒涜された偶像
+		DisplayName: 冒涜されし偶像
 		Tooltip: 「あなたのためなら死ねます、主よ」
 	}
 
@@ -5089,8 +5089,8 @@ Items: {
 	}
 
 	ProvidenceAltar: {
-		DisplayName: 冒涜された女神のコアホルダー
-		Tooltip: 冒涜された女神のコアを保持している
+		DisplayName: 冒涜されし女神のコアホルダー
+		Tooltip: 冒涜されし女神のコアを保持している
 	}
 
 	PolterCable: {
@@ -5805,7 +5805,7 @@ NPCs: {
 	}
 
 	CrystalFly: {
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 	}
 
 	Eyedol: {
@@ -5861,7 +5861,7 @@ NPCs: {
 	}
 
 	ProvFly: {
-		DisplayName: 冒涜された蝶
+		DisplayName: 冒涜されし蝶
 	}
 
 	SandTurtle: {
