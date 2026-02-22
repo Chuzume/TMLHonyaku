@@ -80,11 +80,11 @@ Buffs: {
 	}
 
 	AuricTeslaBuff: {
-		DisplayName: オーリックのTesla
+		DisplayName: オーリック・テスラ
 		Description:
 			'''
-			Yharim Car
-			Yharim Car
+			ヤリムのクルマ
+			ヤリムのクルマ
 			'''
 	}
 
@@ -2190,12 +2190,12 @@ Items: {
 	}
 
 	AuricCarKey: {
-		DisplayName: オーリックカーの鍵
+		DisplayName: オーリックの車の鍵
 		Tooltip:
 			'''
-			乗ることができるオーリックテスラを召喚する
+			乗ることができるオーリック・テスラを召喚する
 			ボスが近くにいるとヘルスとダメージがすごく減少する
-			「ヤリムカー」
+			「ヤリムのクルマ」
 			'''
 	}
 
