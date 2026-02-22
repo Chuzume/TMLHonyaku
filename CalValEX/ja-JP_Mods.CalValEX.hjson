@@ -1209,7 +1209,7 @@ Items: {
 
 	AuricBalloon: {
 		DisplayName: オーリック風船
-		Tooltip: 「これのために他の風船を入手しなかった君はラッキーだ。」
+		Tooltip: 「もう他の風船を手に入れなくて良くなったんだから、ラッキーだよ」
 	}
 
 	BoB2: {
@@ -1309,20 +1309,19 @@ Items: {
 
 	YharimCapeBaby: {
 		DisplayName: オーリックマント
-		Tooltip: 「全然本物じゃない。子どものオモチャみたい」
+		Tooltip: 「こんなの本物じゃない。子どものオモチャみたい」
 	}
 
 	DraedonHelmet: {
 		DisplayName: アーセナルソルジャーのヘルメット
 		Tooltip:
 			'''
-			所持しているアイテムのダメージタイプによって見た目が変わる
-			現在不安定
+            持っているアイテムのダメージタイプによって見た目が変わる
 			'''
 	}
 
 	Aestheticrown: {
-		DisplayName: エステクレスト
+		DisplayName: エステティトサカ
 		Tooltip: ビテキちゃん
 	}
 
@@ -1383,12 +1382,12 @@ Items: {
 
 	ClamMask: {
 		DisplayName: クラミタスの帽子
-		Tooltip: タイプミスだよな？
+		Tooltip: タイプミス？
 	}
 
 	CoralMask: {
 		DisplayName: げっぷサンゴのマスク
-		Tooltip: 塩漬け脳みそフル回転
+		Tooltip: しょっぱい発想
 	}
 
 	CosmicCone: {
@@ -1413,12 +1412,12 @@ Items: {
 
 	DevilfishMask1: {
 		DisplayName: ねじれたデビルフィッシュのマスク
-		Tooltip: エッジが効いている
+		Tooltip: イケてる
 	}
 
 	DevilfishMask2: {
 		DisplayName: とがったデビルフィッシュのマスク
-		Tooltip: すごくエッジが効いている
+		Tooltip: すっごくイケてる
 	}
 
 	DevilfishMask3: {
@@ -1447,7 +1446,7 @@ Items: {
 	}
 
 	FlakHeadCrab: {
-		DisplayName: フラックヘッドクラブ
+		DisplayName: ヘッドヤドカリ
 		Tooltip: 寄生されている気がする
 	}
 
@@ -1478,7 +1477,7 @@ Items: {
 
 	OmegaBlue: {
 		DisplayName: 古代のオメガブルーの兜
-		Tooltip: お前みたいなワームなんて眼中にないぜ！
+		Tooltip: 竜よ、お前は我が眼中に置くに足りぬ！
 	}
 
 	OracleBeanie: {
@@ -1533,35 +1532,32 @@ Items: {
 
 	StonePile: {
 		DisplayName: 石柱
-		Tooltip: 「頭が強くないと被れない」
+		Tooltip: 「頭を使わないと被れない」
 	}
 
 	TerminalMask: {
 		DisplayName: 終着点の仮面
 		Tooltip:
 			'''
-			この忘却されし神の目を通して、
-			流血と混乱の中、あなたは新たな視点を得た
+			この忘却されし神の目を通して物を見るのだ
+			流血と混乱の中、新たな視点を得るだろう
 			'''
 	}
 
 	TrueCosmicCone: {
 		DisplayName: 真・コズミックコーン
-		Tooltip: "「次元すら突き抜けられるほどに尖った宇宙的にデカい帽子」 "
+		Tooltip: "「次元を貫くほどに尖った、宇宙的にデカい帽子」"
 	}
 
 	UnloadedHelm: {
 		DisplayName: アンロードヘルム
-		Tooltip: まだ臭い
+		Tooltip: まだ臭う
 	}
 
 	DraedonLeggings: {
 		DisplayName: アーセナルソルジャーのレギンス
 		Tooltip:
 			'''
-			現在不安定
-			まぁ、そうだな、他の部位のような機能はこれにはない。
-			だが、これ無しで他の部位を使うわけにもいかないだろう？
 			'''
 	}
 
@@ -1606,8 +1602,8 @@ Items: {
 	}
 
 	SignusNether: {
-		DisplayName: 冥界の精神
-		Tooltip: ダークな下半身
+		DisplayName:  冥界の意志
+		Tooltip: ダーク下半身
 	}
 
 	TerrorLegs: {
@@ -1622,7 +1618,7 @@ Items: {
 
 	BloodwormScarf: {
 		DisplayName: ブラッドワームのスカーフ
-		Tooltip: 血みどろな生物が君の首に穴を空けようとしているぞ！
+		Tooltip: 血まみれの生物が君の首に穴を空けようとしている！
 	}
 
 	CosmicWormScarf: {
@@ -1631,8 +1627,8 @@ Items: {
 	}
 
 	DesertMedallion: {
-		DisplayName: お手頃価格のデザートメダリオン
-		Tooltip: もう一個の方は呪われてて装備できないので
+		DisplayName: お手頃価格の砂漠のメダリオン
+		Tooltip: もう一個の方は呪われてて装備できないから
 	}
 
 	PermaScarf: {
@@ -1647,7 +1643,7 @@ Items: {
 
 	RapturedWormScarf: {
 		DisplayName: ラプチャードワームスカーフ
-		Tooltip: 現実を捻じ曲げるほどにスタイリッシュ！
+		Tooltip: 世界の理が捻じ曲がるほどにスタイリッシュ！
 	}
 
 	SignusEmblem: {
@@ -1662,12 +1658,12 @@ Items: {
 
 	UniversalWormScarf: {
 		DisplayName: ユニバーサルワームスカーフ
-		Tooltip: 「現実を捻じ曲げなくたって万物は喰らえる」
+		Tooltip: 「万物を喰らえ、世界の理を捻じ曲げずに」
 	}
 
 	YharonShackle: {
 		DisplayName: ヤーロンの足枷
-		Tooltip: ギリギリ入るな…
+		Tooltip: かろうじてサイズが合っている…
 	}
 
 	AureusShield: {
@@ -1677,12 +1673,12 @@ Items: {
 
 	EarthShield: {
 		DisplayName: アースエレメンタルの大盾
-		Tooltip: 「頑丈そうに見えるが、実は柔らかい石で出来ているぞ！」
+		Tooltip: 「一見頑丈そうだが、実は柔らかい石で出来ている！」
 	}
 
 	TrilobiteShield: {
-		DisplayName: トリロバックラー
-		Tooltip: 「古すぎて役に立たない古代の盾」
+		DisplayName: 三葉虫の小盾
+		Tooltip: 「攻撃を防ぐには古びすぎた、古代の盾」
 	}
 
 	AresChestplate: {
@@ -1698,8 +1694,7 @@ Items: {
 		DisplayName: アーセナルソルジャーのチェストプレート
 		Tooltip:
 			'''
-			所持しているアイテムのダメージタイプによって見た目が変わる
-			現在不安定
+			持っているアイテムのダメージタイプによって見た目が変わる
 			'''
 	}
 
@@ -1770,7 +1765,7 @@ Items: {
 
 	ReaperSharkArms: {
 		DisplayName: リーパーシャークの腕
-		Tooltip: ジム通いがこんなに簡単だったとはな！
+		Tooltip: ジム通いがこんなに簡単になったなんて！
 	}
 
 	BurningEye: {
@@ -1784,12 +1779,12 @@ Items: {
 	}
 
 	ProtoRing: {
-		DisplayName: プロトタイプリング
+		DisplayName: 試作型リング
 		Tooltip: 装備者を小さなロボに変身させる
 	}
 
 	SandyBangles: {
-		DisplayName: サンドバングル
+		DisplayName: 砂の腕輪
 		Tooltip: 装備者を砂で包む
 	}
 
@@ -1828,7 +1823,7 @@ Items: {
 		DisplayName: 神速のブースター
 		Tooltip:
 			'''
-			「信心深い推進力！」
+			「信心深い上昇力！」
 			水平速度 9
 			加速倍率: 2.7
 			飛行可能時間: 200 
@@ -1861,7 +1856,7 @@ Items: {
 		DisplayName: 虚空化された翼
 		Tooltip:
 			'''
-			「文字通り闇から得たもの」
+			「文字通り、闇から取り出したもの」
 			水平速度 9
 			加速倍率: 2.5
 			飛行可能時間: 250 
@@ -1872,7 +1867,7 @@ Items: {
 		DisplayName: オールドデュークの翼
 		Tooltip:
 			'''
-			「毒々しい推進力！」
+			「毒々しい上昇力！」
 			水平速度 9.5
 			加速倍率: 2.7
 			飛行可能時間: 190 
@@ -1883,7 +1878,7 @@ Items: {
 		DisplayName: ベルゼブブースター
 		Tooltip:
 			'''
-			「そして彼らはなぜハチが飛び立てるのかを疑問に思った」
+			「蜂がどうやって飛ぶのか、不思議がる人もいるらしい…」
 			水平速度 7.8
 			加速倍率: 1.9
 			飛行可能時間: 170 
@@ -1916,8 +1911,8 @@ Items: {
 		DisplayName: 終着点の翼
 		Tooltip:
 			'''
-			死と破壊を経て新たな高みへと到達する
-			この混乱の蝶の翼で
+			死と滅びの果てに、
+			狂乱の蝶はさらなる高みへと翔ぶ
 			水平速度 1
 			加速倍率: 1
 			飛行可能時間: 60 
@@ -1936,7 +1931,7 @@ Items: {
 	}
 
 	WulfrumHelipack: {
-		DisplayName: ウルフラムヘリパック
+		DisplayName: ウルフラムヘリブースター
 		Tooltip:
 			'''
 			欠陥だらけ
@@ -1950,7 +1945,7 @@ Items: {
 		DisplayName: クラグモーの脊椎フック
 		Tooltip:
 			'''
-			「先史時代のひっぱり！」
+			「先史時代の牽引力！」
 			リーチ: 31
 			発射速度: 18
 			引っ張り速度: 17 
@@ -1962,10 +1957,10 @@ Items: {
 	}
 
 	PolterHook: {
-		DisplayName: ガーストリィチェイン
+		DisplayName: 恐怖の鎖
 		Tooltip:
 			'''
-			「永遠に苦しむ魂たちにお前を引きずらせてやるぜ！」
+			「亡霊たちが君を引っ張ってくれる」
 			リーチ: 46
 			発射速度: 16
 			引っ張り速度: 20 
@@ -1980,7 +1975,7 @@ Items: {
 		DisplayName: 冒涜されしフック
 		Tooltip:
 			'''
-			「聖なる鎖なんてクソくらえだ」
+			「聖なる鎖がジャラジャラと鳴る」
 			リーチ: 37
 			発射速度: 16
 			引っ張り速度: 30 
@@ -2025,8 +2020,8 @@ Items: {
 		DisplayName: XM-ライトニングフック
 		Tooltip:
 			'''
-			「稲妻のごとき速さで伸びる！」
-			カオス状態になっている間は使えない
+			「稲妻のような速さで伸びる！」
+			カオス状態中は使えない
 			リーチ: 60
 			発射速度: 62
 			引っ張り速度: 35 
@@ -2066,7 +2061,7 @@ Items: {
 		Tooltip:
 			'''
 			あたりを照らす小さな採掘機を召喚する
-			注意: リペアユニットとペアリングすると過充電を起こします！
+			注意: リペアユニットとのペアリングで過充電を起こします！
 			'''
 	}
 
@@ -2153,7 +2148,7 @@ Items: {
 		Tooltip:
 			'''
 			ミニプロヴィデンスとその守護者を召喚する
-			「純粋なる怒りのみがそこにはある」
+			「純粋なる怒りのみがある」
 			深淵を大きな光で照らす 
 			'''
 	}
@@ -2184,7 +2179,7 @@ Items: {
 		Tooltip:
 			'''
 			試作型のウルフラムアンプリファイアーを召喚する
-			「ダイアルアップ音がうるさい」
+			「やかましいダイアルアップ音を鳴らしている」
 			深淵を小さな光で照らす 
 			'''
 	}
