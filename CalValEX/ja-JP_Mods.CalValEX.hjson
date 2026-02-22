@@ -899,7 +899,7 @@ Configs: {
 Bestiary: {
 	GoldenIsopod: 金色のオオグソクムシのようなきらめく生き物は、真っ暗な場所でも見つかるものだ。
 	GoldEyedol: 特別に作られた偶像で、霊に取り憑かれている。この構造物はかつて首都の支配者が使用していた。
-	GoldViolemur: 珍しい小動物の一種。金色のヴィオレムールは、他のヴィオレムールのリーダーだと言われている。
+	GoldViolemur: 珍しい小動物の一種。金色のヴィオレマーは、他のヴィオレマーのリーダーだと言われている。
 	Orthobab: 殻に覆われし者の新たな子孫。見かけは不格好だが、こういった生き物がいつか恐ろしいものに成長するのかもしれない。
 	ProvFly: 燃え盛る女神の力の半分を持つ蝶。
 	PerfoGrub: 小さなイモムシのような寄生虫で、高い防御力を持つパーフォレーターの悪しき子孫。コイツらを生かしておくのは危険だ！
@@ -907,9 +907,9 @@ Bestiary: {
 	OrthoceraApparition: いつか訪れる黙示録の前触れ。その警告を軽視してはいけない。
 	AstJR: 異星からやってきた知覚力を持つスライム。他のスライムと違って攻撃能力を持たない。
 	GAstJR: 異星からやってきた知覚力を持つスライム。他のスライムと違って攻撃能力を持たない。
-	Blightolemur: ヴィオレムールとはまた違った光スペクトルを持つ生き物。ブレアムールはその尻尾の模様を使って獲物を引き寄せながら、アストラルブライトの中で穏やかに遊ぶ。
+	Blightolemur: ヴィオレマーとはまた違った光スペクトルを持つ生き物。ブレアムールはその尻尾の模様を使って獲物を引き寄せながら、アストラルブライトの中で穏やかに遊ぶ。
 	PlagueFrog: 科学者によって解き放たれた疫病によって、不運にも敵意を持つ生き物だけでなく、カエルのような穏やかな生き物もその影響を受けた。
-	Violemur: 異星のウイルスの影響を受けた、好奇心旺盛な小さな哺乳類。ヴィオレムールは他の感染した他の生命体とは違い、ある程度の自我を保ち続けている。
+	Violemur: 異星のウイルスの影響を受けた、好奇心旺盛な小さな哺乳類。ヴィオレマーは他の感染した他の生命体とは違い、ある程度の自我を保ち続けている。
 	Swearshroom: 大きなカニの胞子は、宿主を倒されたことをよく思っていない。この邪悪なキノコは精神病的な傾向にあるが、完全に無害。
 	SandTurtle: 放射性の水によって活性化された恐ろしい生き物。
 	Xerocodile: ブラッドムーンの間にのみ現れる古代の爬虫類。それ以外の間に地上に出てくるにはあまりにも弱く、日光に晒されるのすら危険。
@@ -1099,7 +1099,7 @@ Items: {
 	}
 
 	GoldViolemurItem: {
-		DisplayName: 金色のヴィオレムール
+		DisplayName: 金色のヴィオレマー
 		Tooltip: ""
 	}
 
@@ -1149,7 +1149,7 @@ Items: {
 	}
 
 	ViolemurItem: {
-		DisplayName: ヴィオレムール
+		DisplayName: ヴィオレマー
 		Tooltip: ""
 	}
 
@@ -3429,7 +3429,7 @@ Items: {
 	}
 
 	ViolemurBanner: {
-		DisplayName: ヴィオレムールのバナー
+		DisplayName: ヴィオレマーのバナー
 		Tooltip: ""
 	}
 
@@ -3698,7 +3698,7 @@ Items: {
 	}
 
 	GoldViolemurMonolith: {
-		DisplayName: テラリウム（金色のヴィオレムール）
+		DisplayName: テラリウム（金色のヴィオレマー）
 		Tooltip: ""
 	}
 
@@ -3743,7 +3743,7 @@ Items: {
 	}
 
 	ViolemurMonolith: {
-		DisplayName: ヴィオレムールの止まり木
+		DisplayName: ヴィオレマーの止まり木
 		Tooltip: ""
 	}
 
@@ -4851,7 +4851,7 @@ Items: {
 	}
 
 	ViolemurStatue: {
-		DisplayName: ヴィオレムールの石像
+		DisplayName: ヴィオレマーの石像
 		Tooltip: ""
 	}
 
@@ -5829,7 +5829,7 @@ NPCs: {
 	}
 
 	GoldViolemur: {
-		DisplayName: 金色のヴィオレムール
+		DisplayName: 金色のヴィオレマー
 	}
 
 	Isopod: {
@@ -5877,7 +5877,7 @@ NPCs: {
 	}
 
 	Violemur: {
-		DisplayName: ヴィオレムール
+		DisplayName: ヴィオレマー
 	}
 
 	Xerocodile: {
